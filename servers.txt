@@ -236,3 +236,27 @@ MTU = 1280
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 AllowedIPs = 0.0.0.0/0, ::/0
 Endpoint = 8.47.69.90:500
+# Server: Server 19
+# Generated AmneziaWG Config
+[Interface]
+PrivateKey = NxT+hN0yrmJOgBDsz+x1xd/jW7PjCe5438r/8j8Na7g=
+Address = 172.16.0.2, 2606:4700:110:8091:7aaa:ff75:3bf6:69e6
+DNS = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+S1 = 0
+S2 = 0
+S3 = 0
+S4 = 0
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+I1 = <b 0xcd0000000101e1000034801975e409ed63150bbd15481c8266f00e0eedf00a93e583a47ad55b2ed1ad932ef724b38008173ba70c380c16ffcbc58dfd9bda>
+
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 8.34.70.2:1843
