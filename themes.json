@@ -1,0 +1,1596 @@
+{
+ "version": 1,
+ "themes": [
+  {
+   "id": "blue",
+   "name": "Blue",
+   "bg": [
+    "#BAE6FD",
+    "#7DD3FC",
+    "#38BDF8",
+    "#3B82F6"
+   ],
+   "accent1": "#7DD3FC",
+   "accent2": "#38BDF8",
+   "accentText": "#2563EB",
+   "cardTint": "#C9EDFC",
+   "darkCardText": false,
+   "pillBg": "#CCDDF9",
+   "pillText": "#FFFFFF",
+   "statusColor": "#E5E7EB",
+   "button": [
+    "#7DD3FC",
+    "#3B82F6",
+    "#1E40AF"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null,
+   "nameMy": "အပြာ"
+  },
+  {
+   "id": "pink",
+   "name": "Pink-Purple",
+   "bg": [
+    "#FBCFE8",
+    "#F5A9E0",
+    "#D8B4FE",
+    "#A78BFA"
+   ],
+   "accent1": "#D8B4FE",
+   "accent2": "#A78BFA",
+   "accentText": "#C026D3",
+   "cardTint": "#EDE9FE",
+   "darkCardText": false,
+   "pillBg": "#EEF2F7",
+   "pillText": "#B9BABC",
+   "statusColor": "#FCE7F3",
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null,
+   "nameMy": "ပန်းခရမ်း"
+  },
+  {
+   "id": "yellow",
+   "name": "Yellow-Orange",
+   "bg": [
+    "#FEF08A",
+    "#FDBA74",
+    "#F9A8D4",
+    "#A78BFA"
+   ],
+   "accent1": "#BF7471",
+   "accent2": "#A72C49",
+   "accentText": "#EA580C",
+   "cardTint": "#F6DDCB",
+   "darkCardText": false,
+   "pillBg": "#EEF2F7",
+   "pillText": "#B9BABC",
+   "statusColor": "#FEF3C7",
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null,
+   "nameMy": "အဝါလိမ္မော်"
+  },
+  {
+   "id": "gradient",
+   "name": "Gradient",
+   "bg": [
+    "#223077",
+    "#475675",
+    "#EDA247",
+    "#7E63CE"
+   ],
+   "accent1": "#EBB390",
+   "accent2": "#6B41A5",
+   "accentText": "#7C3AED",
+   "cardTint": "#ACCCD7",
+   "darkCardText": true,
+   "pillBg": "#DDD6FE",
+   "pillText": "#111827",
+   "statusColor": "#EDE9FE",
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null,
+   "nameMy": "Gradient"
+  },
+  {
+   "id": "gold",
+   "name": "Gold",
+   "bg": [
+    "#F7D476",
+    "#EFC25E",
+    "#E3AB4C",
+    "#EFD8AE"
+   ],
+   "accent1": "#ECB24F",
+   "accent2": "#A15D14",
+   "accentText": "#B45309",
+   "cardTint": "#DAA24F",
+   "darkCardText": false,
+   "pillBg": "#FDE68A",
+   "pillText": "#78350F",
+   "statusColor": "#FEF3C7",
+   "button": [
+    "#FDE07A",
+    "#E8B34B",
+    "#B97A12"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null,
+   "nameMy": "ရွှေ"
+  },
+  {
+   "id": "ice_blue",
+   "name": "Ice Blue",
+   "bg": [
+    "#E0F2FE",
+    "#BAE6FD",
+    "#7DD3FC",
+    "#38BDF8"
+   ],
+   "accent1": "#7DD3FC",
+   "accent2": "#0284C7",
+   "accentText": "#0369A1",
+   "cardTint": "#E0F2FE",
+   "darkCardText": false,
+   "pillBg": "#E0F2FE",
+   "pillText": "#0369A1",
+   "statusColor": "#0369A1",
+   "button": [
+    "#BAE6FD",
+    "#38BDF8",
+    "#0369A1"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "adventure_gold",
+   "name": "Adventure Gold",
+   "bg": [
+    "#FDE68A",
+    "#FCD34D",
+    "#F59E0B",
+    "#B45309"
+   ],
+   "accent1": "#FBBF24",
+   "accent2": "#92400E",
+   "accentText": "#92400E",
+   "cardTint": "#FEF3C7",
+   "darkCardText": false,
+   "pillBg": "#FEF3C7",
+   "pillText": "#78350F",
+   "statusColor": "#92400E",
+   "button": [
+    "#FCD34D",
+    "#F59E0B",
+    "#92400E"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "rose_purple",
+   "name": "Rose Purple",
+   "bg": [
+    "#FCE7F3",
+    "#FBCFE8",
+    "#E879F9",
+    "#A855F7"
+   ],
+   "accent1": "#F0ABFC",
+   "accent2": "#9333EA",
+   "accentText": "#A21CAF",
+   "cardTint": "#FAE8FF",
+   "darkCardText": false,
+   "pillBg": "#FCE7F3",
+   "pillText": "#9D174D",
+   "statusColor": "#A21CAF",
+   "button": [
+    "#F9A8D4",
+    "#D946EF",
+    "#7E22CE"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "desert_titanium",
+   "name": "Desert Titanium",
+   "bg": [
+    "#E7E5E4",
+    "#D6D3D1",
+    "#A8A29E",
+    "#78716C"
+   ],
+   "accent1": "#D6D3D1",
+   "accent2": "#57534E",
+   "accentText": "#57534E",
+   "cardTint": "#F5F5F4",
+   "darkCardText": false,
+   "pillBg": "#E7E5E4",
+   "pillText": "#44403C",
+   "statusColor": "#57534E",
+   "button": [
+    "#D6D3D1",
+    "#A8A29E",
+    "#44403C"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "natural_titanium",
+   "name": "Natural Titanium",
+   "bg": [
+    "#F1F5F9",
+    "#E2E8F0",
+    "#CBD5E1",
+    "#94A3B8"
+   ],
+   "accent1": "#CBD5E1",
+   "accent2": "#64748B",
+   "accentText": "#475569",
+   "cardTint": "#F1F5F9",
+   "darkCardText": false,
+   "pillBg": "#F1F5F9",
+   "pillText": "#475569",
+   "statusColor": "#475569",
+   "button": [
+    "#E2E8F0",
+    "#94A3B8",
+    "#475569"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "chocolate",
+   "name": "Chocolate",
+   "bg": [
+    "#D6A87A",
+    "#B07D4F",
+    "#7B4B2A",
+    "#4A2C17"
+   ],
+   "accent1": "#A9713F",
+   "accent2": "#5C3A21",
+   "accentText": "#7C4A21",
+   "cardTint": "#E8C9A8",
+   "darkCardText": false,
+   "pillBg": "#E8C9A8",
+   "pillText": "#4A2C17",
+   "statusColor": "#4A2C17",
+   "button": [
+    "#C68B4E",
+    "#8B5A2B",
+    "#3E2412"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "black",
+   "name": "Black",
+   "bg": [
+    "#1F2937",
+    "#111827",
+    "#0B1220",
+    "#000000"
+   ],
+   "accent1": "#374151",
+   "accent2": "#000000",
+   "accentText": "#9CA3AF",
+   "cardTint": "#1F2937",
+   "darkCardText": false,
+   "pillBg": "#1F2937",
+   "pillText": "#F9FAFB",
+   "statusColor": "#E5E7EB",
+   "button": [
+    "#4B5563",
+    "#1F2937",
+    "#000000"
+   ],
+   "icon": "light",
+   "panel": "#CCFFFFFF",
+   "image": null
+  },
+  {
+   "id": "coffee",
+   "name": "Coffee",
+   "bg": [
+    "#C89B6A",
+    "#A67C52",
+    "#6F4E37",
+    "#3B2314"
+   ],
+   "accent1": "#8B5E3C",
+   "accent2": "#4A2E18",
+   "accentText": "#6F4E37",
+   "cardTint": "#DDB892",
+   "darkCardText": false,
+   "pillBg": "#E6CCB2",
+   "pillText": "#3B2314",
+   "statusColor": "#3B2314",
+   "button": [
+    "#B08968",
+    "#7F5539",
+    "#3B2314"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "black_glass",
+   "name": "Black Clear-Glass",
+   "bg": [
+    "#0A0A0F",
+    "#111118",
+    "#1A1A24",
+    "#23232E"
+   ],
+   "accent1": "#3F3F4D",
+   "accent2": "#14141C",
+   "accentText": "#C7C7D1",
+   "cardTint": "#26262F",
+   "darkCardText": false,
+   "pillBg": "#26262F",
+   "pillText": "#EDEDF2",
+   "statusColor": "#E5E5EA",
+   "button": [
+    "#55555F",
+    "#26262F",
+    "#0A0A0F"
+   ],
+   "icon": "light",
+   "panel": "#59FFFFFF",
+   "image": null
+  },
+  {
+   "id": "cyberpunk",
+   "name": "Cyberpunk",
+   "bg": [
+    "#050510",
+    "#0B0B26",
+    "#1B1B3A",
+    "#2D1B4E"
+   ],
+   "accent1": "#EC4899",
+   "accent2": "#06B6D4",
+   "accentText": "#F472B6",
+   "cardTint": "#1E1B3A",
+   "darkCardText": false,
+   "pillBg": "#2D1B4E",
+   "pillText": "#F9A8D4",
+   "statusColor": "#FBCFE8",
+   "button": [
+    "#F472B6",
+    "#A21CAF",
+    "#164E63"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "shan_3d",
+   "name": "Shan 3D",
+   "bg": [
+    "#E5A812",
+    "#3D8B37",
+    "#B71C1C",
+    "#7F0000"
+   ],
+   "accent1": "#F9A825",
+   "accent2": "#1B5E20",
+   "accentText": "#2E7D32",
+   "cardTint": "#FFF8E1",
+   "darkCardText": false,
+   "pillBg": "#FFF8E1",
+   "pillText": "#1B5E20",
+   "statusColor": "#FFFDE7",
+   "button": [
+    "#FFFFFF",
+    "#F1F1F1",
+    "#DCDCDC"
+   ],
+   "icon": "#2E7D32",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "sunset_desert",
+   "name": "Golden Sunset Desert",
+   "bg": [
+    "#FDBA74",
+    "#FB923C",
+    "#F97316",
+    "#9A3412"
+   ],
+   "accent1": "#FDBA74",
+   "accent2": "#C2410C",
+   "accentText": "#C2410C",
+   "cardTint": "#FFEDD5",
+   "darkCardText": false,
+   "pillBg": "#FFEDD5",
+   "pillText": "#9A3412",
+   "statusColor": "#9A3412",
+   "button": [
+    "#FED7AA",
+    "#F97316",
+    "#7C2D12"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "crystal_3d",
+   "name": "3D Crystal",
+   "bg": [
+    "#E0F2FE",
+    "#C7D2FE",
+    "#A5B4FC",
+    "#818CF8"
+   ],
+   "accent1": "#A5B4FC",
+   "accent2": "#6366F1",
+   "accentText": "#4F46E5",
+   "cardTint": "#EEF2FF",
+   "darkCardText": false,
+   "pillBg": "#E0E7FF",
+   "pillText": "#3730A3",
+   "statusColor": "#4F46E5",
+   "button": [
+    "#E0E7FF",
+    "#818CF8",
+    "#3730A3"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "clay_3d",
+   "name": "3D Clay",
+   "bg": [
+    "#FDE2E4",
+    "#FAD2C4",
+    "#E2ECE9",
+    "#BEE1E6"
+   ],
+   "accent1": "#FAD2C4",
+   "accent2": "#BEE1E6",
+   "accentText": "#D4846A",
+   "cardTint": "#FFF1F2",
+   "darkCardText": true,
+   "pillBg": "#FFF1F2",
+   "pillText": "#7C5E4A",
+   "statusColor": "#D4846A",
+   "button": [
+    "#FDE2E4",
+    "#F5B8B1",
+    "#D4846A"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "liquid_metal",
+   "name": "4D Liquid Metal",
+   "bg": [
+    "#E5E7EB",
+    "#9CA3AF",
+    "#6B7280",
+    "#374151"
+   ],
+   "accent1": "#D1D5DB",
+   "accent2": "#4B5563",
+   "accentText": "#4B5563",
+   "cardTint": "#F3F4F6",
+   "darkCardText": false,
+   "pillBg": "#E5E7EB",
+   "pillText": "#374151",
+   "statusColor": "#4B5563",
+   "button": [
+    "#F3F4F6",
+    "#9CA3AF",
+    "#1F2937"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "fire_flow",
+   "name": "4D Fire Flow",
+   "bg": [
+    "#7C2D12",
+    "#C2410C",
+    "#EA580C",
+    "#F59E0B"
+   ],
+   "accent1": "#F97316",
+   "accent2": "#991B1B",
+   "accentText": "#F97316",
+   "cardTint": "#431407",
+   "darkCardText": false,
+   "pillBg": "#431407",
+   "pillText": "#FDBA74",
+   "statusColor": "#FFEDD5",
+   "button": [
+    "#FDBA74",
+    "#EA580C",
+    "#7C2D12"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "space_station",
+   "name": "Space Station",
+   "bg": [
+    "#0B1026",
+    "#1A2340",
+    "#2A3558",
+    "#3D4A73"
+   ],
+   "accent1": "#38BDF8",
+   "accent2": "#1D4ED8",
+   "accentText": "#7DD3FC",
+   "cardTint": "#1E2A45",
+   "darkCardText": false,
+   "pillBg": "#1E2A45",
+   "pillText": "#BAE6FD",
+   "statusColor": "#E0F2FE",
+   "button": [
+    "#7DD3FC",
+    "#2563EB",
+    "#172554"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "moon_surface",
+   "name": "Moon Surface",
+   "bg": [
+    "#D4D4D8",
+    "#A1A1AA",
+    "#71717A",
+    "#3F3F46"
+   ],
+   "accent1": "#D4D4D8",
+   "accent2": "#52525B",
+   "accentText": "#52525B",
+   "cardTint": "#E4E4E7",
+   "darkCardText": false,
+   "pillBg": "#E4E4E7",
+   "pillText": "#3F3F46",
+   "statusColor": "#52525B",
+   "button": [
+    "#F4F4F5",
+    "#A1A1AA",
+    "#27272A"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "black_hole",
+   "name": "Black Hole",
+   "bg": [
+    "#000000",
+    "#0A0A12",
+    "#1A0B2E",
+    "#2D1B4E"
+   ],
+   "accent1": "#7C3AED",
+   "accent2": "#000000",
+   "accentText": "#A78BFA",
+   "cardTint": "#150826",
+   "darkCardText": false,
+   "pillBg": "#150826",
+   "pillText": "#DDD6FE",
+   "statusColor": "#EDE9FE",
+   "button": [
+    "#A78BFA",
+    "#6D28D9",
+    "#0A0A12"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "warp_speed",
+   "name": "Warp Speed",
+   "bg": [
+    "#020617",
+    "#0C1A3A",
+    "#123B7A",
+    "#2563EB"
+   ],
+   "accent1": "#60A5FA",
+   "accent2": "#1E40AF",
+   "accentText": "#93C5FD",
+   "cardTint": "#0F1E3D",
+   "darkCardText": false,
+   "pillBg": "#0F1E3D",
+   "pillText": "#BFDBFE",
+   "statusColor": "#DBEAFE",
+   "button": [
+    "#93C5FD",
+    "#3B82F6",
+    "#1E3A8A"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "ice",
+   "name": "Ice",
+   "bg": [
+    "#F0F9FF",
+    "#E0F2FE",
+    "#BAE6FD",
+    "#7DD3FC"
+   ],
+   "accent1": "#BAE6FD",
+   "accent2": "#0EA5E9",
+   "accentText": "#0284C7",
+   "cardTint": "#F0F9FF",
+   "darkCardText": false,
+   "pillBg": "#F0F9FF",
+   "pillText": "#0369A1",
+   "statusColor": "#0284C7",
+   "button": [
+    "#E0F2FE",
+    "#38BDF8",
+    "#0369A1"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "rain",
+   "name": "Rain",
+   "bg": [
+    "#64748B",
+    "#475569",
+    "#334155",
+    "#1E293B"
+   ],
+   "accent1": "#7DD3FC",
+   "accent2": "#0369A1",
+   "accentText": "#7DD3FC",
+   "cardTint": "#334155",
+   "darkCardText": false,
+   "pillBg": "#334155",
+   "pillText": "#E0F2FE",
+   "statusColor": "#E2E8F0",
+   "button": [
+    "#BAE6FD",
+    "#0EA5E9",
+    "#0C4A6E"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "water",
+   "name": "Water",
+   "bg": [
+    "#06B6D4",
+    "#0891B2",
+    "#0E7490",
+    "#155E75"
+   ],
+   "accent1": "#22D3EE",
+   "accent2": "#0E7490",
+   "accentText": "#06B6D4",
+   "cardTint": "#164E63",
+   "darkCardText": false,
+   "pillBg": "#164E63",
+   "pillText": "#A5F3FC",
+   "statusColor": "#ECFEFF",
+   "button": [
+    "#67E8F9",
+    "#0891B2",
+    "#164E63"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "snow",
+   "name": "Snow",
+   "bg": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0",
+    "#CBD5E1"
+   ],
+   "accent1": "#F1F5F9",
+   "accent2": "#94A3B8",
+   "accentText": "#64748B",
+   "cardTint": "#F8FAFC",
+   "darkCardText": true,
+   "pillBg": "#F1F5F9",
+   "pillText": "#475569",
+   "statusColor": "#64748B",
+   "button": [
+    "#FFFFFF",
+    "#E2E8F0",
+    "#94A3B8"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "multiverse",
+   "name": "6D Multiverse",
+   "bg": [
+    "#1E1B4B",
+    "#4C1D95",
+    "#7C3AED",
+    "#DB2777"
+   ],
+   "accent1": "#A78BFA",
+   "accent2": "#DB2777",
+   "accentText": "#C4B5FD",
+   "cardTint": "#2E1065",
+   "darkCardText": false,
+   "pillBg": "#2E1065",
+   "pillText": "#E9D5FF",
+   "statusColor": "#F5F3FF",
+   "button": [
+    "#DDD6FE",
+    "#8B5CF6",
+    "#701A75"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "cyber_circuit",
+   "name": "Cyberpunk Circuit",
+   "bg": [
+    "#04140A",
+    "#06281A",
+    "#0A3D2C",
+    "#0F5132"
+   ],
+   "accent1": "#34D399",
+   "accent2": "#065F46",
+   "accentText": "#6EE7B7",
+   "cardTint": "#06281A",
+   "darkCardText": false,
+   "pillBg": "#06281A",
+   "pillText": "#A7F3D0",
+   "statusColor": "#D1FAE5",
+   "button": [
+    "#6EE7B7",
+    "#10B981",
+    "#064E3B"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "cyber_datastream",
+   "name": "Cyberpunk Data Stream",
+   "bg": [
+    "#020617",
+    "#082F49",
+    "#0C4A6E",
+    "#0369A1"
+   ],
+   "accent1": "#38BDF8",
+   "accent2": "#1D4ED8",
+   "accentText": "#38BDF8",
+   "cardTint": "#082F49",
+   "darkCardText": false,
+   "pillBg": "#082F49",
+   "pillText": "#BAE6FD",
+   "statusColor": "#E0F2FE",
+   "button": [
+    "#7DD3FC",
+    "#0284C7",
+    "#0C4A6E"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "cyber_hologram",
+   "name": "Cyberpunk Hologram",
+   "bg": [
+    "#0F0A2E",
+    "#1E1B4B",
+    "#312E81",
+    "#4C1D95"
+   ],
+   "accent1": "#22D3EE",
+   "accent2": "#A855F7",
+   "accentText": "#67E8F9",
+   "cardTint": "#1E1B4B",
+   "darkCardText": false,
+   "pillBg": "#1E1B4B",
+   "pillText": "#CFFAFE",
+   "statusColor": "#ECFEFF",
+   "button": [
+    "#A5F3FC",
+    "#22D3EE",
+    "#7C3AED"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "cyber_neongrid",
+   "name": "Cyberpunk Neon Grid",
+   "bg": [
+    "#050510",
+    "#12082E",
+    "#1E0A4E",
+    "#3B0764"
+   ],
+   "accent1": "#E879F9",
+   "accent2": "#7C3AED",
+   "accentText": "#F0ABFC",
+   "cardTint": "#12082E",
+   "darkCardText": false,
+   "pillBg": "#12082E",
+   "pillText": "#F5D0FE",
+   "statusColor": "#FAE8FF",
+   "button": [
+    "#F0ABFC",
+    "#C026D3",
+    "#581C87"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "saber",
+   "name": "Saber",
+   "bg": [
+    "#1E3A8A",
+    "#1D4ED8",
+    "#2563EB",
+    "#3B82F6"
+   ],
+   "accent1": "#60A5FA",
+   "accent2": "#1E40AF",
+   "accentText": "#93C5FD",
+   "cardTint": "#172554",
+   "darkCardText": false,
+   "pillBg": "#172554",
+   "pillText": "#DBEAFE",
+   "statusColor": "#EFF6FF",
+   "button": [
+    "#93C5FD",
+    "#3B82F6",
+    "#172554"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "legend",
+   "name": "Legend",
+   "bg": [
+    "#78350F",
+    "#92400E",
+    "#B45309",
+    "#D97706"
+   ],
+   "accent1": "#FBBF24",
+   "accent2": "#92400E",
+   "accentText": "#F59E0B",
+   "cardTint": "#451A03",
+   "darkCardText": false,
+   "pillBg": "#451A03",
+   "pillText": "#FDE68A",
+   "statusColor": "#FEF3C7",
+   "button": [
+    "#FDE68A",
+    "#D97706",
+    "#78350F"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "mythic",
+   "name": "Mythic",
+   "bg": [
+    "#581C87",
+    "#6B21A8",
+    "#7E22CE",
+    "#9333EA"
+   ],
+   "accent1": "#C084FC",
+   "accent2": "#6B21A8",
+   "accentText": "#D8B4FE",
+   "cardTint": "#3B0764",
+   "darkCardText": false,
+   "pillBg": "#3B0764",
+   "pillText": "#F3E8FF",
+   "statusColor": "#FAF5FF",
+   "button": [
+    "#E9D5FF",
+    "#9333EA",
+    "#581C87"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "glory",
+   "name": "Glory",
+   "bg": [
+    "#7F1D1D",
+    "#991B1B",
+    "#B91C1C",
+    "#DC2626"
+   ],
+   "accent1": "#FCA5A5",
+   "accent2": "#991B1B",
+   "accentText": "#FCA5A5",
+   "cardTint": "#450A0A",
+   "darkCardText": false,
+   "pillBg": "#450A0A",
+   "pillText": "#FECACA",
+   "statusColor": "#FEF2F2",
+   "button": [
+    "#FECACA",
+    "#DC2626",
+    "#7F1D1D"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "saber_crimson",
+   "name": "Saber Crimson",
+   "bg": [
+    "#450A0A",
+    "#7F1D1D",
+    "#991B1B",
+    "#B91C1C"
+   ],
+   "accent1": "#F87171",
+   "accent2": "#7F1D1D",
+   "accentText": "#FCA5A5",
+   "cardTint": "#2A0606",
+   "darkCardText": false,
+   "pillBg": "#2A0606",
+   "pillText": "#FECACA",
+   "statusColor": "#FEF2F2",
+   "button": [
+    "#FCA5A5",
+    "#DC2626",
+    "#450A0A"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "saber_gold",
+   "name": "Saber Gold",
+   "bg": [
+    "#713F12",
+    "#854D0E",
+    "#A16207",
+    "#CA8A04"
+   ],
+   "accent1": "#FDE047",
+   "accent2": "#A16207",
+   "accentText": "#FACC15",
+   "cardTint": "#422006",
+   "darkCardText": false,
+   "pillBg": "#422006",
+   "pillText": "#FEF9C3",
+   "statusColor": "#FEFCE8",
+   "button": [
+    "#FEF08A",
+    "#EAB308",
+    "#713F12"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "saber_shadow",
+   "name": "Saber Shadow",
+   "bg": [
+    "#09090B",
+    "#18181B",
+    "#27272A",
+    "#3F3F46"
+   ],
+   "accent1": "#71717A",
+   "accent2": "#18181B",
+   "accentText": "#A1A1AA",
+   "cardTint": "#18181B",
+   "darkCardText": false,
+   "pillBg": "#18181B",
+   "pillText": "#E4E4E7",
+   "statusColor": "#F4F4F5",
+   "button": [
+    "#A1A1AA",
+    "#52525B",
+    "#09090B"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "saber_frost",
+   "name": "Saber Frost",
+   "bg": [
+    "#F0F9FF",
+    "#E0F2FE",
+    "#BAE6FD",
+    "#93C5FD"
+   ],
+   "accent1": "#93C5FD",
+   "accent2": "#2563EB",
+   "accentText": "#2563EB",
+   "cardTint": "#EFF6FF",
+   "darkCardText": false,
+   "pillBg": "#EFF6FF",
+   "pillText": "#1E40AF",
+   "statusColor": "#2563EB",
+   "button": [
+    "#DBEAFE",
+    "#60A5FA",
+    "#1D4ED8"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "haya_crimson",
+   "name": "Hayabusa Crimson",
+   "bg": [
+    "#4A0E0E",
+    "#7F1D1D",
+    "#B91C1C",
+    "#DC2626"
+   ],
+   "accent1": "#EF4444",
+   "accent2": "#7F1D1D",
+   "accentText": "#F87171",
+   "cardTint": "#2B0A0A",
+   "darkCardText": false,
+   "pillBg": "#2B0A0A",
+   "pillText": "#FECACA",
+   "statusColor": "#FEF2F2",
+   "button": [
+    "#FCA5A5",
+    "#EF4444",
+    "#4A0E0E"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "haya_jade",
+   "name": "Hayabusa Jade",
+   "bg": [
+    "#022C22",
+    "#064E3B",
+    "#065F46",
+    "#047857"
+   ],
+   "accent1": "#34D399",
+   "accent2": "#064E3B",
+   "accentText": "#6EE7B7",
+   "cardTint": "#022C22",
+   "darkCardText": false,
+   "pillBg": "#022C22",
+   "pillText": "#A7F3D0",
+   "statusColor": "#ECFDF5",
+   "button": [
+    "#A7F3D0",
+    "#10B981",
+    "#022C22"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "epic_storm",
+   "name": "Epic Storm",
+   "bg": [
+    "#0C0A2E",
+    "#1E1B4B",
+    "#312E81",
+    "#4338CA"
+   ],
+   "accent1": "#FDE047",
+   "accent2": "#4338CA",
+   "accentText": "#FACC15",
+   "cardTint": "#1E1B4B",
+   "darkCardText": false,
+   "pillBg": "#1E1B4B",
+   "pillText": "#FEF08A",
+   "statusColor": "#FEFCE8",
+   "button": [
+    "#FEF08A",
+    "#FACC15",
+    "#312E81"
+   ],
+   "icon": "dark",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "sky_bright",
+   "name": "Bright Blue Sky",
+   "bg": [
+    "#38BDF8",
+    "#0EA5E9",
+    "#0284C7",
+    "#0369A1"
+   ],
+   "accent1": "#7DD3FC",
+   "accent2": "#0284C7",
+   "accentText": "#0284C7",
+   "cardTint": "#E0F2FE",
+   "darkCardText": false,
+   "pillBg": "#F0F9FF",
+   "pillText": "#0369A1",
+   "statusColor": "#FFFFFF",
+   "button": [
+    "#FDE68A",
+    "#F59E0B",
+    "#D97706"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "sky_pastel",
+   "name": "Pastel Dream Sky",
+   "bg": [
+    "#FBCFE8",
+    "#E9D5FF",
+    "#C7D2FE",
+    "#BAE6FD"
+   ],
+   "accent1": "#F9A8D4",
+   "accent2": "#A78BFA",
+   "accentText": "#C084FC",
+   "cardTint": "#FDF4FF",
+   "darkCardText": true,
+   "pillBg": "#FDF4FF",
+   "pillText": "#7C6AAE",
+   "statusColor": "#8B7BB8",
+   "button": [
+    "#FCE7F3",
+    "#E9D5FF",
+    "#C4B5FD"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "sky_night",
+   "name": "Moonlit Night Sky",
+   "bg": [
+    "#020617",
+    "#0F172A",
+    "#1E293B",
+    "#334155"
+   ],
+   "accent1": "#E2E8F0",
+   "accent2": "#64748B",
+   "accentText": "#E2E8F0",
+   "cardTint": "#1E293B",
+   "darkCardText": false,
+   "pillBg": "#1E293B",
+   "pillText": "#F1F5F9",
+   "statusColor": "#F8FAFC",
+   "button": [
+    "#F8FAFC",
+    "#CBD5E1",
+    "#64748B"
+   ],
+   "icon": "dark",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "sky_golden",
+   "name": "Golden Hour Sky",
+   "bg": [
+    "#FED7AA",
+    "#FDBA74",
+    "#FB923C",
+    "#F97316"
+   ],
+   "accent1": "#FDBA74",
+   "accent2": "#EA580C",
+   "accentText": "#EA580C",
+   "cardTint": "#FFEDD5",
+   "darkCardText": false,
+   "pillBg": "#FFF7ED",
+   "pillText": "#9A3412",
+   "statusColor": "#9A3412",
+   "button": [
+    "#FEF3C7",
+    "#FBBF24",
+    "#D97706"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "iphone_glass",
+   "name": "iPhone Frosted Glass",
+   "bg": [
+    "#E8EDF3",
+    "#D5DDE6",
+    "#C3CDD8",
+    "#AEB9C6"
+   ],
+   "accent1": "#FFFFFF",
+   "accent2": "#D5DDE6",
+   "accentText": "#007AFF",
+   "cardTint": "#F2F4F7",
+   "darkCardText": true,
+   "pillBg": "#FFFFFF",
+   "pillText": "#3A3A3C",
+   "statusColor": "#3A3A3C",
+   "button": [
+    "#FFFFFF",
+    "#E8EDF3",
+    "#C3CDD8"
+   ],
+   "icon": "dark",
+   "panel": "#D9FFFFFF",
+   "image": null
+  },
+  {
+   "id": "iphone_dark",
+   "name": "iPhone Dark",
+   "bg": [
+    "#000000",
+    "#1C1C1E",
+    "#2C2C2E",
+    "#3A3A3C"
+   ],
+   "accent1": "#48484A",
+   "accent2": "#1C1C1E",
+   "accentText": "#0A84FF",
+   "cardTint": "#2C2C2E",
+   "darkCardText": false,
+   "pillBg": "#2C2C2E",
+   "pillText": "#F2F2F7",
+   "statusColor": "#F2F2F7",
+   "button": [
+    "#48484A",
+    "#2C2C2E",
+    "#000000"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "iphone_pastel",
+   "name": "iPhone Pastel",
+   "bg": [
+    "#FCE7F3",
+    "#F3E8FF",
+    "#E0F2FE",
+    "#DCFCE7"
+   ],
+   "accent1": "#FBCFE8",
+   "accent2": "#A5B4FC",
+   "accentText": "#A78BFA",
+   "cardTint": "#FFF5F7",
+   "darkCardText": true,
+   "pillBg": "#FFF5F7",
+   "pillText": "#8B7BB8",
+   "statusColor": "#A78BFA",
+   "button": [
+    "#FDF2F8",
+    "#E9D5FF",
+    "#C7D2FE"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_beach",
+   "name": "Beach",
+   "bg": [
+    "#67E8F9",
+    "#38BDF8",
+    "#0EA5E9",
+    "#FDE68A"
+   ],
+   "accent1": "#5EEAD4",
+   "accent2": "#0284C7",
+   "accentText": "#0891B2",
+   "cardTint": "#ECFEFF",
+   "darkCardText": false,
+   "pillBg": "#FFFBEB",
+   "pillText": "#0E7490",
+   "statusColor": "#0E7490",
+   "button": [
+    "#FEF08A",
+    "#FBBF24",
+    "#F59E0B"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_underwater",
+   "name": "Underwater",
+   "bg": [
+    "#082F49",
+    "#0C4A6E",
+    "#155E75",
+    "#0E7490"
+   ],
+   "accent1": "#22D3EE",
+   "accent2": "#155E75",
+   "accentText": "#67E8F9",
+   "cardTint": "#0C4A6E",
+   "darkCardText": false,
+   "pillBg": "#0C4A6E",
+   "pillText": "#A5F3FC",
+   "statusColor": "#ECFEFF",
+   "button": [
+    "#A5F3FC",
+    "#06B6D4",
+    "#155E75"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_jungle",
+   "name": "Jungle",
+   "bg": [
+    "#052E16",
+    "#14532D",
+    "#166534",
+    "#15803D"
+   ],
+   "accent1": "#4ADE80",
+   "accent2": "#14532D",
+   "accentText": "#86EFAC",
+   "cardTint": "#052E16",
+   "darkCardText": false,
+   "pillBg": "#052E16",
+   "pillText": "#BBF7D0",
+   "statusColor": "#F0FDF4",
+   "button": [
+    "#BBF7D0",
+    "#22C55E",
+    "#052E16"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_waterfall",
+   "name": "Waterfall",
+   "bg": [
+    "#0C4A6E",
+    "#0369A1",
+    "#0284C7",
+    "#38BDF8"
+   ],
+   "accent1": "#7DD3FC",
+   "accent2": "#0369A1",
+   "accentText": "#38BDF8",
+   "cardTint": "#0C4A6E",
+   "darkCardText": false,
+   "pillBg": "#0C4A6E",
+   "pillText": "#E0F2FE",
+   "statusColor": "#F0F9FF",
+   "button": [
+    "#E0F2FE",
+    "#38BDF8",
+    "#075985"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_pagoda",
+   "name": "Golden Pagoda",
+   "bg": [
+    "#FDE68A",
+    "#FCD34D",
+    "#F59E0B",
+    "#D97706"
+   ],
+   "accent1": "#FDE047",
+   "accent2": "#B45309",
+   "accentText": "#B45309",
+   "cardTint": "#FEF3C7",
+   "darkCardText": false,
+   "pillBg": "#FFFBEB",
+   "pillText": "#92400E",
+   "statusColor": "#92400E",
+   "button": [
+    "#FEF9C3",
+    "#F59E0B",
+    "#92400E"
+   ],
+   "icon": "dark",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_bagan",
+   "name": "Bagan",
+   "bg": [
+    "#FDBA74",
+    "#FB923C",
+    "#F97316",
+    "#C2410C"
+   ],
+   "accent1": "#FED7AA",
+   "accent2": "#9A3412",
+   "accentText": "#C2410C",
+   "cardTint": "#FFEDD5",
+   "darkCardText": false,
+   "pillBg": "#FFF7ED",
+   "pillText": "#9A3412",
+   "statusColor": "#9A3412",
+   "button": [
+    "#FFEDD5",
+    "#FB923C",
+    "#9A3412"
+   ],
+   "icon": "light",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_volcano",
+   "name": "Volcano",
+   "bg": [
+    "#0C0A09",
+    "#1C0A06",
+    "#431407",
+    "#7C2D12"
+   ],
+   "accent1": "#F97316",
+   "accent2": "#7C2D12",
+   "accentText": "#FB923C",
+   "cardTint": "#1C0A06",
+   "darkCardText": false,
+   "pillBg": "#1C0A06",
+   "pillText": "#FDBA74",
+   "statusColor": "#FFEDD5",
+   "button": [
+    "#FDBA74",
+    "#EA580C",
+    "#431407"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_cave",
+   "name": "Crystal Cave",
+   "bg": [
+    "#1E1B4B",
+    "#312E81",
+    "#4C1D95",
+    "#6B21A8"
+   ],
+   "accent1": "#C4B5FD",
+   "accent2": "#6B21A8",
+   "accentText": "#DDD6FE",
+   "cardTint": "#1E1B4B",
+   "darkCardText": false,
+   "pillBg": "#1E1B4B",
+   "pillText": "#EDE9FE",
+   "statusColor": "#F5F3FF",
+   "button": [
+    "#EDE9FE",
+    "#8B5CF6",
+    "#4C1D95"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "place_aurora",
+   "name": "Aurora",
+   "bg": [
+    "#022C22",
+    "#064E3B",
+    "#065F46",
+    "#047857"
+   ],
+   "accent1": "#6EE7B7",
+   "accent2": "#7C3AED",
+   "accentText": "#6EE7B7",
+   "cardTint": "#022C22",
+   "darkCardText": false,
+   "pillBg": "#022C22",
+   "pillText": "#A7F3D0",
+   "statusColor": "#ECFDF5",
+   "button": [
+    "#A7F3D0",
+    "#34D399",
+    "#4C1D95"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  }
+ ]
+}
