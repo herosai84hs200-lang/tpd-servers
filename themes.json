@@ -17,7 +17,7 @@
    "darkCardText": false,
    "pillBg": "#CCDDF9",
    "pillText": "#FFFFFF",
-   "statusColor": "#E5E7EB",
+   "statusColor": "#1E40AF",
    "button": [
     "#7DD3FC",
     "#3B82F6",
@@ -26,7 +26,8 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "nameMy": "အပြာ"
+   "nameMy": "အပြာ",
+   "timerColor": "#1E40AF"
   },
   {
    "id": "pink",
@@ -44,7 +45,7 @@
    "darkCardText": false,
    "pillBg": "#EEF2F7",
    "pillText": "#B9BABC",
-   "statusColor": "#FCE7F3",
+   "statusColor": "#A21CAF",
    "button": [
     "#FFFFFF",
     "#F1F5F9",
@@ -53,7 +54,8 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "nameMy": "ပန်းခရမ်း"
+   "nameMy": "ပန်းခရမ်း",
+   "timerColor": "#A21CAF"
   },
   {
    "id": "yellow",
@@ -71,7 +73,7 @@
    "darkCardText": false,
    "pillBg": "#EEF2F7",
    "pillText": "#B9BABC",
-   "statusColor": "#FEF3C7",
+   "statusColor": "#92400E",
    "button": [
     "#FFFFFF",
     "#F1F5F9",
@@ -80,7 +82,8 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "nameMy": "အဝါလိမ္မော်"
+   "nameMy": "အဝါလိမ္မော်",
+   "timerColor": "#92400E"
   },
   {
    "id": "gradient",
@@ -125,7 +128,7 @@
    "darkCardText": false,
    "pillBg": "#FDE68A",
    "pillText": "#78350F",
-   "statusColor": "#FEF3C7",
+   "statusColor": "#92400E",
    "button": [
     "#FDE07A",
     "#E8B34B",
@@ -134,7 +137,8 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "nameMy": "ရွှေ"
+   "nameMy": "ရွှေ",
+   "timerColor": "#92400E"
   },
   {
    "id": "ice_blue",
@@ -160,7 +164,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#0369A1"
   },
   {
    "id": "adventure_gold",
@@ -186,7 +191,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#92400E"
   },
   {
    "id": "rose_purple",
@@ -212,7 +218,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#A21CAF"
   },
   {
    "id": "desert_titanium",
@@ -238,7 +245,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#57534E"
   },
   {
    "id": "natural_titanium",
@@ -264,7 +272,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#475569"
   },
   {
    "id": "chocolate",
@@ -290,7 +299,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#4A2C17"
   },
   {
    "id": "black",
@@ -342,7 +352,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#3B2314"
   },
   {
    "id": "black_glass",
@@ -412,7 +423,7 @@
    "darkCardText": false,
    "pillBg": "#FFF8E1",
    "pillText": "#1B5E20",
-   "statusColor": "#FFFDE7",
+   "statusColor": "#111827",
    "button": [
     "#FFFFFF",
     "#F1F1F1",
@@ -420,7 +431,8 @@
    ],
    "icon": "#2E7D32",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#1F2937"
   },
   {
    "id": "sunset_desert",
@@ -446,7 +458,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#7C2D12"
   },
   {
    "id": "crystal_3d",
@@ -472,7 +485,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#4F46E5"
   },
   {
    "id": "clay_3d",
@@ -490,7 +504,7 @@
    "darkCardText": true,
    "pillBg": "#FFF1F2",
    "pillText": "#7C5E4A",
-   "statusColor": "#D4846A",
+   "statusColor": "#9A3412",
    "button": [
     "#FDE2E4",
     "#F5B8B1",
@@ -498,7 +512,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#9A3412"
   },
   {
    "id": "liquid_metal",
@@ -516,7 +531,7 @@
    "darkCardText": false,
    "pillBg": "#E5E7EB",
    "pillText": "#374151",
-   "statusColor": "#4B5563",
+   "statusColor": "#374151",
    "button": [
     "#F3F4F6",
     "#9CA3AF",
@@ -524,7 +539,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#4B5563"
   },
   {
    "id": "fire_flow",
@@ -602,7 +618,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#52525B"
   },
   {
    "id": "black_hole",
@@ -680,7 +697,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#0369A1"
   },
   {
    "id": "rain",
@@ -724,7 +742,7 @@
    "darkCardText": false,
    "pillBg": "#164E63",
    "pillText": "#A5F3FC",
-   "statusColor": "#ECFEFF",
+   "statusColor": "#082F49",
    "button": [
     "#67E8F9",
     "#0891B2",
@@ -732,7 +750,8 @@
    ],
    "icon": "light",
    "panel": "#BFFFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#082F49"
   },
   {
    "id": "snow",
@@ -758,7 +777,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#334155"
   },
   {
    "id": "multiverse",
@@ -1096,7 +1116,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#0369A1"
   },
   {
    "id": "haya_crimson",
@@ -1192,7 +1213,7 @@
    "darkCardText": false,
    "pillBg": "#F0F9FF",
    "pillText": "#0369A1",
-   "statusColor": "#FFFFFF",
+   "statusColor": "#0C4A6E",
    "button": [
     "#FDE68A",
     "#F59E0B",
@@ -1200,7 +1221,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#0C4A6E"
   },
   {
    "id": "sky_pastel",
@@ -1218,7 +1240,7 @@
    "darkCardText": true,
    "pillBg": "#FDF4FF",
    "pillText": "#7C6AAE",
-   "statusColor": "#8B7BB8",
+   "statusColor": "#6D28D9",
    "button": [
     "#FCE7F3",
     "#E9D5FF",
@@ -1226,7 +1248,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#6D28D9"
   },
   {
    "id": "sky_night",
@@ -1278,7 +1301,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#9A3412"
   },
   {
    "id": "iphone_glass",
@@ -1304,7 +1328,8 @@
    ],
    "icon": "dark",
    "panel": "#D9FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#3A3A3C"
   },
   {
    "id": "iphone_dark",
@@ -1348,7 +1373,7 @@
    "darkCardText": true,
    "pillBg": "#FFF5F7",
    "pillText": "#8B7BB8",
-   "statusColor": "#A78BFA",
+   "statusColor": "#7C3AED",
    "button": [
     "#FDF2F8",
     "#E9D5FF",
@@ -1356,7 +1381,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#7C3AED"
   },
   {
    "id": "place_beach",
@@ -1374,7 +1400,7 @@
    "darkCardText": false,
    "pillBg": "#FFFBEB",
    "pillText": "#0E7490",
-   "statusColor": "#0E7490",
+   "statusColor": "#155E75",
    "button": [
     "#FEF08A",
     "#FBBF24",
@@ -1382,7 +1408,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#155E75"
   },
   {
    "id": "place_underwater",
@@ -1486,7 +1513,8 @@
    ],
    "icon": "dark",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#92400E"
   },
   {
    "id": "place_bagan",
@@ -1512,7 +1540,8 @@
    ],
    "icon": "light",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#7C2D12"
   },
   {
    "id": "place_volcano",
@@ -1616,7 +1645,8 @@
    ],
    "icon": "#3B82F6",
    "panel": "#D9FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#2563EB"
   },
   {
    "id": "hyperos_vibrant",
@@ -1634,7 +1664,7 @@
    "darkCardText": false,
    "pillBg": "#A855F7",
    "pillText": "#FFFFFF",
-   "statusColor": "#F5F3FF",
+   "statusColor": "#111827",
    "button": [
     "#FDBA74",
     "#EC4899",
@@ -1642,7 +1672,8 @@
    ],
    "icon": "light",
    "panel": "#BFFFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#082F49"
   },
   {
    "id": "hyperos_dark",
@@ -1686,7 +1717,7 @@
    "darkCardText": true,
    "pillBg": "#E8F5E9",
    "pillText": "#2E7D5B",
-   "statusColor": "#5B8A7A",
+   "statusColor": "#14532D",
    "button": [
     "#F0FAF4",
     "#C8E6D4",
@@ -1694,7 +1725,8 @@
    ],
    "icon": "#34A97B",
    "panel": "#D9FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#14532D"
   },
   {
    "id": "hyperos_minimal",
@@ -1720,7 +1752,8 @@
    ],
    "icon": "#3B82F6",
    "panel": "#FFFFFF",
-   "image": null
+   "image": null,
+   "timerColor": "#111827"
   },
   {
    "id": "digital_led",
