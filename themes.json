@@ -2500,6 +2500,138 @@
    "cardText": "#FFFFFF",
    "cardSubText": "#A7F3D0",
    "bottomText": "#1E293B"
+  },
+  {
+   "accent1": "#F87171",
+   "accent2": "#A855F7",
+   "accentText": "#FCA5A5",
+   "bg": [
+    "#FDE047",
+    "#FB923C",
+    "#E11D48",
+    "#A855F7"
+   ],
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "cardTint": "#FCE7F3",
+   "darkCardText": false,
+   "icon": "dark",
+   "id": "sunset_split",
+   "image": null,
+   "name": "Sunset Split",
+   "nameMy": "အဝါခရမ်းခွဲ",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#9A3412",
+   "timerColor": "#7C2D12",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
+  },
+  {
+   "accent1": "#FB7185",
+   "accent2": "#7C3AED",
+   "accentText": "#FCA5A5",
+   "bg": [
+    "#FEF08A",
+    "#FBBF24",
+    "#F43F5E",
+    "#7C3AED"
+   ],
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "cardTint": "#FFE4E6",
+   "darkCardText": false,
+   "icon": "dark",
+   "id": "sunset_dusk",
+   "image": null,
+   "name": "Sunset Dusk",
+   "nameMy": "ဆည်းဆာ",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#9A3412",
+   "timerColor": "#7C2D12",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
+  },
+  {
+   "accent1": "#DDD6FE",
+   "accent2": "#8B5CF6",
+   "accentText": "#A78BFA",
+   "bg": [
+    "#F5D0FE",
+    "#E9D5FF",
+    "#C4B5FD",
+    "#A5B4FC"
+   ],
+   "button": [
+    "#FCE7F3",
+    "#F9A8D4",
+    "#EC4899"
+   ],
+   "cardTint": "#EDE9FE",
+   "darkCardText": true,
+   "icon": "#9D174D",
+   "id": "lavender_pastel",
+   "image": null,
+   "name": "Lavender Pastel",
+   "nameMy": "လာဗင်ဒါ",
+   "panel": "#FFFFFF",
+   "pillBg": "#FFFFFF",
+   "pillText": "#64748B",
+   "statusColor": "#6D28D9",
+   "timerColor": "#6D28D9",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#1E1B4B",
+   "cardSubText": "#475569",
+   "bottomText": "#111827"
+  },
+  {
+   "accent1": "#F9A8D4",
+   "accent2": "#A78BFA",
+   "accentText": "#67E8F9",
+   "bg": [
+    "#1E40AF",
+    "#2563EB",
+    "#F97316",
+    "#7C3AED"
+   ],
+   "button": [
+    "#F8FAFC",
+    "#E0E7FF",
+    "#A5B4FC"
+   ],
+   "cardTint": "#DDD6FE",
+   "darkCardText": true,
+   "icon": "dark",
+   "id": "neon_sunset",
+   "image": null,
+   "name": "Neon Sunset",
+   "nameMy": "နေဝင်နီယွန်",
+   "panel": "#BFFDBA74",
+   "pillBg": "#DDD6FE",
+   "pillText": "#4C1D95",
+   "statusColor": "#BFDBFE",
+   "timerColor": "#FFFFFF",
+   "glassText": "#1E293B",
+   "glassSubText": "#475569",
+   "cardText": "#1E1B4B",
+   "cardSubText": "#4C1D95",
+   "bottomText": "#1E1B4B"
   }
  ]
 }
