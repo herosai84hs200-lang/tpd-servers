@@ -2404,6 +2404,102 @@
    "cardText": "#FFFFFF",
    "cardSubText": "#E9D5FF",
    "bottomText": "#1E293B"
+  },
+  {
+   "accent1": "#3B82F6",
+   "accent2": "#EAB308",
+   "accentText": "#BFDBFE",
+   "bg": [
+    "#0A1628",
+    "#12275A",
+    "#1D4ED8"
+   ],
+   "button": [
+    "#1E40AF",
+    "#3B82F6",
+    "#1D4ED8"
+   ],
+   "cardTint": "#1E3A8A",
+   "darkCardText": false,
+   "icon": "#F5C518",
+   "id": "mobile_legends",
+   "image": null,
+   "name": "Mobile Legends",
+   "nameMy": "မိုဘိုင်းလီဂျင့်",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#DBEAFE",
+   "timerColor": "#FFFFFF",
+   "glassText": "#1E293B",
+   "glassSubText": "#64748B",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#BFDBFE",
+   "bottomText": "#1E293B"
+  },
+  {
+   "accent1": "#F59E0B",
+   "accent2": "#F2A900",
+   "accentText": "#FDE68A",
+   "bg": [
+    "#1F2937",
+    "#92400E",
+    "#F59E0B"
+   ],
+   "button": [
+    "#D97706",
+    "#F59E0B",
+    "#B45309"
+   ],
+   "cardTint": "#374151",
+   "darkCardText": false,
+   "icon": "#FFFFFF",
+   "id": "pubg",
+   "image": null,
+   "name": "PUBG",
+   "nameMy": "ပတ်ဂျီ",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#FDE68A",
+   "timerColor": "#FFFFFF",
+   "glassText": "#1E293B",
+   "glassSubText": "#64748B",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#FDE68A",
+   "bottomText": "#1E293B"
+  },
+  {
+   "accent1": "#10B981",
+   "accent2": "#22C55E",
+   "accentText": "#A7F3D0",
+   "bg": [
+    "#030712",
+    "#064E3B",
+    "#059669"
+   ],
+   "button": [
+    "#059669",
+    "#10B981",
+    "#047857"
+   ],
+   "cardTint": "#064E3B",
+   "darkCardText": false,
+   "icon": "#FFFFFF",
+   "id": "efootball",
+   "image": null,
+   "name": "eFootball",
+   "nameMy": "အီးဘောလုံး",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#A7F3D0",
+   "timerColor": "#FFFFFF",
+   "glassText": "#1E293B",
+   "glassSubText": "#64748B",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#A7F3D0",
+   "bottomText": "#1E293B"
   }
  ]
 }
