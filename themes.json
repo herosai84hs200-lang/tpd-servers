@@ -2371,6 +2371,39 @@
    "cardText": "#111827",
    "cardSubText": "#374151",
    "bottomText": "#FFFFFF"
+  },
+  {
+   "accent1": "#A855F7",
+   "accent2": "#D4AF37",
+   "accentText": "#C4B5FD",
+   "bg": [
+    "#0B1C6E",
+    "#3730A3",
+    "#5B21B6",
+    "#6D28D9"
+   ],
+   "button": [
+    "#4F46E5",
+    "#7C3AED",
+    "#6D28D9"
+   ],
+   "cardTint": "#4F46E5",
+   "darkCardText": false,
+   "icon": "#F9A8D4",
+   "id": "violet_gold",
+   "image": null,
+   "name": "Violet Gold",
+   "nameMy": "ခရမ်းရွှေ",
+   "panel": "#FFFFFF",
+   "pillBg": "#F1F5F9",
+   "pillText": "#64748B",
+   "statusColor": "#DDD6FE",
+   "timerColor": "#FFFFFF",
+   "glassText": "#1E293B",
+   "glassSubText": "#64748B",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#E9D5FF",
+   "bottomText": "#1E293B"
   }
  ]
 }
