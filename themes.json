@@ -16,7 +16,7 @@
    "cardTint": "#C9EDFC",
    "darkCardText": false,
    "pillBg": "#CCDDF9",
-   "pillText": "#FFFFFF",
+   "pillText": "#1E40AF",
    "statusColor": "#1E40AF",
    "button": [
     "#7DD3FC",
@@ -27,7 +27,12 @@
    "panel": "#FFFFFF",
    "image": null,
    "nameMy": "အပြာ",
-   "timerColor": "#1E40AF"
+   "timerColor": "#1E40AF",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "pink",
@@ -44,8 +49,8 @@
    "cardTint": "#EDE9FE",
    "darkCardText": false,
    "pillBg": "#EEF2F7",
-   "pillText": "#B9BABC",
-   "statusColor": "#A21CAF",
+   "pillText": "#A21CAF",
+   "statusColor": "#7A1583",
    "button": [
     "#FFFFFF",
     "#F1F5F9",
@@ -55,7 +60,12 @@
    "panel": "#FFFFFF",
    "image": null,
    "nameMy": "ပန်းခရမ်း",
-   "timerColor": "#A21CAF"
+   "timerColor": "#A21CAF",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "yellow",
@@ -72,7 +82,7 @@
    "cardTint": "#F6DDCB",
    "darkCardText": false,
    "pillBg": "#EEF2F7",
-   "pillText": "#B9BABC",
+   "pillText": "#92400E",
    "statusColor": "#92400E",
    "button": [
     "#FFFFFF",
@@ -83,7 +93,12 @@
    "panel": "#FFFFFF",
    "image": null,
    "nameMy": "အဝါလိမ္မော်",
-   "timerColor": "#92400E"
+   "timerColor": "#92400E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "gradient",
@@ -102,6 +117,11 @@
    "pillBg": "#DDD6FE",
    "pillText": "#111827",
    "statusColor": "#EDE9FE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#374151",
+   "bottomText": "#111827",
    "button": [
     "#FFFFFF",
     "#F1F5F9",
@@ -138,7 +158,12 @@
    "panel": "#FFFFFF",
    "image": null,
    "nameMy": "ရွှေ",
-   "timerColor": "#92400E"
+   "timerColor": "#92400E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#374151",
+   "bottomText": "#111827"
   },
   {
    "id": "ice_blue",
@@ -165,7 +190,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#0369A1"
+   "timerColor": "#0369A1",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "adventure_gold",
@@ -192,7 +222,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#92400E"
+   "timerColor": "#92400E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "rose_purple",
@@ -219,7 +254,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#A21CAF"
+   "timerColor": "#A21CAF",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "desert_titanium",
@@ -246,7 +286,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#57534E"
+   "timerColor": "#57534E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "natural_titanium",
@@ -273,7 +318,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#475569"
+   "timerColor": "#475569",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "chocolate",
@@ -300,7 +350,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#4A2C17"
+   "timerColor": "#4A2C17",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "black",
@@ -319,6 +374,11 @@
    "pillBg": "#1F2937",
    "pillText": "#F9FAFB",
    "statusColor": "#E5E7EB",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#4B5563",
     "#1F2937",
@@ -353,7 +413,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#3B2314"
+   "timerColor": "#3B2314",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#374151",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "black_glass",
@@ -372,6 +437,11 @@
    "pillBg": "#26262F",
    "pillText": "#EDEDF2",
    "statusColor": "#E5E5EA",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#55555F",
     "#26262F",
@@ -398,6 +468,11 @@
    "pillBg": "#2D1B4E",
    "pillText": "#F9A8D4",
    "statusColor": "#FBCFE8",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#F472B6",
     "#A21CAF",
@@ -432,7 +507,12 @@
    "icon": "#2E7D32",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#1F2937"
+   "timerColor": "#1F2937",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "sunset_desert",
@@ -450,7 +530,7 @@
    "darkCardText": false,
    "pillBg": "#FFEDD5",
    "pillText": "#9A3412",
-   "statusColor": "#9A3412",
+   "statusColor": "#74270E",
    "button": [
     "#FED7AA",
     "#F97316",
@@ -459,7 +539,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#7C2D12"
+   "timerColor": "#7C2D12",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "crystal_3d",
@@ -486,7 +571,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#4F46E5"
+   "timerColor": "#4F46E5",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "clay_3d",
@@ -513,7 +603,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#9A3412"
+   "timerColor": "#9A3412",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "liquid_metal",
@@ -540,7 +635,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#4B5563"
+   "timerColor": "#4B5563",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "fire_flow",
@@ -559,6 +659,11 @@
    "pillBg": "#431407",
    "pillText": "#FDBA74",
    "statusColor": "#FFEDD5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#111827",
    "button": [
     "#FDBA74",
     "#EA580C",
@@ -585,6 +690,11 @@
    "pillBg": "#1E2A45",
    "pillText": "#BAE6FD",
    "statusColor": "#E0F2FE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#7DD3FC",
     "#2563EB",
@@ -619,7 +729,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#52525B"
+   "timerColor": "#52525B",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "black_hole",
@@ -638,6 +753,11 @@
    "pillBg": "#150826",
    "pillText": "#DDD6FE",
    "statusColor": "#EDE9FE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A78BFA",
     "#6D28D9",
@@ -664,6 +784,11 @@
    "pillBg": "#0F1E3D",
    "pillText": "#BFDBFE",
    "statusColor": "#DBEAFE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#93C5FD",
     "#3B82F6",
@@ -671,7 +796,7 @@
    ],
    "icon": "light",
    "panel": "#BFFFFFFF",
-   "image": null
+   "image": "drawable:warp_bg"
   },
   {
    "id": "ice",
@@ -689,7 +814,7 @@
    "darkCardText": false,
    "pillBg": "#F0F9FF",
    "pillText": "#0369A1",
-   "statusColor": "#0284C7",
+   "statusColor": "#026395",
    "button": [
     "#E0F2FE",
     "#38BDF8",
@@ -698,7 +823,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#0369A1"
+   "timerColor": "#0369A1",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "rain",
@@ -716,7 +846,12 @@
    "darkCardText": false,
    "pillBg": "#334155",
    "pillText": "#E0F2FE",
-   "statusColor": "#E2E8F0",
+   "statusColor": "#F0F4F8",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#BAE6FD",
     "#0EA5E9",
@@ -751,7 +886,12 @@
    "icon": "light",
    "panel": "#BFFFFFFF",
    "image": null,
-   "timerColor": "#082F49"
+   "timerColor": "#082F49",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "snow",
@@ -778,7 +918,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#334155"
+   "timerColor": "#334155",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "multiverse",
@@ -797,6 +942,11 @@
    "pillBg": "#2E1065",
    "pillText": "#E9D5FF",
    "statusColor": "#F5F3FF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#DDD6FE",
     "#8B5CF6",
@@ -823,6 +973,11 @@
    "pillBg": "#06281A",
    "pillText": "#A7F3D0",
    "statusColor": "#D1FAE5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#6EE7B7",
     "#10B981",
@@ -849,6 +1004,11 @@
    "pillBg": "#082F49",
    "pillText": "#BAE6FD",
    "statusColor": "#E0F2FE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#7DD3FC",
     "#0284C7",
@@ -875,6 +1035,11 @@
    "pillBg": "#1E1B4B",
    "pillText": "#CFFAFE",
    "statusColor": "#ECFEFF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A5F3FC",
     "#22D3EE",
@@ -901,6 +1066,11 @@
    "pillBg": "#12082E",
    "pillText": "#F5D0FE",
    "statusColor": "#FAE8FF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#F0ABFC",
     "#C026D3",
@@ -927,6 +1097,11 @@
    "pillBg": "#172554",
    "pillText": "#DBEAFE",
    "statusColor": "#EFF6FF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#111827",
    "button": [
     "#93C5FD",
     "#3B82F6",
@@ -953,6 +1128,11 @@
    "pillBg": "#451A03",
    "pillText": "#FDE68A",
    "statusColor": "#FEF3C7",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#111827",
    "button": [
     "#FDE68A",
     "#D97706",
@@ -979,6 +1159,11 @@
    "pillBg": "#3B0764",
    "pillText": "#F3E8FF",
    "statusColor": "#FAF5FF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#E9D5FF",
     "#9333EA",
@@ -1005,6 +1190,11 @@
    "pillBg": "#450A0A",
    "pillText": "#FECACA",
    "statusColor": "#FEF2F2",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FECACA",
     "#DC2626",
@@ -1031,6 +1221,11 @@
    "pillBg": "#2A0606",
    "pillText": "#FECACA",
    "statusColor": "#FEF2F2",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FCA5A5",
     "#DC2626",
@@ -1057,6 +1252,11 @@
    "pillBg": "#422006",
    "pillText": "#FEF9C3",
    "statusColor": "#FEFCE8",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#111827",
    "button": [
     "#FEF08A",
     "#EAB308",
@@ -1083,6 +1283,11 @@
    "pillBg": "#18181B",
    "pillText": "#E4E4E7",
    "statusColor": "#F4F4F5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A1A1AA",
     "#52525B",
@@ -1117,7 +1322,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#0369A1"
+   "timerColor": "#0369A1",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "haya_crimson",
@@ -1136,6 +1346,11 @@
    "pillBg": "#2B0A0A",
    "pillText": "#FECACA",
    "statusColor": "#FEF2F2",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FCA5A5",
     "#EF4444",
@@ -1162,6 +1377,11 @@
    "pillBg": "#022C22",
    "pillText": "#A7F3D0",
    "statusColor": "#ECFDF5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A7F3D0",
     "#10B981",
@@ -1188,6 +1408,11 @@
    "pillBg": "#1E1B4B",
    "pillText": "#FEF08A",
    "statusColor": "#FEFCE8",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FEF08A",
     "#FACC15",
@@ -1213,7 +1438,7 @@
    "darkCardText": false,
    "pillBg": "#F0F9FF",
    "pillText": "#0369A1",
-   "statusColor": "#0C4A6E",
+   "statusColor": "#093852",
    "button": [
     "#FDE68A",
     "#F59E0B",
@@ -1222,7 +1447,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#0C4A6E"
+   "timerColor": "#0C4A6E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "sky_pastel",
@@ -1239,7 +1469,7 @@
    "cardTint": "#FDF4FF",
    "darkCardText": true,
    "pillBg": "#FDF4FF",
-   "pillText": "#7C6AAE",
+   "pillText": "#6D28D9",
    "statusColor": "#6D28D9",
    "button": [
     "#FCE7F3",
@@ -1249,7 +1479,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#6D28D9"
+   "timerColor": "#6D28D9",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "sky_night",
@@ -1268,6 +1503,11 @@
    "pillBg": "#1E293B",
    "pillText": "#F1F5F9",
    "statusColor": "#F8FAFC",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#F8FAFC",
     "#CBD5E1",
@@ -1302,7 +1542,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#9A3412"
+   "timerColor": "#9A3412",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "iphone_glass",
@@ -1329,7 +1574,12 @@
    "icon": "dark",
    "panel": "#D9FFFFFF",
    "image": null,
-   "timerColor": "#3A3A3C"
+   "timerColor": "#3A3A3C",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "iphone_dark",
@@ -1348,6 +1598,11 @@
    "pillBg": "#2C2C2E",
    "pillText": "#F2F2F7",
    "statusColor": "#F2F2F7",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#48484A",
     "#2C2C2E",
@@ -1372,7 +1627,7 @@
    "cardTint": "#FFF5F7",
    "darkCardText": true,
    "pillBg": "#FFF5F7",
-   "pillText": "#8B7BB8",
+   "pillText": "#7C3AED",
    "statusColor": "#7C3AED",
    "button": [
     "#FDF2F8",
@@ -1382,7 +1637,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#7C3AED"
+   "timerColor": "#7C3AED",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "place_beach",
@@ -1409,7 +1669,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#155E75"
+   "timerColor": "#155E75",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "place_underwater",
@@ -1428,6 +1693,11 @@
    "pillBg": "#0C4A6E",
    "pillText": "#A5F3FC",
    "statusColor": "#ECFEFF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A5F3FC",
     "#06B6D4",
@@ -1454,6 +1724,11 @@
    "pillBg": "#052E16",
    "pillText": "#BBF7D0",
    "statusColor": "#F0FDF4",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#BBF7D0",
     "#22C55E",
@@ -1480,6 +1755,11 @@
    "pillBg": "#0C4A6E",
    "pillText": "#E0F2FE",
    "statusColor": "#F0F9FF",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#111827",
    "button": [
     "#E0F2FE",
     "#38BDF8",
@@ -1514,7 +1794,12 @@
    "icon": "dark",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#92400E"
+   "timerColor": "#92400E",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "place_bagan",
@@ -1532,7 +1817,7 @@
    "darkCardText": false,
    "pillBg": "#FFF7ED",
    "pillText": "#9A3412",
-   "statusColor": "#9A3412",
+   "statusColor": "#74270E",
    "button": [
     "#FFEDD5",
     "#FB923C",
@@ -1541,7 +1826,12 @@
    "icon": "light",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#7C2D12"
+   "timerColor": "#7C2D12",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
   },
   {
    "id": "place_volcano",
@@ -1560,6 +1850,11 @@
    "pillBg": "#1C0A06",
    "pillText": "#FDBA74",
    "statusColor": "#FFEDD5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FDBA74",
     "#EA580C",
@@ -1586,6 +1881,11 @@
    "pillBg": "#1E1B4B",
    "pillText": "#EDE9FE",
    "statusColor": "#F5F3FF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#EDE9FE",
     "#8B5CF6",
@@ -1612,6 +1912,11 @@
    "pillBg": "#022C22",
    "pillText": "#A7F3D0",
    "statusColor": "#ECFDF5",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#A7F3D0",
     "#34D399",
@@ -1637,7 +1942,7 @@
    "darkCardText": true,
    "pillBg": "#FFFFFF",
    "pillText": "#3B5B7A",
-   "statusColor": "#64748B",
+   "statusColor": "#4B5768",
    "button": [
     "#FFFFFF",
     "#DBEAFE",
@@ -1646,7 +1951,12 @@
    "icon": "#3B82F6",
    "panel": "#D9FFFFFF",
    "image": null,
-   "timerColor": "#2563EB"
+   "timerColor": "#2563EB",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "hyperos_vibrant",
@@ -1662,8 +1972,8 @@
    "accentText": "#F0ABFC",
    "cardTint": "#6D5BD0",
    "darkCardText": false,
-   "pillBg": "#A855F7",
-   "pillText": "#FFFFFF",
+   "pillBg": "#B977F9",
+   "pillText": "#111827",
    "statusColor": "#111827",
    "button": [
     "#FDBA74",
@@ -1673,7 +1983,12 @@
    "icon": "light",
    "panel": "#BFFFFFFF",
    "image": null,
-   "timerColor": "#082F49"
+   "timerColor": "#082F49",
+   "glassText": "#111827",
+   "glassSubText": "#374151",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#FFFFFF",
+   "bottomText": "#111827"
   },
   {
    "id": "hyperos_dark",
@@ -1692,6 +2007,11 @@
    "pillBg": "#431407",
    "pillText": "#FDBA74",
    "statusColor": "#E5E7EB",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#3F3F46",
     "#1F1F22",
@@ -1716,7 +2036,7 @@
    "cardTint": "#D9EDDE",
    "darkCardText": true,
    "pillBg": "#E8F5E9",
-   "pillText": "#2E7D5B",
+   "pillText": "#14532D",
    "statusColor": "#14532D",
    "button": [
     "#F0FAF4",
@@ -1726,7 +2046,12 @@
    "icon": "#34A97B",
    "panel": "#D9FFFFFF",
    "image": null,
-   "timerColor": "#14532D"
+   "timerColor": "#14532D",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#111827"
   },
   {
    "id": "hyperos_minimal",
@@ -1753,7 +2078,12 @@
    "icon": "#3B82F6",
    "panel": "#FFFFFF",
    "image": null,
-   "timerColor": "#111827"
+   "timerColor": "#111827",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#6B7280",
+   "bottomText": "#111827"
   },
   {
    "id": "digital_led",
@@ -1772,6 +2102,11 @@
    "pillBg": "#1C0D04",
    "pillText": "#FDE68A",
    "statusColor": "#FDE68A",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#7F1D1D",
     "#450A0A",
@@ -1798,6 +2133,11 @@
    "pillBg": "#03180D",
    "pillText": "#A7F3D0",
    "statusColor": "#A7F3D0",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#065F46",
     "#022C22",
@@ -1824,6 +2164,11 @@
    "pillBg": "#081A2E",
    "pillText": "#A5F3FC",
    "statusColor": "#CFFAFE",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#164E63",
     "#0C2A3A",
@@ -1850,6 +2195,11 @@
    "pillBg": "#071A0C",
    "pillText": "#BBF7D0",
    "statusColor": "#BBF7D0",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#14532D",
     "#052E16",
@@ -1876,6 +2226,11 @@
    "pillBg": "#431407",
    "pillText": "#FDBA74",
    "statusColor": "#FED7AA",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#FFFFFF",
+   "cardSubText": "#D1D5DB",
+   "bottomText": "#FFFFFF",
    "button": [
     "#FDBA74",
     "#F97316",
@@ -1884,6 +2239,138 @@
    "icon": "dark",
    "panel": "#D9FFFFFF",
    "image": null
+  },
+  {
+   "accent1": "#14B8A6",
+   "accent2": "#0D9488",
+   "accentText": "#5EEAD4",
+   "bg": [
+    "#065F46",
+    "#0D9488",
+    "#0891B2",
+    "#1E40AF"
+   ],
+   "button": [
+    "#2DD4BF",
+    "#0D9488",
+    "#115E59"
+   ],
+   "cardTint": "#99F6E4",
+   "darkCardText": true,
+   "icon": "light",
+   "id": "peacock_iridescent",
+   "image": null,
+   "name": "Peacock",
+   "nameMy": "ဒေါင်း",
+   "panel": "#FFFFFF",
+   "pillBg": "#134E4A",
+   "pillText": "#99F6E4",
+   "statusColor": "#CCFBF1",
+   "timerColor": "#FFFFFF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#4B5563",
+   "bottomText": "#FFFFFF"
+  },
+  {
+   "accent1": "#F9A8D4",
+   "accent2": "#EC4899",
+   "accentText": "#BE185D",
+   "bg": [
+    "#FDF2F8",
+    "#FCE7F3",
+    "#FBCFE8",
+    "#F9A8D4"
+   ],
+   "button": [
+    "#60A5FA",
+    "#3B82F6",
+    "#1E40AF"
+   ],
+   "cardTint": "#F9A8D4",
+   "darkCardText": true,
+   "icon": "light",
+   "id": "sakura",
+   "image": null,
+   "name": "Sakura",
+   "nameMy": "ဆာကူရာ",
+   "panel": "#FFFFFF",
+   "pillBg": "#FCE7F3",
+   "pillText": "#9D174D",
+   "statusColor": "#9D174D",
+   "timerColor": "#9D174D",
+   "glassText": "#111827",
+   "glassSubText": "#4B5563",
+   "cardText": "#111827",
+   "cardSubText": "#374151",
+   "bottomText": "#111827"
+  },
+  {
+   "accent1": "#8B5CF6",
+   "accent2": "#6D28D9",
+   "accentText": "#C4B5FD",
+   "bg": [
+    "#4C1D95",
+    "#5B21B6",
+    "#6D28D9",
+    "#7C3AED"
+   ],
+   "button": [
+    "#8B5CF6",
+    "#6D28D9",
+    "#4C1D95"
+   ],
+   "cardTint": "#F8F7FF",
+   "darkCardText": false,
+   "icon": "#FBBF24",
+   "id": "imperial",
+   "image": null,
+   "name": "Imperial",
+   "nameMy": "အင်ပါယာ",
+   "panel": "#FFFFFF",
+   "pillBg": "#2E1065",
+   "pillText": "#FDE68A",
+   "statusColor": "#EDE9FE",
+   "timerColor": "#FFFFFF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#B45309",
+   "cardSubText": "#92400E",
+   "bottomText": "#FFFFFF"
+  },
+  {
+   "accent1": "#38BDF8",
+   "accent2": "#0369A1",
+   "accentText": "#7DD3FC",
+   "bg": [
+    "#082F49",
+    "#0C4A6E",
+    "#075985",
+    "#0369A1"
+   ],
+   "button": [
+    "#38BDF8",
+    "#0284C7",
+    "#0C4A6E"
+   ],
+   "cardTint": "#38BDF8",
+   "darkCardText": true,
+   "icon": "light",
+   "id": "deep_sea",
+   "image": null,
+   "name": "Deep Sea",
+   "nameMy": "ပင်လယ်နက်",
+   "panel": "#FFFFFF",
+   "pillBg": "#0C4A6E",
+   "pillText": "#BAE6FD",
+   "statusColor": "#E0F2FE",
+   "timerColor": "#FFFFFF",
+   "glassText": "#111827",
+   "glassSubText": "#111827",
+   "cardText": "#111827",
+   "cardSubText": "#374151",
+   "bottomText": "#FFFFFF"
   }
  ]
 }
