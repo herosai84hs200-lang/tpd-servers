@@ -1591,6 +1591,266 @@
    "icon": "light",
    "panel": "#BFFFFFFF",
    "image": null
+  },
+  {
+   "id": "hyperos_glass",
+   "name": "HyperOS Glass",
+   "bg": [
+    "#F2F7FB",
+    "#E3EEF7",
+    "#CFE3F2",
+    "#B8D4EA"
+   ],
+   "accent1": "#93C5FD",
+   "accent2": "#60A5FA",
+   "accentText": "#2563EB",
+   "cardTint": "#E8F1F9",
+   "darkCardText": true,
+   "pillBg": "#FFFFFF",
+   "pillText": "#3B5B7A",
+   "statusColor": "#64748B",
+   "button": [
+    "#FFFFFF",
+    "#DBEAFE",
+    "#BFDBFE"
+   ],
+   "icon": "#3B82F6",
+   "panel": "#D9FFFFFF",
+   "image": null
+  },
+  {
+   "id": "hyperos_vibrant",
+   "name": "HyperOS Vibrant",
+   "bg": [
+    "#0EA5E9",
+    "#7C3AED",
+    "#EC4899",
+    "#F97316"
+   ],
+   "accent1": "#A78BFA",
+   "accent2": "#F97316",
+   "accentText": "#F0ABFC",
+   "cardTint": "#6D5BD0",
+   "darkCardText": false,
+   "pillBg": "#A855F7",
+   "pillText": "#FFFFFF",
+   "statusColor": "#F5F3FF",
+   "button": [
+    "#FDBA74",
+    "#EC4899",
+    "#7C3AED"
+   ],
+   "icon": "light",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "hyperos_dark",
+   "name": "HyperOS Dark",
+   "bg": [
+    "#0A0A0C",
+    "#141416",
+    "#1C1C1F",
+    "#2A1A12"
+   ],
+   "accent1": "#FB923C",
+   "accent2": "#C2410C",
+   "accentText": "#FB923C",
+   "cardTint": "#1C1C1F",
+   "darkCardText": false,
+   "pillBg": "#431407",
+   "pillText": "#FDBA74",
+   "statusColor": "#E5E7EB",
+   "button": [
+    "#3F3F46",
+    "#1F1F22",
+    "#0A0A0C"
+   ],
+   "icon": "#FB923C",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "hyperos_nature",
+   "name": "HyperOS Nature",
+   "bg": [
+    "#B8DCE8",
+    "#CFE8DC",
+    "#E3F2E6",
+    "#9CCBAE"
+   ],
+   "accent1": "#6EE7B7",
+   "accent2": "#34A97B",
+   "accentText": "#2E7D5B",
+   "cardTint": "#D9EDDE",
+   "darkCardText": true,
+   "pillBg": "#E8F5E9",
+   "pillText": "#2E7D5B",
+   "statusColor": "#5B8A7A",
+   "button": [
+    "#F0FAF4",
+    "#C8E6D4",
+    "#8FCBA8"
+   ],
+   "icon": "#34A97B",
+   "panel": "#D9FFFFFF",
+   "image": null
+  },
+  {
+   "id": "hyperos_minimal",
+   "name": "HyperOS Minimal",
+   "bg": [
+    "#FFFFFF",
+    "#F5F5F7",
+    "#EDEDEF",
+    "#E3E3E6"
+   ],
+   "accent1": "#E5E7EB",
+   "accent2": "#9CA3AF",
+   "accentText": "#3B82F6",
+   "cardTint": "#FFFFFF",
+   "darkCardText": true,
+   "pillBg": "#F1F1F3",
+   "pillText": "#111827",
+   "statusColor": "#6B7280",
+   "button": [
+    "#FFFFFF",
+    "#F1F5F9",
+    "#E2E8F0"
+   ],
+   "icon": "#3B82F6",
+   "panel": "#FFFFFF",
+   "image": null
+  },
+  {
+   "id": "digital_led",
+   "name": "Digital LED",
+   "bg": [
+    "#000000",
+    "#0A0505",
+    "#140A06",
+    "#1C0D04"
+   ],
+   "accent1": "#EF4444",
+   "accent2": "#B91C1C",
+   "accentText": "#FCA5A5",
+   "cardTint": "#120806",
+   "darkCardText": false,
+   "pillBg": "#1C0D04",
+   "pillText": "#FDE68A",
+   "statusColor": "#FDE68A",
+   "button": [
+    "#7F1D1D",
+    "#450A0A",
+    "#000000"
+   ],
+   "icon": "#FBBF24",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "digital_binary",
+   "name": "Digital Binary",
+   "bg": [
+    "#010805",
+    "#02130B",
+    "#032414",
+    "#053520"
+   ],
+   "accent1": "#34D399",
+   "accent2": "#065F46",
+   "accentText": "#6EE7B7",
+   "cardTint": "#03180D",
+   "darkCardText": false,
+   "pillBg": "#03180D",
+   "pillText": "#A7F3D0",
+   "statusColor": "#A7F3D0",
+   "button": [
+    "#065F46",
+    "#022C22",
+    "#010805"
+   ],
+   "icon": "#6EE7B7",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "digital_hud",
+   "name": "Digital HUD",
+   "bg": [
+    "#020810",
+    "#04101E",
+    "#081A2E",
+    "#0C2440"
+   ],
+   "accent1": "#22D3EE",
+   "accent2": "#0E7490",
+   "accentText": "#67E8F9",
+   "cardTint": "#081A2E",
+   "darkCardText": false,
+   "pillBg": "#081A2E",
+   "pillText": "#A5F3FC",
+   "statusColor": "#CFFAFE",
+   "button": [
+    "#164E63",
+    "#0C2A3A",
+    "#020810"
+   ],
+   "icon": "#67E8F9",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "digital_terminal",
+   "name": "Digital Terminal",
+   "bg": [
+    "#000000",
+    "#041007",
+    "#071A0C",
+    "#0A2412"
+   ],
+   "accent1": "#4ADE80",
+   "accent2": "#166534",
+   "accentText": "#86EFAC",
+   "cardTint": "#071A0C",
+   "darkCardText": false,
+   "pillBg": "#071A0C",
+   "pillText": "#BBF7D0",
+   "statusColor": "#BBF7D0",
+   "button": [
+    "#14532D",
+    "#052E16",
+    "#000000"
+   ],
+   "icon": "#4ADE80",
+   "panel": "#BFFFFFFF",
+   "image": null
+  },
+  {
+   "id": "orange-black",
+   "name": "Orange Black",
+   "bg": [
+    "#050505",
+    "#120A05",
+    "#2A1206",
+    "#7C2D12"
+   ],
+   "accent1": "#F97316",
+   "accent2": "#C2410C",
+   "accentText": "#FB923C",
+   "cardTint": "#2A1206",
+   "darkCardText": false,
+   "pillBg": "#431407",
+   "pillText": "#FDBA74",
+   "statusColor": "#FED7AA",
+   "button": [
+    "#FDBA74",
+    "#F97316",
+    "#C2410C"
+   ],
+   "icon": "dark",
+   "panel": "#D9FFFFFF",
+   "image": null
   }
  ]
 }
