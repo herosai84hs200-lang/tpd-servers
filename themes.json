@@ -24,8 +24,8 @@
         "#1E40AF"
       ],
       "icon": "light",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1qgJ86_T7yiHsfOxc90yBDudSiQH0lp5o&export=download",
       "nameMy": "အပြာ",
       "timerColor": "#1E40AF",
       "glassText": "#111827",
@@ -57,8 +57,8 @@
         "#E2E8F0"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1gVuWq_cZf_TUAZA7-XVAdtOLztNkbmkR&export=download",
       "nameMy": "ပန်းခရမ်း",
       "timerColor": "#A21CAF",
       "glassText": "#111827",
@@ -90,8 +90,8 @@
         "#E2E8F0"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1yPRr7TdUl-iEYi0hqOEkkMDLPiLgWnr6&export=download",
       "nameMy": "အဝါလိမ္မော်",
       "timerColor": "#92400E",
       "glassText": "#111827",
@@ -116,7 +116,7 @@
       "darkCardText": true,
       "pillBg": "#DDD6FE",
       "pillText": "#111827",
-      "statusColor": "#EDE9FE",
+      "statusColor": "#6D28D9",
       "glassText": "#111827",
       "glassSubText": "#111827",
       "cardText": "#111827",
@@ -128,9 +128,10 @@
         "#E2E8F0"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
-      "nameMy": "Gradient"
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1IHBkUA3VxFzpLxvLGjqUeTKQSaKKhuMA&export=download",
+      "nameMy": "Gradient",
+      "timerColor": "#4C1D95"
     },
     {
       "id": "gold",
