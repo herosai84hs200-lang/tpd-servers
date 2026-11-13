@@ -4051,6 +4051,41 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "colorful",
+      "name": "Colorful",
+      "bg": [
+        "#F472B6",
+        "#FBBF24",
+        "#34D399",
+        "#60A5FA",
+        "#A78BFA"
+      ],
+      "accent1": "#8B5CF6",
+      "accent2": "#8B5CF6",
+      "accentText": "#5B21B6",
+      "cardTint": "#FDF4FF",
+      "darkCardText": true,
+      "pillBg": "#FFFFFF",
+      "pillText": "#7C3AED",
+      "statusColor": "#FFFFFF",
+      "button": [
+        "#F472B6",
+        "#FBBF24",
+        "#34D399",
+        "#60A5FA"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ရောင်စုံ",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
