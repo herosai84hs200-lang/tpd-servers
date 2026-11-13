@@ -4086,6 +4086,43 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "bg": [
+        "#E0F2FE",
+        "#DBEAFE",
+        "#EDE9FE",
+        "#FCE7F3"
+      ],
+      "accent1": "#8B5CF6",
+      "accent2": "#8B5CF6",
+      "accentText": "#5B21B6",
+      "cardTint": "#FFFFFF",
+      "darkCardText": true,
+      "pillBg": "#FFFFFF",
+      "pillText": "#7C3AED",
+      "statusColor": "#4C1D95",
+      "button": [
+        "#EF4444",
+        "#F97316",
+        "#FACC15",
+        "#22C55E",
+        "#3B82F6",
+        "#6366F1",
+        "#A855F7"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "သက်တံ့",
+      "timerColor": "#1E3A8A",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#4C1D95"
     }
   ]
 }
