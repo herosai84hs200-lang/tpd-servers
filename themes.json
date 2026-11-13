@@ -3985,6 +3985,39 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D8B4FE",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "bg": [
+        "#F0F9FF",
+        "#E0F2FE",
+        "#BAE6FD",
+        "#7DD3FC"
+      ],
+      "accent1": "#0EA5E9",
+      "accent2": "#0EA5E9",
+      "accentText": "#0369A1",
+      "cardTint": "#E0F2FE",
+      "darkCardText": true,
+      "pillBg": "#E0F2FE",
+      "pillText": "#0369A1",
+      "statusColor": "#0369A1",
+      "button": [
+        "#7DD3FC",
+        "#38BDF8",
+        "#0284C7"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ကောင်းကင်",
+      "timerColor": "#0C4A6E",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#0C4A6E"
     }
   ]
 }
