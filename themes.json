@@ -33,7 +33,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "pink",
@@ -67,7 +67,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "yellow",
@@ -101,7 +101,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "gradient",
@@ -135,7 +135,7 @@
       "image": "https://drive.google.com/uc?id=1IHBkUA3VxFzpLxvLGjqUeTKQSaKKhuMA&export=download",
       "nameMy": "Gradient",
       "timerColor": "#4C1D95",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "gold",
@@ -202,7 +202,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "adventure_gold",
@@ -268,7 +268,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "desert_titanium",
@@ -301,7 +301,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "natural_titanium",
@@ -334,7 +334,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "chocolate",
@@ -367,7 +367,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "black",
@@ -399,7 +399,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Y5CMWwsOfotHOEjJRCQfglb0ot1CKE80&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "coffee",
@@ -432,7 +432,7 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "black_glass",
@@ -464,7 +464,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1SbV5R31jo03dNAKKd3URPYT9ohp04qoe&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "cyberpunk",
@@ -529,7 +529,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "sunset_desert",
@@ -595,7 +595,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "clay_3d",
@@ -628,7 +628,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "liquid_metal",
@@ -693,7 +693,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Up4uVGBeD3hWq0zaD2PXH-W-zW7Tmg5v&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "space_station",
@@ -758,7 +758,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "black_hole",
@@ -855,7 +855,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "rain",
@@ -887,7 +887,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1HVaT2qJ0C6I3lqLQgRV2LmfmrZDZSRvg&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "water",
@@ -920,7 +920,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "snow",
@@ -953,7 +953,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "multiverse",
@@ -1468,7 +1468,7 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Ydtqc2rMVubWYecDAT_siqWcHZijU_ea&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "sky_bright",
@@ -1501,7 +1501,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "sky_pastel",
@@ -1534,7 +1534,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "sky_night",
@@ -1566,7 +1566,7 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1lvPgqzMYnPOaKnB6v-z9KNBVedpYjKY3&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "sky_golden",
@@ -1632,7 +1632,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "iphone_dark",
@@ -1664,7 +1664,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1w-ofRNdfN4IwE2kfBRWAA5ligWuDN5Ij&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "iphone_pastel",
@@ -1697,7 +1697,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "place_beach",
@@ -1730,7 +1730,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "place_underwater",
@@ -1762,7 +1762,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1_ZyozxG0jebOCbeSSgnDJpLvRnpEbVs1&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "place_jungle",
@@ -1794,7 +1794,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1GVLihjncd_geVMDp1X-maj3Cp7sBXNS1&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "place_waterfall",
@@ -1826,7 +1826,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1f8eiURhKkc5ym28h4WrzIZnSzjhtYaaJ&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "place_pagoda",
@@ -1924,7 +1924,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=13NUOev8DO1ARmNyx0XDSkDFuIvo05Jdr&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "place_cave",
@@ -1956,7 +1956,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1383D1f_OBOCR2QLL6cnnoYgH5I5V6QJx&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "place_aurora",
@@ -1988,7 +1988,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1MeA9i4samb-UDbhN-4dUG--wMdNpaUBf&export=download",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "hyperos_glass",
@@ -2021,7 +2021,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "hyperos_vibrant",
@@ -2054,7 +2054,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FFFFFF",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "hyperos_dark",
@@ -2086,7 +2086,7 @@
       "icon": "#FB923C",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1mV9-W1yARVRK_3v0eLH5DJFUMoTRbqgQ&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "hyperos_nature",
@@ -2119,7 +2119,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "hyperos_minimal",
@@ -2152,7 +2152,7 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "digital_led",
@@ -2312,7 +2312,7 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1-abVlgqpGuwLGjKKbkrK1aLbarPWkoEV&export=download",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "accent1": "#14B8A6",
@@ -2380,7 +2380,7 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "accent1": "#8B5CF6",
@@ -2448,7 +2448,7 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "accent1": "#A855F7",
@@ -2515,7 +2515,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#BFDBFE",
       "bottomText": "#1E293B",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "accent1": "#F59E0B",
@@ -2548,7 +2548,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FDE68A",
       "bottomText": "#1E293B",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "accent1": "#10B981",
@@ -2581,7 +2581,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#A7F3D0",
       "bottomText": "#1E293B",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "accent1": "#F87171",
@@ -2615,7 +2615,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "accent1": "#FB7185",
@@ -2649,7 +2649,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "accent1": "#DDD6FE",
@@ -2683,7 +2683,7 @@
       "cardText": "#1E1B4B",
       "cardSubText": "#475569",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "accent1": "#F9A8D4",
@@ -3941,7 +3941,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "euro",
@@ -3975,7 +3975,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "fa",
@@ -4009,7 +4009,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#1E3A8A",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "manchester_united",
@@ -4043,7 +4043,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FCA5A5",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "facebook",
@@ -4111,7 +4111,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D8B4FE",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "sky",
@@ -4145,7 +4145,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#0C4A6E",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "world",
@@ -4179,7 +4179,7 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "colorful",
@@ -4215,7 +4215,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "rainbow",
@@ -4253,7 +4253,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#4C1D95",
-      "style": "default"
+      "style": "cyber"
     },
     {
       "id": "beautiful_girl",
@@ -4287,7 +4287,7 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "saber"
     },
     {
       "id": "taunggyi_tazaungdaing",
@@ -4321,7 +4321,7 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download",
-      "style": "default"
+      "style": "saber"
     }
   ]
 }
