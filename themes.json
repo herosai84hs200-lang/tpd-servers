@@ -2899,7 +2899,7 @@
     },
     {
       "id": "pixel",
-      "name": "Pixel",
+      "name": "Google Pixel",
       "bg": [
         "#FFFFFF",
         "#F8F9FA",
@@ -2919,7 +2919,7 @@
         "#2B6CB0"
       ],
       "icon": "light",
-      "nameMy": "ပစ်ဆယ်",
+      "nameMy": "ဂူဂဲလ် ပစ်ဆယ်",
       "timerColor": "#1F2937",
       "panel": "#FFFFFF",
       "darkCardText": true,
