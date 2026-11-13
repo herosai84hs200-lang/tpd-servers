@@ -1109,7 +1109,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1CpI8gauzEJp8wVPf-1mlnsa2ePUn5-r1&export=download"
     },
     {
       "id": "legend",
@@ -1140,7 +1140,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=16lSH981COKyDb1PUTJVZdkimH8vJwHOO&export=download"
     },
     {
       "id": "mythic",
@@ -1171,7 +1171,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1bZvnRnH6vfPosy7E68GYIFGgha7oJnFT&export=download"
     },
     {
       "id": "glory",
@@ -1189,7 +1189,7 @@
       "darkCardText": false,
       "pillBg": "#450A0A",
       "pillText": "#FECACA",
-      "statusColor": "#FEF2F2",
+      "statusColor": "#78350F",
       "glassText": "#111827",
       "glassSubText": "#111827",
       "cardText": "#FFFFFF",
@@ -1202,7 +1202,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1U58e9mz5MOnC0o3Y_q-G6SEqB25XbcZP&export=download",
+      "timerColor": "#92400E"
     },
     {
       "id": "saber_crimson",
