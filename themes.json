@@ -3820,6 +3820,72 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "euro",
+      "name": "Euro",
+      "bg": [
+        "#1E1B4B",
+        "#172554",
+        "#0F172A",
+        "#020617"
+      ],
+      "accent1": "#3B82F6",
+      "accent2": "#3B82F6",
+      "accentText": "#BFDBFE",
+      "cardTint": "#1E2A4A",
+      "darkCardText": false,
+      "pillBg": "#1F2937",
+      "pillText": "#93C5FD",
+      "statusColor": "#60A5FA",
+      "button": [
+        "#F0D98C",
+        "#D4AF37",
+        "#B8962E"
+      ],
+      "icon": "dark",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ယူရို",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "fa",
+      "name": "FA",
+      "bg": [
+        "#FFFFFF",
+        "#F8FAFC",
+        "#EFF6FF",
+        "#DBEAFE"
+      ],
+      "accent1": "#CE1124",
+      "accent2": "#CE1124",
+      "accentText": "#7F1D1D",
+      "cardTint": "#F1F5F9",
+      "darkCardText": true,
+      "pillBg": "#FEE2E2",
+      "pillText": "#7F1D1D",
+      "statusColor": "#7F1D1D",
+      "button": [
+        "#E0344A",
+        "#CE1124",
+        "#A30D1C"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "အက်ဖ်အေ",
+      "timerColor": "#1E3A8A",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#1E3A8A"
     }
   ]
 }
