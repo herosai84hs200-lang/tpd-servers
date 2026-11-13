@@ -404,16 +404,16 @@
       "darkCardText": false,
       "pillBg": "#E6CCB2",
       "pillText": "#3B2314",
-      "statusColor": "#3B2314",
+      "statusColor": "#FDE68A",
       "button": [
         "#B08968",
         "#7F5539",
         "#3B2314"
       ],
       "icon": "light",
-      "panel": "#FFFFFF",
-      "image": null,
-      "timerColor": "#3B2314",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1VhhJmtRowiIeNb3OjzvRTgC-zrIooKF-&export=download",
+      "timerColor": "#FEF3C7",
       "glassText": "#111827",
       "glassSubText": "#111827",
       "cardText": "#111827",
@@ -448,8 +448,8 @@
         "#0A0A0F"
       ],
       "icon": "light",
-      "panel": "#59FFFFFF",
-      "image": null
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1SbV5R31jo03dNAKKd3URPYT9ohp04qoe&export=download"
     },
     {
       "id": "cyberpunk",
@@ -505,8 +505,8 @@
         "#DCDCDC"
       ],
       "icon": "#2E7D32",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1UatjOLW1dcaKH2V7lEKEWvvwsmkARaNh&export=download",
       "timerColor": "#1F2937",
       "glassText": "#111827",
       "glassSubText": "#111827",
@@ -2239,8 +2239,8 @@
         "#C2410C"
       ],
       "icon": "dark",
-      "panel": "#D9FFFFFF",
-      "image": null
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1-abVlgqpGuwLGjKKbkrK1aLbarPWkoEV&export=download"
     },
     {
       "accent1": "#14B8A6",
