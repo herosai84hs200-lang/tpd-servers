@@ -480,7 +480,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=11KP8SPiH2QYqYS9KaDr4-ECuVDA1MqcA&export=download"
     },
     {
       "id": "shan_3d",
@@ -569,8 +569,8 @@
         "#3730A3"
       ],
       "icon": "light",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1ee-1oSiC7SCQ0XkjrE5W4uELHRCxWa1d&export=download",
       "timerColor": "#4F46E5",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -626,16 +626,16 @@
       "darkCardText": false,
       "pillBg": "#E5E7EB",
       "pillText": "#374151",
-      "statusColor": "#374151",
+      "statusColor": "#E5E7EB",
       "button": [
         "#F3F4F6",
         "#9CA3AF",
         "#1F2937"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
-      "timerColor": "#4B5563",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=10WwyiIIrXXO0FSnzfQTVFxtJWkzBJfxl&export=download",
+      "timerColor": "#F3F4F6",
       "glassText": "#111827",
       "glassSubText": "#374151",
       "cardText": "#111827",
@@ -954,7 +954,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1OqdyhxGyBVvVNAp3ryU9uS8wk8eRYMvY&export=download"
     },
     {
       "id": "cyber_circuit",
