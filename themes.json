@@ -32,7 +32,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "pink",
@@ -65,7 +66,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "yellow",
@@ -98,7 +100,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "gradient",
@@ -131,7 +134,8 @@
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1IHBkUA3VxFzpLxvLGjqUeTKQSaKKhuMA&export=download",
       "nameMy": "Gradient",
-      "timerColor": "#4C1D95"
+      "timerColor": "#4C1D95",
+      "style": "default"
     },
     {
       "id": "gold",
@@ -164,7 +168,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#374151",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "saber"
     },
     {
       "id": "ice_blue",
@@ -196,7 +201,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "adventure_gold",
@@ -228,7 +234,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "saber"
     },
     {
       "id": "rose_purple",
@@ -260,7 +267,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "desert_titanium",
@@ -292,7 +300,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "natural_titanium",
@@ -324,7 +333,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "chocolate",
@@ -356,7 +366,8 @@
       "glassSubText": "#111827",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "black",
@@ -387,7 +398,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1Y5CMWwsOfotHOEjJRCQfglb0ot1CKE80&export=download"
+      "image": "https://drive.google.com/uc?id=1Y5CMWwsOfotHOEjJRCQfglb0ot1CKE80&export=download",
+      "style": "default"
     },
     {
       "id": "coffee",
@@ -419,7 +431,8 @@
       "glassSubText": "#111827",
       "cardText": "#111827",
       "cardSubText": "#374151",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "black_glass",
@@ -450,7 +463,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1SbV5R31jo03dNAKKd3URPYT9ohp04qoe&export=download"
+      "image": "https://drive.google.com/uc?id=1SbV5R31jo03dNAKKd3URPYT9ohp04qoe&export=download",
+      "style": "default"
     },
     {
       "id": "cyberpunk",
@@ -481,7 +495,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=11KP8SPiH2QYqYS9KaDr4-ECuVDA1MqcA&export=download"
+      "image": "https://drive.google.com/uc?id=11KP8SPiH2QYqYS9KaDr4-ECuVDA1MqcA&export=download",
+      "style": "cyber"
     },
     {
       "id": "shan_3d",
@@ -513,7 +528,8 @@
       "glassSubText": "#111827",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "sunset_desert",
@@ -545,7 +561,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     },
     {
       "id": "crystal_3d",
@@ -577,7 +594,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "clay_3d",
@@ -609,7 +627,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "liquid_metal",
@@ -641,7 +660,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "cyber"
     },
     {
       "id": "fire_flow",
@@ -672,7 +692,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1Up4uVGBeD3hWq0zaD2PXH-W-zW7Tmg5v&export=download"
+      "image": "https://drive.google.com/uc?id=1Up4uVGBeD3hWq0zaD2PXH-W-zW7Tmg5v&export=download",
+      "style": "default"
     },
     {
       "id": "space_station",
@@ -703,7 +724,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1bEnbW27c3_YmPxQeqsHouH-Jrlc_3rJY&export=download"
+      "image": "https://drive.google.com/uc?id=1bEnbW27c3_YmPxQeqsHouH-Jrlc_3rJY&export=download",
+      "style": "cyber"
     },
     {
       "id": "moon_surface",
@@ -735,7 +757,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "black_hole",
@@ -766,7 +789,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1LgewwXkO-vl7kE8RLH5esW9H7P9DCaPA&export=download"
+      "image": "https://drive.google.com/uc?id=1LgewwXkO-vl7kE8RLH5esW9H7P9DCaPA&export=download",
+      "style": "cyber"
     },
     {
       "id": "warp_speed",
@@ -797,7 +821,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "drawable:warp_bg"
+      "image": "drawable:warp_bg",
+      "style": "cyber"
     },
     {
       "id": "ice",
@@ -829,7 +854,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "rain",
@@ -860,7 +886,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1HVaT2qJ0C6I3lqLQgRV2LmfmrZDZSRvg&export=download"
+      "image": "https://drive.google.com/uc?id=1HVaT2qJ0C6I3lqLQgRV2LmfmrZDZSRvg&export=download",
+      "style": "default"
     },
     {
       "id": "water",
@@ -892,7 +919,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "snow",
@@ -924,7 +952,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "multiverse",
@@ -955,7 +984,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1OqdyhxGyBVvVNAp3ryU9uS8wk8eRYMvY&export=download"
+      "image": "https://drive.google.com/uc?id=1OqdyhxGyBVvVNAp3ryU9uS8wk8eRYMvY&export=download",
+      "style": "cyber"
     },
     {
       "id": "cyber_circuit",
@@ -986,7 +1016,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1hbBu8fkS1lHume0_XUzG2Xw9ig1pP4EA&export=download"
+      "image": "https://drive.google.com/uc?id=1hbBu8fkS1lHume0_XUzG2Xw9ig1pP4EA&export=download",
+      "style": "cyber"
     },
     {
       "id": "cyber_datastream",
@@ -1017,7 +1048,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1tfbI9n19PjsXlxZNaSezWqUyzawtEiP-&export=download"
+      "image": "https://drive.google.com/uc?id=1tfbI9n19PjsXlxZNaSezWqUyzawtEiP-&export=download",
+      "style": "cyber"
     },
     {
       "id": "cyber_hologram",
@@ -1048,7 +1080,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1JaMhQStEWt5WeN6gNDjY2ShsD8ZDo_yG&export=download"
+      "image": "https://drive.google.com/uc?id=1JaMhQStEWt5WeN6gNDjY2ShsD8ZDo_yG&export=download",
+      "style": "cyber"
     },
     {
       "id": "cyber_neongrid",
@@ -1079,7 +1112,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1DFdXjVnlpK0vduKXPUsLbHGA8lkshZgz&export=download"
+      "image": "https://drive.google.com/uc?id=1DFdXjVnlpK0vduKXPUsLbHGA8lkshZgz&export=download",
+      "style": "cyber"
     },
     {
       "id": "saber",
@@ -1110,7 +1144,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1CpI8gauzEJp8wVPf-1mlnsa2ePUn5-r1&export=download"
+      "image": "https://drive.google.com/uc?id=1CpI8gauzEJp8wVPf-1mlnsa2ePUn5-r1&export=download",
+      "style": "saber"
     },
     {
       "id": "legend",
@@ -1141,7 +1176,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=16lSH981COKyDb1PUTJVZdkimH8vJwHOO&export=download"
+      "image": "https://drive.google.com/uc?id=16lSH981COKyDb1PUTJVZdkimH8vJwHOO&export=download",
+      "style": "saber"
     },
     {
       "id": "mythic",
@@ -1172,7 +1208,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1bZvnRnH6vfPosy7E68GYIFGgha7oJnFT&export=download"
+      "image": "https://drive.google.com/uc?id=1bZvnRnH6vfPosy7E68GYIFGgha7oJnFT&export=download",
+      "style": "saber"
     },
     {
       "id": "glory",
@@ -1204,7 +1241,8 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1U58e9mz5MOnC0o3Y_q-G6SEqB25XbcZP&export=download",
-      "timerColor": "#92400E"
+      "timerColor": "#92400E",
+      "style": "saber"
     },
     {
       "id": "saber_crimson",
@@ -1235,7 +1273,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1kZYxN2LtKN9xl-90NPoev38T6cpbMpno&export=download"
+      "image": "https://drive.google.com/uc?id=1kZYxN2LtKN9xl-90NPoev38T6cpbMpno&export=download",
+      "style": "saber"
     },
     {
       "id": "saber_gold",
@@ -1266,7 +1305,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1zIxGwJebVeXJZIuU0LfNdyVVIJuJD2xz&export=download"
+      "image": "https://drive.google.com/uc?id=1zIxGwJebVeXJZIuU0LfNdyVVIJuJD2xz&export=download",
+      "style": "saber"
     },
     {
       "id": "saber_shadow",
@@ -1297,7 +1337,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1S-dxsVKdLT0isRs876pYDaMpH0ekHo2l&export=download"
+      "image": "https://drive.google.com/uc?id=1S-dxsVKdLT0isRs876pYDaMpH0ekHo2l&export=download",
+      "style": "saber"
     },
     {
       "id": "saber_frost",
@@ -1329,7 +1370,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "saber"
     },
     {
       "id": "haya_crimson",
@@ -1360,7 +1402,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1ZgPr2syIeFwumoH3avchAHnugzuikGZi&export=download"
+      "image": "https://drive.google.com/uc?id=1ZgPr2syIeFwumoH3avchAHnugzuikGZi&export=download",
+      "style": "saber"
     },
     {
       "id": "haya_jade",
@@ -1392,7 +1435,8 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1tz0DZmrIFnNP5VXhvRFFZylXcDLsMe7B&export=download",
-      "timerColor": "#064E3B"
+      "timerColor": "#064E3B",
+      "style": "saber"
     },
     {
       "id": "epic_storm",
@@ -1423,7 +1467,8 @@
       ],
       "icon": "dark",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1Ydtqc2rMVubWYecDAT_siqWcHZijU_ea&export=download"
+      "image": "https://drive.google.com/uc?id=1Ydtqc2rMVubWYecDAT_siqWcHZijU_ea&export=download",
+      "style": "default"
     },
     {
       "id": "sky_bright",
@@ -1455,7 +1500,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "sky_pastel",
@@ -1487,7 +1533,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "sky_night",
@@ -1518,7 +1565,8 @@
       ],
       "icon": "dark",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1lvPgqzMYnPOaKnB6v-z9KNBVedpYjKY3&export=download"
+      "image": "https://drive.google.com/uc?id=1lvPgqzMYnPOaKnB6v-z9KNBVedpYjKY3&export=download",
+      "style": "default"
     },
     {
       "id": "sky_golden",
@@ -1550,7 +1598,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "saber"
     },
     {
       "id": "iphone_glass",
@@ -1582,7 +1631,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "iphone_dark",
@@ -1613,7 +1663,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1w-ofRNdfN4IwE2kfBRWAA5ligWuDN5Ij&export=download"
+      "image": "https://drive.google.com/uc?id=1w-ofRNdfN4IwE2kfBRWAA5ligWuDN5Ij&export=download",
+      "style": "default"
     },
     {
       "id": "iphone_pastel",
@@ -1645,7 +1696,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "place_beach",
@@ -1677,7 +1729,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "place_underwater",
@@ -1708,7 +1761,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1_ZyozxG0jebOCbeSSgnDJpLvRnpEbVs1&export=download"
+      "image": "https://drive.google.com/uc?id=1_ZyozxG0jebOCbeSSgnDJpLvRnpEbVs1&export=download",
+      "style": "default"
     },
     {
       "id": "place_jungle",
@@ -1739,7 +1793,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1GVLihjncd_geVMDp1X-maj3Cp7sBXNS1&export=download"
+      "image": "https://drive.google.com/uc?id=1GVLihjncd_geVMDp1X-maj3Cp7sBXNS1&export=download",
+      "style": "default"
     },
     {
       "id": "place_waterfall",
@@ -1770,7 +1825,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1f8eiURhKkc5ym28h4WrzIZnSzjhtYaaJ&export=download"
+      "image": "https://drive.google.com/uc?id=1f8eiURhKkc5ym28h4WrzIZnSzjhtYaaJ&export=download",
+      "style": "default"
     },
     {
       "id": "place_pagoda",
@@ -1802,7 +1858,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "saber"
     },
     {
       "id": "place_bagan",
@@ -1834,7 +1891,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     },
     {
       "id": "place_volcano",
@@ -1865,7 +1923,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=13NUOev8DO1ARmNyx0XDSkDFuIvo05Jdr&export=download"
+      "image": "https://drive.google.com/uc?id=13NUOev8DO1ARmNyx0XDSkDFuIvo05Jdr&export=download",
+      "style": "default"
     },
     {
       "id": "place_cave",
@@ -1896,7 +1955,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1383D1f_OBOCR2QLL6cnnoYgH5I5V6QJx&export=download"
+      "image": "https://drive.google.com/uc?id=1383D1f_OBOCR2QLL6cnnoYgH5I5V6QJx&export=download",
+      "style": "default"
     },
     {
       "id": "place_aurora",
@@ -1927,7 +1987,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1MeA9i4samb-UDbhN-4dUG--wMdNpaUBf&export=download"
+      "image": "https://drive.google.com/uc?id=1MeA9i4samb-UDbhN-4dUG--wMdNpaUBf&export=download",
+      "style": "default"
     },
     {
       "id": "hyperos_glass",
@@ -1959,7 +2020,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "hyperos_vibrant",
@@ -1991,7 +2053,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#FFFFFF",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "hyperos_dark",
@@ -2022,7 +2085,8 @@
       ],
       "icon": "#FB923C",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1mV9-W1yARVRK_3v0eLH5DJFUMoTRbqgQ&export=download"
+      "image": "https://drive.google.com/uc?id=1mV9-W1yARVRK_3v0eLH5DJFUMoTRbqgQ&export=download",
+      "style": "default"
     },
     {
       "id": "hyperos_nature",
@@ -2054,7 +2118,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "hyperos_minimal",
@@ -2086,7 +2151,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#6B7280",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "digital_led",
@@ -2117,7 +2183,8 @@
       ],
       "icon": "#FBBF24",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1A5Vw-QWxosNPM0R1HLAY4TLvSZDLN6FY&export=download"
+      "image": "https://drive.google.com/uc?id=1A5Vw-QWxosNPM0R1HLAY4TLvSZDLN6FY&export=download",
+      "style": "cyber"
     },
     {
       "id": "digital_binary",
@@ -2148,7 +2215,8 @@
       ],
       "icon": "#6EE7B7",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=10IUEwnLqY-oWrazjbnQ9w0opRuV7aHkR&export=download"
+      "image": "https://drive.google.com/uc?id=10IUEwnLqY-oWrazjbnQ9w0opRuV7aHkR&export=download",
+      "style": "cyber"
     },
     {
       "id": "digital_hud",
@@ -2179,7 +2247,8 @@
       ],
       "icon": "#67E8F9",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=149aGPNMPlc6rmaX8Dj5he_o-R-5OzZMZ&export=download"
+      "image": "https://drive.google.com/uc?id=149aGPNMPlc6rmaX8Dj5he_o-R-5OzZMZ&export=download",
+      "style": "cyber"
     },
     {
       "id": "digital_terminal",
@@ -2210,7 +2279,8 @@
       ],
       "icon": "#4ADE80",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=13UjJlcSbL_iI4wl-DXHg28drQMz78kMY&export=download"
+      "image": "https://drive.google.com/uc?id=13UjJlcSbL_iI4wl-DXHg28drQMz78kMY&export=download",
+      "style": "cyber"
     },
     {
       "id": "orange-black",
@@ -2241,7 +2311,8 @@
       ],
       "icon": "dark",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1-abVlgqpGuwLGjKKbkrK1aLbarPWkoEV&export=download"
+      "image": "https://drive.google.com/uc?id=1-abVlgqpGuwLGjKKbkrK1aLbarPWkoEV&export=download",
+      "style": "default"
     },
     {
       "accent1": "#14B8A6",
@@ -2274,7 +2345,8 @@
       "glassSubText": "#111827",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     },
     {
       "accent1": "#F9A8D4",
@@ -2307,7 +2379,8 @@
       "glassSubText": "#4B5563",
       "cardText": "#111827",
       "cardSubText": "#374151",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "accent1": "#8B5CF6",
@@ -2340,7 +2413,8 @@
       "glassSubText": "#111827",
       "cardText": "#B45309",
       "cardSubText": "#92400E",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     },
     {
       "accent1": "#38BDF8",
@@ -2373,7 +2447,8 @@
       "glassSubText": "#111827",
       "cardText": "#111827",
       "cardSubText": "#374151",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "accent1": "#A855F7",
@@ -2406,7 +2481,8 @@
       "glassSubText": "#64748B",
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
-      "bottomText": "#1E293B"
+      "bottomText": "#1E293B",
+      "style": "saber"
     },
     {
       "accent1": "#3B82F6",
@@ -2438,7 +2514,8 @@
       "glassSubText": "#64748B",
       "cardText": "#FFFFFF",
       "cardSubText": "#BFDBFE",
-      "bottomText": "#1E293B"
+      "bottomText": "#1E293B",
+      "style": "default"
     },
     {
       "accent1": "#F59E0B",
@@ -2470,7 +2547,8 @@
       "glassSubText": "#64748B",
       "cardText": "#FFFFFF",
       "cardSubText": "#FDE68A",
-      "bottomText": "#1E293B"
+      "bottomText": "#1E293B",
+      "style": "default"
     },
     {
       "accent1": "#10B981",
@@ -2502,7 +2580,8 @@
       "glassSubText": "#64748B",
       "cardText": "#FFFFFF",
       "cardSubText": "#A7F3D0",
-      "bottomText": "#1E293B"
+      "bottomText": "#1E293B",
+      "style": "default"
     },
     {
       "accent1": "#F87171",
@@ -2535,7 +2614,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "accent1": "#FB7185",
@@ -2568,7 +2648,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "accent1": "#DDD6FE",
@@ -2601,7 +2682,8 @@
       "glassSubText": "#374151",
       "cardText": "#1E1B4B",
       "cardSubText": "#475569",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "accent1": "#F9A8D4",
@@ -2634,7 +2716,8 @@
       "glassSubText": "#475569",
       "cardText": "#1E1B4B",
       "cardSubText": "#4C1D95",
-      "bottomText": "#1E1B4B"
+      "bottomText": "#1E1B4B",
+      "style": "cyber"
     },
     {
       "id": "xiaomi",
@@ -2667,7 +2750,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "oppo",
@@ -2700,7 +2784,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "huawei",
@@ -2733,7 +2818,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "vivo",
@@ -2766,7 +2852,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "honor",
@@ -2799,7 +2886,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "poco",
@@ -2832,7 +2920,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "samsung",
@@ -2865,7 +2954,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "apple",
@@ -2898,7 +2988,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "pixel",
@@ -2931,7 +3022,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "realme",
@@ -2964,7 +3056,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "nothing",
@@ -2997,7 +3090,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "infinix",
@@ -3030,7 +3124,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "tecno",
@@ -3063,7 +3158,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "redmi",
@@ -3096,7 +3192,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "ipad",
@@ -3129,7 +3226,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "galaxy_tab",
@@ -3162,7 +3260,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "xiaomi_pad",
@@ -3195,7 +3294,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "dell",
@@ -3228,7 +3328,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "hp",
@@ -3261,7 +3362,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "acer",
@@ -3294,7 +3396,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "surface",
@@ -3327,7 +3430,8 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "oneplus",
@@ -3360,7 +3464,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "sony",
@@ -3393,7 +3498,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "nokia",
@@ -3426,7 +3532,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "motorola",
@@ -3459,7 +3566,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "iqoo",
@@ -3492,7 +3600,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "matepad",
@@ -3525,7 +3634,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "mac",
@@ -3558,7 +3668,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "thinkpad",
@@ -3591,7 +3702,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "rog",
@@ -3624,7 +3736,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "msi",
@@ -3657,7 +3770,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "razer",
@@ -3690,7 +3804,8 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "image": null
+      "image": null,
+      "style": "default"
     },
     {
       "id": "ipod",
@@ -3723,7 +3838,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "vpn",
@@ -3756,7 +3872,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "premium",
@@ -3789,7 +3906,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     },
     {
       "id": "premier_league",
@@ -3822,7 +3940,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "euro",
@@ -3855,7 +3974,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "fa",
@@ -3888,7 +4008,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#1E3A8A"
+      "bottomText": "#1E3A8A",
+      "style": "default"
     },
     {
       "id": "manchester_united",
@@ -3921,7 +4042,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#FCA5A5",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "facebook",
@@ -3954,7 +4076,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#1C2B33"
+      "bottomText": "#1C2B33",
+      "style": "default"
     },
     {
       "id": "game",
@@ -3987,7 +4110,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D8B4FE",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "sky",
@@ -4020,7 +4144,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#0C4A6E"
+      "bottomText": "#0C4A6E",
+      "style": "default"
     },
     {
       "id": "world",
@@ -4053,7 +4178,8 @@
       "glassSubText": "#374151",
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "colorful",
@@ -4088,7 +4214,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#FFFFFF"
+      "bottomText": "#FFFFFF",
+      "style": "default"
     },
     {
       "id": "rainbow",
@@ -4125,7 +4252,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#4C1D95"
+      "bottomText": "#4C1D95",
+      "style": "default"
     },
     {
       "id": "beautiful_girl",
@@ -4158,7 +4286,8 @@
       "glassSubText": "#374151",
       "cardText": "#111827",
       "cardSubText": "#4B5563",
-      "bottomText": "#111827"
+      "bottomText": "#111827",
+      "style": "default"
     },
     {
       "id": "taunggyi_tazaungdaing",
@@ -4191,7 +4320,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download"
+      "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download",
+      "style": "default"
     }
   ]
 }
