@@ -1234,7 +1234,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1kZYxN2LtKN9xl-90NPoev38T6cpbMpno&export=download"
     },
     {
       "id": "saber_gold",
@@ -1265,7 +1265,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1zIxGwJebVeXJZIuU0LfNdyVVIJuJD2xz&export=download"
     },
     {
       "id": "saber_shadow",
@@ -1296,7 +1296,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1S-dxsVKdLT0isRs876pYDaMpH0ekHo2l&export=download"
     },
     {
       "id": "saber_frost",
@@ -1314,16 +1314,16 @@
       "darkCardText": false,
       "pillBg": "#EFF6FF",
       "pillText": "#1E40AF",
-      "statusColor": "#2563EB",
+      "statusColor": "#E0F2FE",
       "button": [
         "#DBEAFE",
         "#60A5FA",
         "#1D4ED8"
       ],
       "icon": "light",
-      "panel": "#FFFFFF",
-      "image": null,
-      "timerColor": "#0369A1",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1OUoIfaoQRAii9b3yCIwZbKXoaf_0K8Gj&export=download",
+      "timerColor": "#F0F9FF",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
       "cardText": "#111827",
