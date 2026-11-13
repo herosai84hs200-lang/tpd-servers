@@ -3754,6 +3754,39 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "bg": [
+        "#1C1C1E",
+        "#121214",
+        "#0A0A0B",
+        "#000000"
+      ],
+      "accent1": "#D4AF37",
+      "accent2": "#D4AF37",
+      "accentText": "#F5E6B8",
+      "cardTint": "#232326",
+      "darkCardText": false,
+      "pillBg": "#26262A",
+      "pillText": "#E5C76B",
+      "statusColor": "#E5C76B",
+      "button": [
+        "#F0D98C",
+        "#D4AF37",
+        "#B8962E"
+      ],
+      "icon": "dark",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ပရီမီယမ်",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
