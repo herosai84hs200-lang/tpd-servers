@@ -2665,6 +2665,138 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827"
+    },
+    {
+      "id": "oppo",
+      "name": "Oppo",
+      "bg": [
+        "#FFFFFF",
+        "#F0FDF8",
+        "#DCFCE7",
+        "#A7F3D0"
+      ],
+      "accent1": "#00A97F",
+      "accent2": "#00A97F",
+      "accentText": "#006B52",
+      "cardTint": "#E6F7F1",
+      "darkCardText": true,
+      "pillBg": "#D1FAE5",
+      "pillText": "#065F46",
+      "statusColor": "#065F46",
+      "button": [
+        "#00C795",
+        "#00A97F",
+        "#008F6A"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "အိုပို",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
+    },
+    {
+      "id": "huawei",
+      "name": "Huawei",
+      "bg": [
+        "#FFFFFF",
+        "#FEF2F2",
+        "#FEE2E2",
+        "#FECACA"
+      ],
+      "accent1": "#CF0A2C",
+      "accent2": "#CF0A2C",
+      "accentText": "#9F1239",
+      "cardTint": "#FDECEF",
+      "darkCardText": true,
+      "pillBg": "#FFE4E6",
+      "pillText": "#881337",
+      "statusColor": "#881337",
+      "button": [
+        "#E01136",
+        "#CF0A2C",
+        "#A80824"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ဟွာဝေး",
+      "timerColor": "#292524",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
+    },
+    {
+      "id": "vivo",
+      "name": "Vivo",
+      "bg": [
+        "#FFFFFF",
+        "#EFF6FF",
+        "#DBEAFE",
+        "#BFDBFE"
+      ],
+      "accent1": "#415FFF",
+      "accent2": "#415FFF",
+      "accentText": "#1E40AF",
+      "cardTint": "#E8EDFF",
+      "darkCardText": true,
+      "pillBg": "#E0E7FF",
+      "pillText": "#1E3A8A",
+      "statusColor": "#1E3A8A",
+      "button": [
+        "#5B78FF",
+        "#415FFF",
+        "#2F49E0"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ဗီဗို",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
+    },
+    {
+      "id": "honor",
+      "name": "Honor",
+      "bg": [
+        "#FFFFFF",
+        "#F5F3FF",
+        "#EDE9FE",
+        "#DDD6FE"
+      ],
+      "accent1": "#7C3AED",
+      "accent2": "#7C3AED",
+      "accentText": "#5B21B6",
+      "cardTint": "#F1EEFF",
+      "darkCardText": true,
+      "pillBg": "#EDE9FE",
+      "pillText": "#4C1D95",
+      "statusColor": "#4C1D95",
+      "button": [
+        "#8B5CF6",
+        "#7C3AED",
+        "#6D28D9"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ဟောနာ",
+      "timerColor": "#292524",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
     }
   ]
 }
