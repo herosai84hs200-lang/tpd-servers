@@ -1951,8 +1951,8 @@
         "#BFDBFE"
       ],
       "icon": "#3B82F6",
-      "panel": "#D9FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1RyCQhFW3r9lOMRMQVnjPE2bK6t1Ym1I8&export=download",
       "timerColor": "#2563EB",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
@@ -1984,7 +1984,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null,
+      "image": "https://drive.google.com/uc?id=11x37N59uqDKVHhewT24M51DlomYMxs-U&export=download",
       "timerColor": "#082F49",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -2021,7 +2021,7 @@
       ],
       "icon": "#FB923C",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1mV9-W1yARVRK_3v0eLH5DJFUMoTRbqgQ&export=download"
     },
     {
       "id": "hyperos_nature",
@@ -2046,8 +2046,8 @@
         "#8FCBA8"
       ],
       "icon": "#34A97B",
-      "panel": "#D9FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1Jw4ihZOX9flvbuPmbbQV_0VD3b5giueV&export=download",
       "timerColor": "#14532D",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
