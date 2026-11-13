@@ -4123,6 +4123,39 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#4C1D95"
+    },
+    {
+      "id": "beautiful_girl",
+      "name": "Beautiful Girl",
+      "bg": [
+        "#F5F0E8",
+        "#E8E4D9",
+        "#D8E2DC",
+        "#A3B18A"
+      ],
+      "accent1": "#A3B18A",
+      "accent2": "#6B8F71",
+      "accentText": "#3A5A40",
+      "cardTint": "#F5F0E8",
+      "darkCardText": true,
+      "pillBg": "#FFFFFF",
+      "pillText": "#3A5A40",
+      "statusColor": "#374151",
+      "button": [
+        "#D8E2DC",
+        "#A3B18A",
+        "#6B8F71"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1JPWpCcopf7J_w9Nsafyxs4_6JOUIkH3N&export=download",
+      "nameMy": "လှတဲ့ကောင်မလေး",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
     }
   ]
 }
