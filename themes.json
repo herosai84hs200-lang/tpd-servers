@@ -4322,6 +4322,40 @@
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download",
       "style": "saber"
+    },
+    {
+      "id": "shan_new_year",
+      "name": "Shan New Year",
+      "bg": [
+        "#E5A812",
+        "#3D8B37",
+        "#B71C1C",
+        "#7F0000"
+      ],
+      "accent1": "#F9A825",
+      "accent2": "#1B5E20",
+      "accentText": "#2E7D32",
+      "cardTint": "#FFF8E1",
+      "darkCardText": false,
+      "pillBg": "#FFF8E1",
+      "pillText": "#1B5E20",
+      "statusColor": "#111827",
+      "button": [
+        "#FFFFFF",
+        "#F1F1F1",
+        "#DCDCDC"
+      ],
+      "icon": "#2E7D32",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1WaSFSDOqIAbqfsRV5v3dFmCndA7VoUbn&export=download",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#FFFFFF",
+      "style": "saber",
+      "nameMy": "ရှမ်းနှစ်သစ်ကူး"
     }
   ]
 }
