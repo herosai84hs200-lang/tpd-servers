@@ -4158,6 +4158,39 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827"
+    },
+    {
+      "id": "taunggyi_tazaungdaing",
+      "name": "Taunggyi Tazaungdaing",
+      "nameMy": "တောင်ကြီးတန်ဆောင်တိုင်",
+      "bg": [
+        "#060A1A",
+        "#0B1026",
+        "#1E1B4B",
+        "#312E81"
+      ],
+      "accent1": "#F59E0B",
+      "accent2": "#1E1B4B",
+      "accentText": "#FDE68A",
+      "cardTint": "#1A1440",
+      "darkCardText": false,
+      "pillBg": "#1A1440",
+      "pillText": "#FDE68A",
+      "statusColor": "#FDE68A",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "button": [
+        "#FBBF24",
+        "#EA580C",
+        "#7C2D12"
+      ],
+      "icon": "light",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download"
     }
   ]
 }
