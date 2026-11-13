@@ -859,7 +859,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1HVaT2qJ0C6I3lqLQgRV2LmfmrZDZSRvg&export=download"
     },
     {
       "id": "water",
@@ -885,7 +885,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null,
+      "image": "https://drive.google.com/uc?id=1KF21a45dUQ3u52-Mpv_DjPk9Zmwo7Gky&export=download",
       "timerColor": "#082F49",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -1667,8 +1667,8 @@
         "#F59E0B"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1uWfIESMfKGntALHqvoE0KvvMfOsZR4UY&export=download",
       "timerColor": "#155E75",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -1862,7 +1862,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=13NUOev8DO1ARmNyx0XDSkDFuIvo05Jdr&export=download"
     },
     {
       "id": "place_cave",
