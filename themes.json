@@ -1359,7 +1359,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1ZgPr2syIeFwumoH3avchAHnugzuikGZi&export=download"
     },
     {
       "id": "haya_jade",
@@ -1377,7 +1377,7 @@
       "darkCardText": false,
       "pillBg": "#022C22",
       "pillText": "#A7F3D0",
-      "statusColor": "#ECFDF5",
+      "statusColor": "#065F46",
       "glassText": "#111827",
       "glassSubText": "#111827",
       "cardText": "#FFFFFF",
@@ -1390,7 +1390,8 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1tz0DZmrIFnNP5VXhvRFFZylXcDLsMe7B&export=download",
+      "timerColor": "#064E3B"
     },
     {
       "id": "epic_storm",
@@ -2521,10 +2522,10 @@
       "darkCardText": false,
       "icon": "dark",
       "id": "sunset_split",
-      "image": null,
+      "image": "https://drive.google.com/uc?id=14tXk1oAgi5DAhjrit7LCBTUh8NmH4rM4&export=download",
       "name": "Sunset Split",
       "nameMy": "အဝါခရမ်းခွဲ",
-      "panel": "#FFFFFF",
+      "panel": "#BFFFFFFF",
       "pillBg": "#F1F5F9",
       "pillText": "#64748B",
       "statusColor": "#9A3412",
@@ -3977,8 +3978,8 @@
         "#7C3AED"
       ],
       "icon": "light",
-      "panel": "#CCFFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1Lkdo52FeS-1WVQgADmbxOVmKcFIkdGe7&export=download",
       "nameMy": "ဂိမ်း",
       "timerColor": "#FFFFFF",
       "glassText": "#111827",
