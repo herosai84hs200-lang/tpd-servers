@@ -1574,8 +1574,8 @@
         "#C3CDD8"
       ],
       "icon": "dark",
-      "panel": "#D9FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1RHMyNeeQZQtP1bjCnsmG3TcR9Q74AitH&export=download",
       "timerColor": "#3A3A3C",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
@@ -1612,7 +1612,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1w-ofRNdfN4IwE2kfBRWAA5ligWuDN5Ij&export=download"
     },
     {
       "id": "iphone_pastel",
@@ -1637,8 +1637,8 @@
         "#C7D2FE"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1iEJupEk-2PWlt_fMM6PJxE24DqmKfxvx&export=download",
       "timerColor": "#7C3AED",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
@@ -2078,8 +2078,8 @@
         "#E2E8F0"
       ],
       "icon": "#3B82F6",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1PhTvrRjcrI_Isx6B2gPhjKkWOEYjz-Rl&export=download",
       "timerColor": "#111827",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
