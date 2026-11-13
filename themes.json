@@ -4018,6 +4018,39 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#0C4A6E"
+    },
+    {
+      "id": "world",
+      "name": "World",
+      "bg": [
+        "#0B1026",
+        "#0A0E20",
+        "#060814",
+        "#000000"
+      ],
+      "accent1": "#2563EB",
+      "accent2": "#2563EB",
+      "accentText": "#BFDBFE",
+      "cardTint": "#141B34",
+      "darkCardText": false,
+      "pillBg": "#1F2937",
+      "pillText": "#93C5FD",
+      "statusColor": "#60A5FA",
+      "button": [
+        "#4ADE80",
+        "#2563EB",
+        "#1E40AF"
+      ],
+      "icon": "light",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ကမ္ဘာ",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
