@@ -2797,6 +2797,39 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827"
+    },
+    {
+      "id": "poco",
+      "name": "Poco",
+      "bg": [
+        "#262626",
+        "#171717",
+        "#0A0A0A",
+        "#000000"
+      ],
+      "accent1": "#FFDD00",
+      "accent2": "#FFDD00",
+      "accentText": "#713F12",
+      "cardTint": "#262626",
+      "darkCardText": false,
+      "pillBg": "#262626",
+      "pillText": "#FFDD00",
+      "statusColor": "#FFDD00",
+      "button": [
+        "#FFE600",
+        "#FFDD00",
+        "#E6C800"
+      ],
+      "icon": "dark",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ပိုကို",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
