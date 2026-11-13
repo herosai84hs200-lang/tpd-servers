@@ -3787,6 +3787,39 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "premier_league",
+      "name": "Premier League",
+      "bg": [
+        "#37003C",
+        "#2A002E",
+        "#1C001F",
+        "#0D0010"
+      ],
+      "accent1": "#00FF85",
+      "accent2": "#00FF85",
+      "accentText": "#B3FFD9",
+      "cardTint": "#4A0E50",
+      "darkCardText": false,
+      "pillBg": "#3D0A44",
+      "pillText": "#00FF85",
+      "statusColor": "#00FF85",
+      "button": [
+        "#4DFFA6",
+        "#00FF85",
+        "#00CC6A"
+      ],
+      "icon": "dark",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ပရီးမီးယားလိဂ်",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#E9D5FF",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
