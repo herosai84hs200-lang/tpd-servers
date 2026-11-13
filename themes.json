@@ -1420,7 +1420,7 @@
       ],
       "icon": "dark",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1Ydtqc2rMVubWYecDAT_siqWcHZijU_ea&export=download"
     },
     {
       "id": "sky_bright",
@@ -1515,7 +1515,7 @@
       ],
       "icon": "dark",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1lvPgqzMYnPOaKnB6v-z9KNBVedpYjKY3&export=download"
     },
     {
       "id": "sky_golden",
@@ -1540,8 +1540,8 @@
         "#D97706"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1uCTfcTWaXaNO4hGNYa9Mgb54u28QyKEt&export=download",
       "timerColor": "#9A3412",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -2259,10 +2259,10 @@
       "darkCardText": true,
       "icon": "light",
       "id": "peacock_iridescent",
-      "image": null,
+      "image": "https://drive.google.com/uc?id=1dqT3cpd06YM0NuZc-qblnwORjOKQnTih&export=download",
       "name": "Peacock",
       "nameMy": "ဒေါင်း",
-      "panel": "#FFFFFF",
+      "panel": "#BFFFFFFF",
       "pillBg": "#134E4A",
       "pillText": "#99F6E4",
       "statusColor": "#CCFBF1",
