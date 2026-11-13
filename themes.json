@@ -3919,6 +3919,72 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FCA5A5",
       "bottomText": "#FFFFFF"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "bg": [
+        "#FFFFFF",
+        "#F0F2F5",
+        "#E4E9F1",
+        "#D3DCE8"
+      ],
+      "accent1": "#1877F2",
+      "accent2": "#1877F2",
+      "accentText": "#0F5BB5",
+      "cardTint": "#E7F0FE",
+      "darkCardText": true,
+      "pillBg": "#E4E6EB",
+      "pillText": "#1C2B33",
+      "statusColor": "#1C2B33",
+      "button": [
+        "#4A9BFF",
+        "#1877F2",
+        "#0F5BB5"
+      ],
+      "icon": "light",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "ဖေ့စ်ဘွတ်",
+      "timerColor": "#1C2B33",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#1C2B33"
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "bg": [
+        "#1E1B2E",
+        "#14101F",
+        "#0C0912",
+        "#000000"
+      ],
+      "accent1": "#A855F7",
+      "accent2": "#A855F7",
+      "accentText": "#E9D5FF",
+      "cardTint": "#252038",
+      "darkCardText": false,
+      "pillBg": "#262626",
+      "pillText": "#C084FC",
+      "statusColor": "#C084FC",
+      "button": [
+        "#22D3EE",
+        "#A855F7",
+        "#7C3AED"
+      ],
+      "icon": "light",
+      "panel": "#CCFFFFFF",
+      "image": null,
+      "nameMy": "ဂိမ်း",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D8B4FE",
+      "bottomText": "#FFFFFF"
     }
   ]
 }
