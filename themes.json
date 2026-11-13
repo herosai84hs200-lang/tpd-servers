@@ -601,8 +601,8 @@
         "#D4846A"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1TENoKWYT1i_uJshQVSeI0wGCiA5em_v4&export=download",
       "timerColor": "#9A3412",
       "glassText": "#111827",
       "glassSubText": "#4B5563",
@@ -671,7 +671,7 @@
       ],
       "icon": "light",
       "panel": "#BFFFFFFF",
-      "image": null
+      "image": "https://drive.google.com/uc?id=1Up4uVGBeD3hWq0zaD2PXH-W-zW7Tmg5v&export=download"
     },
     {
       "id": "space_station",
@@ -1445,8 +1445,8 @@
         "#D97706"
       ],
       "icon": "dark",
-      "panel": "#FFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1Ql6Xey7Xf7tdQHcdpWO0O9Yhvyr7F1kM&export=download",
       "timerColor": "#0C4A6E",
       "glassText": "#111827",
       "glassSubText": "#374151",
@@ -2325,10 +2325,10 @@
       "darkCardText": false,
       "icon": "#FBBF24",
       "id": "imperial",
-      "image": null,
+      "image": "https://drive.google.com/uc?id=1sJUdpOG7awZzcBi-aBqoaV_K6AarIbER&export=download",
       "name": "Imperial",
       "nameMy": "အင်ပါယာ",
-      "panel": "#FFFFFF",
+      "panel": "#BFFFFFFF",
       "pillBg": "#2E1065",
       "pillText": "#FDE68A",
       "statusColor": "#EDE9FE",
