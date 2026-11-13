@@ -3688,6 +3688,39 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null
+    },
+    {
+      "id": "ipod",
+      "name": "iPod",
+      "bg": [
+        "#FFFFFF",
+        "#F5F5F7",
+        "#EDEDF2",
+        "#DDDDE4"
+      ],
+      "accent1": "#8E8E93",
+      "accent2": "#AEAEB2",
+      "accentText": "#48484A",
+      "cardTint": "#F5F5F7",
+      "darkCardText": true,
+      "pillBg": "#E8E8ED",
+      "pillText": "#1C1C1E",
+      "statusColor": "#1C1C1E",
+      "button": [
+        "#F5F5F7",
+        "#D2D2D7",
+        "#AEAEB2"
+      ],
+      "icon": "dark",
+      "panel": "#FFFFFF",
+      "image": null,
+      "nameMy": "အိုင်ပေါ့",
+      "timerColor": "#1C1C1E",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#111827"
     }
   ]
 }
