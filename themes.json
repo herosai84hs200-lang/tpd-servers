@@ -4356,6 +4356,40 @@
       "bottomText": "#FFFFFF",
       "style": "saber",
       "nameMy": "ရှမ်းနှစ်သစ်ကူး"
+    },
+    {
+      "accent1": "#F59E0B",
+      "accent2": "#78350F",
+      "accentText": "#FDE68A",
+      "bg": [
+        "#000000",
+        "#0D0D0D",
+        "#1A1A1A",
+        "#0A0A0A"
+      ],
+      "button": [
+        "#FBBF24",
+        "#D97706",
+        "#92400E"
+      ],
+      "cardTint": "#FFFBEB",
+      "darkCardText": false,
+      "icon": "#FBBF24",
+      "id": "art_deco",
+      "image": "https://drive.google.com/uc?id=1bOhYTvqZ0dZlCrpWweeGvKQLs9QisjL6&export=download",
+      "name": "Art Deco",
+      "nameMy": "Art Deco",
+      "panel": "#BFFFFFFF",
+      "pillBg": "#1C1917",
+      "pillText": "#FDE68A",
+      "statusColor": "#FEF3C7",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#92400E",
+      "cardSubText": "#78350F",
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     }
   ]
 }
