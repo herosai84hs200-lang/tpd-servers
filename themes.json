@@ -33,7 +33,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "pink",
@@ -67,7 +74,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 144
     },
     {
       "id": "yellow",
@@ -101,7 +115,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 160
     },
     {
       "id": "gradient",
@@ -135,7 +156,14 @@
       "image": "https://drive.google.com/uc?id=1IHBkUA3VxFzpLxvLGjqUeTKQSaKKhuMA&export=download",
       "nameMy": "Gradient",
       "timerColor": "#4C1D95",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "id": "gold",
@@ -169,7 +197,14 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 144
     },
     {
       "id": "ice_blue",
@@ -202,7 +237,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 160
     },
     {
       "id": "adventure_gold",
@@ -235,7 +277,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "rose_purple",
@@ -268,7 +317,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 160
     },
     {
       "id": "desert_titanium",
@@ -301,7 +357,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 96
     },
     {
       "id": "natural_titanium",
@@ -334,7 +397,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "minimal"
+      "style": "minimal",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "chocolate",
@@ -367,7 +437,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "black",
@@ -399,7 +476,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Y5CMWwsOfotHOEjJRCQfglb0ot1CKE80&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "id": "coffee",
@@ -432,7 +516,14 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "black_glass",
@@ -464,7 +555,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1SbV5R31jo03dNAKKd3URPYT9ohp04qoe&export=download",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 96
     },
     {
       "id": "cyberpunk",
@@ -496,7 +594,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=11KP8SPiH2QYqYS9KaDr4-ECuVDA1MqcA&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "saber",
+      "panelAlpha": 160
     },
     {
       "id": "shan_3d",
@@ -529,7 +634,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 160
     },
     {
       "id": "sunset_desert",
@@ -562,7 +674,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 144
     },
     {
       "id": "crystal_3d",
@@ -595,7 +714,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112
     },
     {
       "id": "clay_3d",
@@ -628,7 +754,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 96
     },
     {
       "id": "liquid_metal",
@@ -661,7 +794,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 128
     },
     {
       "id": "fire_flow",
@@ -693,7 +833,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Up4uVGBeD3hWq0zaD2PXH-W-zW7Tmg5v&export=download",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 112
     },
     {
       "id": "space_station",
@@ -725,7 +872,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1bEnbW27c3_YmPxQeqsHouH-Jrlc_3rJY&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 128
     },
     {
       "id": "moon_surface",
@@ -758,7 +912,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 144
     },
     {
       "id": "black_hole",
@@ -790,7 +951,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1LgewwXkO-vl7kE8RLH5esW9H7P9DCaPA&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 112
     },
     {
       "id": "warp_speed",
@@ -822,7 +990,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "drawable:warp_bg",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 144
     },
     {
       "id": "ice",
@@ -855,7 +1030,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 144
     },
     {
       "id": "rain",
@@ -887,7 +1069,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1HVaT2qJ0C6I3lqLQgRV2LmfmrZDZSRvg&export=download",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 160
     },
     {
       "id": "water",
@@ -920,7 +1109,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 144
     },
     {
       "id": "snow",
@@ -953,7 +1149,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 144
     },
     {
       "id": "multiverse",
@@ -985,7 +1188,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1OqdyhxGyBVvVNAp3ryU9uS8wk8eRYMvY&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 144
     },
     {
       "id": "cyber_circuit",
@@ -1017,7 +1227,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1hbBu8fkS1lHume0_XUzG2Xw9ig1pP4EA&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "cyber_datastream",
@@ -1049,7 +1266,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1tfbI9n19PjsXlxZNaSezWqUyzawtEiP-&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "cyber_hologram",
@@ -1081,7 +1305,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1JaMhQStEWt5WeN6gNDjY2ShsD8ZDo_yG&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "id": "cyber_neongrid",
@@ -1113,7 +1344,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1DFdXjVnlpK0vduKXPUsLbHGA8lkshZgz&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "saber",
+      "panelAlpha": 144
     },
     {
       "id": "saber",
@@ -1145,7 +1383,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1CpI8gauzEJp8wVPf-1mlnsa2ePUn5-r1&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "legend",
@@ -1177,7 +1422,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=16lSH981COKyDb1PUTJVZdkimH8vJwHOO&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "id": "mythic",
@@ -1209,7 +1461,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1bZvnRnH6vfPosy7E68GYIFGgha7oJnFT&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 128
     },
     {
       "id": "glory",
@@ -1242,7 +1501,14 @@
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1U58e9mz5MOnC0o3Y_q-G6SEqB25XbcZP&export=download",
       "timerColor": "#92400E",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 128
     },
     {
       "id": "saber_crimson",
@@ -1274,7 +1540,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1kZYxN2LtKN9xl-90NPoev38T6cpbMpno&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 112
     },
     {
       "id": "saber_gold",
@@ -1306,7 +1579,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1zIxGwJebVeXJZIuU0LfNdyVVIJuJD2xz&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 128
     },
     {
       "id": "saber_shadow",
@@ -1338,7 +1618,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1S-dxsVKdLT0isRs876pYDaMpH0ekHo2l&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 144
     },
     {
       "id": "saber_frost",
@@ -1371,7 +1658,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 128
     },
     {
       "id": "haya_crimson",
@@ -1403,7 +1697,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1ZgPr2syIeFwumoH3avchAHnugzuikGZi&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 144
     },
     {
       "id": "haya_jade",
@@ -1436,7 +1737,14 @@
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1tz0DZmrIFnNP5VXhvRFFZylXcDLsMe7B&export=download",
       "timerColor": "#064E3B",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 160
     },
     {
       "id": "epic_storm",
@@ -1468,7 +1776,14 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1Ydtqc2rMVubWYecDAT_siqWcHZijU_ea&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 128
     },
     {
       "id": "sky_bright",
@@ -1501,7 +1816,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "sky_pastel",
@@ -1534,7 +1856,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 144
     },
     {
       "id": "sky_night",
@@ -1566,7 +1895,14 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1lvPgqzMYnPOaKnB6v-z9KNBVedpYjKY3&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 112
     },
     {
       "id": "sky_golden",
@@ -1599,7 +1935,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 128
     },
     {
       "id": "iphone_glass",
@@ -1632,7 +1975,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 96
     },
     {
       "id": "iphone_dark",
@@ -1664,7 +2014,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1w-ofRNdfN4IwE2kfBRWAA5ligWuDN5Ij&export=download",
-      "style": "minimal"
+      "style": "minimal",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 112
     },
     {
       "id": "iphone_pastel",
@@ -1697,7 +2054,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "place_beach",
@@ -1730,7 +2094,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 112
     },
     {
       "id": "place_underwater",
@@ -1762,7 +2133,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1_ZyozxG0jebOCbeSSgnDJpLvRnpEbVs1&export=download",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 128
     },
     {
       "id": "place_jungle",
@@ -1794,7 +2172,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1GVLihjncd_geVMDp1X-maj3Cp7sBXNS1&export=download",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "place_waterfall",
@@ -1826,7 +2211,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1f8eiURhKkc5ym28h4WrzIZnSzjhtYaaJ&export=download",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 144
     },
     {
       "id": "place_pagoda",
@@ -1859,7 +2251,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "place_bagan",
@@ -1892,7 +2291,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "place_volcano",
@@ -1924,7 +2330,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=13NUOev8DO1ARmNyx0XDSkDFuIvo05Jdr&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 96
     },
     {
       "id": "place_cave",
@@ -1956,7 +2369,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1383D1f_OBOCR2QLL6cnnoYgH5I5V6QJx&export=download",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "place_aurora",
@@ -1988,7 +2408,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1MeA9i4samb-UDbhN-4dUG--wMdNpaUBf&export=download",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 112
     },
     {
       "id": "hyperos_glass",
@@ -2021,7 +2448,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "crystal"
+      "style": "crystal",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 128
     },
     {
       "id": "hyperos_vibrant",
@@ -2054,7 +2488,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FFFFFF",
       "bottomText": "#111827",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "hyperos_dark",
@@ -2086,7 +2527,14 @@
       "icon": "#FB923C",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1mV9-W1yARVRK_3v0eLH5DJFUMoTRbqgQ&export=download",
-      "style": "minimal"
+      "style": "minimal",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "minimal",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "hyperos_nature",
@@ -2119,7 +2567,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "hyperos_minimal",
@@ -2152,7 +2607,14 @@
       "cardText": "#111827",
       "cardSubText": "#6B7280",
       "bottomText": "#111827",
-      "style": "minimal"
+      "style": "minimal",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "digital_led",
@@ -2184,7 +2646,14 @@
       "icon": "#FBBF24",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1A5Vw-QWxosNPM0R1HLAY4TLvSZDLN6FY&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 128
     },
     {
       "id": "digital_binary",
@@ -2216,7 +2685,14 @@
       "icon": "#6EE7B7",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=10IUEwnLqY-oWrazjbnQ9w0opRuV7aHkR&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 96
     },
     {
       "id": "digital_hud",
@@ -2248,7 +2724,14 @@
       "icon": "#67E8F9",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=149aGPNMPlc6rmaX8Dj5he_o-R-5OzZMZ&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 112
     },
     {
       "id": "digital_terminal",
@@ -2280,7 +2763,14 @@
       "icon": "#4ADE80",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=13UjJlcSbL_iI4wl-DXHg28drQMz78kMY&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 144
     },
     {
       "id": "orange-black",
@@ -2312,7 +2802,14 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1-abVlgqpGuwLGjKKbkrK1aLbarPWkoEV&export=download",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 160
     },
     {
       "accent1": "#14B8A6",
@@ -2346,7 +2843,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 144
     },
     {
       "accent1": "#F9A8D4",
@@ -2380,7 +2884,14 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "accent1": "#8B5CF6",
@@ -2414,7 +2925,14 @@
       "cardText": "#B45309",
       "cardSubText": "#92400E",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 160
     },
     {
       "accent1": "#38BDF8",
@@ -2448,7 +2966,14 @@
       "cardText": "#111827",
       "cardSubText": "#374151",
       "bottomText": "#FFFFFF",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "accent1": "#A855F7",
@@ -2482,7 +3007,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
       "bottomText": "#1E293B",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 144
     },
     {
       "accent1": "#3B82F6",
@@ -2515,7 +3047,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#BFDBFE",
       "bottomText": "#1E293B",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "accent1": "#F59E0B",
@@ -2548,7 +3087,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FDE68A",
       "bottomText": "#1E293B",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "accent1": "#10B981",
@@ -2581,7 +3127,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#A7F3D0",
       "bottomText": "#1E293B",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 160
     },
     {
       "accent1": "#F87171",
@@ -2615,7 +3168,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "saber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "accent1": "#FB7185",
@@ -2649,7 +3209,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 160
     },
     {
       "accent1": "#DDD6FE",
@@ -2683,7 +3250,14 @@
       "cardText": "#1E1B4B",
       "cardSubText": "#475569",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 112
     },
     {
       "accent1": "#F9A8D4",
@@ -2717,7 +3291,14 @@
       "cardText": "#1E1B4B",
       "cardSubText": "#4C1D95",
       "bottomText": "#1E1B4B",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 160
     },
     {
       "id": "xiaomi",
@@ -3907,7 +4488,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 160
     },
     {
       "id": "premier_league",
@@ -3941,7 +4529,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#E9D5FF",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 128
     },
     {
       "id": "euro",
@@ -3975,7 +4570,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 96
     },
     {
       "id": "fa",
@@ -4009,7 +4611,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#1E3A8A",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "id": "manchester_united",
@@ -4043,7 +4652,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FCA5A5",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 112
     },
     {
       "id": "facebook",
@@ -4111,7 +4727,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D8B4FE",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "cyber",
+      "panelAlpha": 112
     },
     {
       "id": "sky",
@@ -4145,7 +4768,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#0C4A6E",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 128
     },
     {
       "id": "world",
@@ -4179,7 +4809,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "crystal",
+      "panelAlpha": 160
     },
     {
       "id": "colorful",
@@ -4215,7 +4852,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#FFFFFF",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     },
     {
       "id": "rainbow",
@@ -4253,7 +4897,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#4C1D95",
-      "style": "cyber"
+      "style": "cyber",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 96
     },
     {
       "id": "beautiful_girl",
@@ -4287,7 +4938,14 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "liquid"
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 96
     },
     {
       "id": "taunggyi_tazaungdaing",
@@ -4321,7 +4979,14 @@
       "icon": "light",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=1zMgaC4jjXJ2bIsTDWdMoA_htSy4j0EdY&export=download",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 128
     },
     {
       "id": "shan_new_year",
@@ -4355,7 +5020,14 @@
       "cardSubText": "#6B7280",
       "bottomText": "#FFFFFF",
       "style": "saber",
-      "nameMy": "ရှမ်းနှစ်သစ်ကူး"
+      "nameMy": "ရှမ်းနှစ်သစ်ကူး",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112
     },
     {
       "accent1": "#F59E0B",
@@ -4389,7 +5061,14 @@
       "cardText": "#92400E",
       "cardSubText": "#78350F",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal",
+      "panelAlpha": 112
     },
     {
       "id": "star_wars",
@@ -4423,7 +5102,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#FFE81F",
       "bottomText": "#FFFFFF",
-      "style": "saber"
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "crystal",
+      "pillStyle": "crystal",
+      "navStyle": "cyber",
+      "glyphSet": "crystal",
+      "panelStyle": "crystal",
+      "panelAlpha": 104
     }
   ]
 }
