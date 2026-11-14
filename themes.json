@@ -4390,6 +4390,40 @@
       "cardSubText": "#78350F",
       "bottomText": "#FFFFFF",
       "style": "saber"
+    },
+    {
+      "id": "star_wars",
+      "name": "Star Wars",
+      "bg": [
+        "#0B0B14",
+        "#08080F",
+        "#040409",
+        "#000000"
+      ],
+      "accent1": "#FFE81F",
+      "accent2": "#D4AF37",
+      "accentText": "#FFF8DC",
+      "cardTint": "#1A1A2E",
+      "darkCardText": false,
+      "pillBg": "#1A1A2E",
+      "pillText": "#FFE81F",
+      "statusColor": "#FFE81F",
+      "button": [
+        "#FFE81F",
+        "#F5C518",
+        "#B8860B"
+      ],
+      "icon": "light",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=15Pttq1QTqoIKsXCISArYciZCsCRziX7l&export=download",
+      "nameMy": "Star Wars",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#FFE81F",
+      "bottomText": "#FFFFFF",
+      "style": "saber"
     }
   ]
 }
