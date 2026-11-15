@@ -5233,6 +5233,47 @@
       "glyphSet": "crystal",
       "panelStyle": "saber",
       "panelAlpha": 112
+    },
+    {
+      "id": "neon_profile",
+      "name": "Neon Profile",
+      "bg": [
+        "#0B1220",
+        "#1E3A8A",
+        "#0EA5E9",
+        "#F97316"
+      ],
+      "accent1": "#38BDF8",
+      "accent2": "#F97316",
+      "accentText": "#7DD3FC",
+      "cardTint": "#0F172A",
+      "darkCardText": true,
+      "pillBg": "#1E293B",
+      "pillText": "#E2E8F0",
+      "statusColor": "#FFFFFF",
+      "button": [
+        "#38BDF8",
+        "#0EA5E9",
+        "#F97316"
+      ],
+      "icon": "#38BDF8",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1_HeH1uLks_EOChNPoubInyGaITBLr6by&export=download",
+      "nameMy": "နီယွန်",
+      "timerColor": "#FFFFFF",
+      "glassText": "#FFFFFF",
+      "glassSubText": "#E2E8F0",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#CBD5E1",
+      "bottomText": "#FFFFFF",
+      "style": "cyber",
+      "cardStyle": "liquid",
+      "ringStyle": "cyber",
+      "pillStyle": "crystal",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "cyber",
+      "panelAlpha": 112
     }
   ]
 }
