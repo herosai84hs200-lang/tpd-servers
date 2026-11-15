@@ -5192,6 +5192,47 @@
       "glyphSet": "liquid",
       "panelStyle": "crystal",
       "panelAlpha": 112
+    },
+    {
+      "id": "mixed_fruits",
+      "name": "Mixed Fruits",
+      "bg": [
+        "#FEF3C7",
+        "#FDBA74",
+        "#F97316",
+        "#DC2626"
+      ],
+      "accent1": "#F97316",
+      "accent2": "#16A34A",
+      "accentText": "#9A3412",
+      "cardTint": "#FFF7ED",
+      "darkCardText": false,
+      "pillBg": "#FFEDD5",
+      "pillText": "#9A3412",
+      "statusColor": "#111827",
+      "button": [
+        "#FDE68A",
+        "#F97316",
+        "#DC2626"
+      ],
+      "icon": "#EA580C",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=177K4nO8g3LDI_7X6KRAOrJQGDZTKPUKz&export=download",
+      "nameMy": "သစ်သီးစုံ",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#FFFFFF",
+      "style": "saber",
+      "cardStyle": "crystal",
+      "ringStyle": "saber",
+      "pillStyle": "crystal",
+      "navStyle": "minimal",
+      "glyphSet": "crystal",
+      "panelStyle": "saber",
+      "panelAlpha": 112
     }
   ]
 }
