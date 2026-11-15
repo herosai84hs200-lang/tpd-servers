@@ -5110,6 +5110,47 @@
       "glyphSet": "crystal",
       "panelStyle": "crystal",
       "panelAlpha": 104
+    },
+    {
+      "id": "dream_girl",
+      "name": "Dream Girl",
+      "bg": [
+        "#A8D8EA",
+        "#7FBCD2",
+        "#5B9BB5",
+        "#3D7E9E"
+      ],
+      "accent1": "#38BDF8",
+      "accent2": "#0E7490",
+      "accentText": "#0369A1",
+      "cardTint": "#F0F9FF",
+      "darkCardText": false,
+      "pillBg": "#E0F2FE",
+      "pillText": "#0369A1",
+      "statusColor": "#111827",
+      "button": [
+        "#BAE6FD",
+        "#38BDF8",
+        "#0369A1"
+      ],
+      "icon": "#0284C7",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1EGD52vI7rEoFpCxIPAUXo9WJ6ohOxllD&export=download",
+      "nameMy": "အိပ်မက်ကောင်မလေး",
+      "timerColor": "#1F2937",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#FFFFFF",
+      "style": "liquid",
+      "cardStyle": "crystal",
+      "ringStyle": "liquid",
+      "pillStyle": "crystal",
+      "navStyle": "minimal",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid",
+      "panelAlpha": 112
     }
   ]
 }
