@@ -40,7 +40,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "bubbles",
+      "sticker": "bubble"
     },
     {
       "id": "pink",
@@ -81,7 +83,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "bubbles",
+      "sticker": "heart"
     },
     {
       "id": "yellow",
@@ -122,7 +126,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "rays",
+      "sticker": "sparkle"
     },
     {
       "id": "gradient",
@@ -163,7 +169,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "swirl",
+      "sticker": "sparkle"
     },
     {
       "id": "gold",
@@ -204,7 +212,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "rings",
+      "sticker": "coin"
     },
     {
       "id": "ice_blue",
@@ -244,7 +254,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "cracks",
+      "sticker": "snow"
     },
     {
       "id": "adventure_gold",
@@ -284,7 +296,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "rings",
+      "sticker": "key"
     },
     {
       "id": "rose_purple",
@@ -324,7 +338,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "petals",
+      "sticker": "flower"
     },
     {
       "id": "desert_titanium",
@@ -364,7 +380,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "stripes",
+      "sticker": "gem"
     },
     {
       "id": "natural_titanium",
@@ -404,7 +422,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "chrome",
+      "sticker": "gear"
     },
     {
       "id": "chocolate",
@@ -444,7 +464,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "swirl",
+      "sticker": "heart"
     },
     {
       "id": "black",
@@ -483,7 +505,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "halo",
+      "sticker": "moon"
     },
     {
       "id": "coffee",
@@ -523,7 +547,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "swirl",
+      "sticker": "drop"
     },
     {
       "id": "black_glass",
@@ -562,7 +588,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "chrome",
+      "sticker": "lens"
     },
     {
       "id": "cyberpunk",
@@ -601,7 +629,9 @@
       "navStyle": "saber",
       "glyphSet": "saber",
       "panelStyle": "saber",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "circuit",
+      "sticker": "chip"
     },
     {
       "id": "shan_3d",
@@ -641,7 +671,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "rings",
+      "sticker": "moon"
     },
     {
       "id": "sunset_desert",
@@ -681,7 +713,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "rays",
+      "sticker": "flame"
     },
     {
       "id": "crystal_3d",
@@ -721,7 +755,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "cracks",
+      "sticker": "gem"
     },
     {
       "id": "clay_3d",
@@ -761,7 +797,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "bubbles",
+      "sticker": "flower"
     },
     {
       "id": "liquid_metal",
@@ -801,7 +839,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "chrome",
+      "sticker": "drop"
     },
     {
       "id": "fire_flow",
@@ -840,7 +880,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "flames",
+      "sticker": "flame"
     },
     {
       "id": "space_station",
@@ -879,7 +921,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "orbit",
+      "sticker": "star"
     },
     {
       "id": "moon_surface",
@@ -919,7 +963,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "cracks",
+      "sticker": "moon"
     },
     {
       "id": "black_hole",
@@ -958,7 +1004,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "orbit",
+      "sticker": "sparkle"
     },
     {
       "id": "warp_speed",
@@ -997,7 +1045,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "rays",
+      "sticker": "star"
     },
     {
       "id": "ice",
@@ -1037,7 +1087,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "bubbles",
+      "sticker": "snow"
     },
     {
       "id": "rain",
@@ -1076,7 +1128,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "drops",
+      "sticker": "drop"
     },
     {
       "id": "water",
@@ -1116,7 +1170,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "waves",
+      "sticker": "drop"
     },
     {
       "id": "snow",
@@ -1156,7 +1212,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "stars",
+      "sticker": "snow"
     },
     {
       "id": "multiverse",
@@ -1195,7 +1253,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "orbit",
+      "sticker": "star"
     },
     {
       "id": "cyber_circuit",
@@ -1234,7 +1294,9 @@
       "navStyle": "saber",
       "glyphSet": "saber",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "circuit",
+      "sticker": "gear"
     },
     {
       "id": "cyber_datastream",
@@ -1273,7 +1335,9 @@
       "navStyle": "saber",
       "glyphSet": "saber",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "grid",
+      "sticker": "chip"
     },
     {
       "id": "cyber_hologram",
@@ -1312,7 +1376,9 @@
       "navStyle": "saber",
       "glyphSet": "saber",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "halo",
+      "sticker": "chip"
     },
     {
       "id": "cyber_neongrid",
@@ -1351,7 +1417,9 @@
       "navStyle": "saber",
       "glyphSet": "saber",
       "panelStyle": "saber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "grid",
+      "sticker": "star"
     },
     {
       "id": "saber",
@@ -1390,7 +1458,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "blades",
+      "sticker": "sparkle"
     },
     {
       "id": "legend",
@@ -1429,7 +1499,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "crown",
+      "sticker": "shield"
     },
     {
       "id": "mythic",
@@ -1468,7 +1540,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "runes",
+      "sticker": "gem"
     },
     {
       "id": "glory",
@@ -1508,7 +1582,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "flames",
+      "sticker": "star"
     },
     {
       "id": "saber_crimson",
@@ -1547,7 +1623,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "blades",
+      "sticker": "flame"
     },
     {
       "id": "saber_gold",
@@ -1586,7 +1664,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "blades",
+      "sticker": "coin"
     },
     {
       "id": "saber_shadow",
@@ -1625,7 +1705,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "blades",
+      "sticker": "moon"
     },
     {
       "id": "saber_frost",
@@ -1665,7 +1747,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "blades",
+      "sticker": "snow"
     },
     {
       "id": "haya_crimson",
@@ -1704,7 +1788,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "feathers",
+      "sticker": "feather"
     },
     {
       "id": "haya_jade",
@@ -1744,7 +1830,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "feathers",
+      "sticker": "gem"
     },
     {
       "id": "epic_storm",
@@ -1783,7 +1871,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "rays",
+      "sticker": "bolt"
     },
     {
       "id": "sky_bright",
@@ -1823,7 +1913,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "rays",
+      "sticker": "cloud"
     },
     {
       "id": "sky_pastel",
@@ -1863,7 +1955,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "bubbles",
+      "sticker": "cloud"
     },
     {
       "id": "sky_night",
@@ -1902,7 +1996,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "halo",
+      "sticker": "star"
     },
     {
       "id": "sky_golden",
@@ -1942,7 +2038,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "halo",
+      "sticker": "sparkle"
     },
     {
       "id": "iphone_glass",
@@ -1982,7 +2080,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "chrome",
+      "sticker": "bubble"
     },
     {
       "id": "iphone_dark",
@@ -2021,7 +2121,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "chrome",
+      "sticker": "moon"
     },
     {
       "id": "iphone_pastel",
@@ -2061,7 +2163,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "petals",
+      "sticker": "sparkle"
     },
     {
       "id": "place_beach",
@@ -2101,7 +2205,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "star"
     },
     {
       "id": "place_underwater",
@@ -2140,7 +2246,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "bubbles",
+      "sticker": "drop"
     },
     {
       "id": "place_jungle",
@@ -2179,7 +2287,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "petals",
+      "sticker": "leaf"
     },
     {
       "id": "place_waterfall",
@@ -2218,7 +2328,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "waves",
+      "sticker": "cloud"
     },
     {
       "id": "place_pagoda",
@@ -2258,7 +2370,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "rays",
+      "sticker": "crown"
     },
     {
       "id": "place_bagan",
@@ -2298,7 +2412,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "halo",
+      "sticker": "crown"
     },
     {
       "id": "place_volcano",
@@ -2337,7 +2453,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "flames",
+      "sticker": "gem"
     },
     {
       "id": "place_cave",
@@ -2376,7 +2494,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "stars",
+      "sticker": "gem"
     },
     {
       "id": "place_aurora",
@@ -2415,7 +2535,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "swirl",
+      "sticker": "star"
     },
     {
       "id": "hyperos_glass",
@@ -2455,7 +2577,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "bubbles",
+      "sticker": "sparkle"
     },
     {
       "id": "hyperos_vibrant",
@@ -2495,7 +2619,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "swirl",
+      "sticker": "bubble"
     },
     {
       "id": "hyperos_dark",
@@ -2534,7 +2660,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "halo",
+      "sticker": "flame"
     },
     {
       "id": "hyperos_nature",
@@ -2574,7 +2702,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "drops",
+      "sticker": "leaf"
     },
     {
       "id": "hyperos_minimal",
@@ -2614,7 +2744,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "none",
+      "sticker": "none"
     },
     {
       "id": "digital_led",
@@ -2653,7 +2785,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "pixels",
+      "sticker": "sparkle"
     },
     {
       "id": "digital_binary",
@@ -2692,7 +2826,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "pixels",
+      "sticker": "chip"
     },
     {
       "id": "digital_hud",
@@ -2731,7 +2867,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "grid",
+      "sticker": "gear"
     },
     {
       "id": "digital_terminal",
@@ -2770,7 +2908,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "grid",
+      "sticker": "chip"
     },
     {
       "id": "orange-black",
@@ -2809,7 +2949,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "stripes",
+      "sticker": "flame"
     },
     {
       "accent1": "#14B8A6",
@@ -2850,7 +2992,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "petals",
+      "sticker": "feather"
     },
     {
       "accent1": "#F9A8D4",
@@ -2891,7 +3035,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "drops",
+      "sticker": "flower"
     },
     {
       "accent1": "#8B5CF6",
@@ -2932,7 +3078,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "crown",
+      "sticker": "coin"
     },
     {
       "accent1": "#38BDF8",
@@ -2973,7 +3121,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "waves",
+      "sticker": "bubble"
     },
     {
       "accent1": "#A855F7",
@@ -3014,7 +3164,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 144
+      "panelAlpha": 144,
+      "discArt": "orbit",
+      "sticker": "gem"
     },
     {
       "accent1": "#3B82F6",
@@ -3054,7 +3206,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "blades",
+      "sticker": "shield"
     },
     {
       "accent1": "#F59E0B",
@@ -3094,7 +3248,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "stripes",
+      "sticker": "shield"
     },
     {
       "accent1": "#10B981",
@@ -3134,7 +3290,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "stripes",
+      "sticker": "ball"
     },
     {
       "accent1": "#F87171",
@@ -3175,7 +3333,9 @@
       "navStyle": "liquid",
       "glyphSet": "saber",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "rays",
+      "sticker": "moon"
     },
     {
       "accent1": "#FB7185",
@@ -3216,7 +3376,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "stars",
+      "sticker": "moon"
     },
     {
       "accent1": "#DDD6FE",
@@ -3257,7 +3419,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "drops",
+      "sticker": "sparkle"
     },
     {
       "accent1": "#F9A8D4",
@@ -3298,7 +3462,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "grid",
+      "sticker": "sparkle"
     },
     {
       "id": "xiaomi",
@@ -3332,7 +3498,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "sparkle"
     },
     {
       "id": "oppo",
@@ -3366,7 +3534,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "rings",
+      "sticker": "lens"
     },
     {
       "id": "huawei",
@@ -3400,7 +3570,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "gem"
     },
     {
       "id": "vivo",
@@ -3434,7 +3606,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "lens"
     },
     {
       "id": "honor",
@@ -3468,7 +3642,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "halo",
+      "sticker": "moon"
     },
     {
       "id": "poco",
@@ -3502,7 +3678,9 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "default",
+      "discArt": "stripes",
+      "sticker": "gear"
     },
     {
       "id": "samsung",
@@ -3536,7 +3714,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "rings",
+      "sticker": "pen"
     },
     {
       "id": "apple",
@@ -3570,7 +3750,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "rings",
+      "sticker": "sparkle"
     },
     {
       "id": "pixel",
@@ -3604,7 +3786,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "stripes",
+      "sticker": "star"
     },
     {
       "id": "realme",
@@ -3638,7 +3822,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "bolt"
     },
     {
       "id": "nothing",
@@ -3672,7 +3858,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "circuit",
+      "sticker": "chip"
     },
     {
       "id": "infinix",
@@ -3706,7 +3894,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "chip"
     },
     {
       "id": "tecno",
@@ -3740,7 +3930,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "stars",
+      "sticker": "star"
     },
     {
       "id": "redmi",
@@ -3774,7 +3966,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "blades",
+      "sticker": "bolt"
     },
     {
       "id": "ipad",
@@ -3808,7 +4002,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "halo",
+      "sticker": "pen"
     },
     {
       "id": "galaxy_tab",
@@ -3842,7 +4038,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "orbit",
+      "sticker": "pen"
     },
     {
       "id": "xiaomi_pad",
@@ -3876,7 +4074,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "grid",
+      "sticker": "pen"
     },
     {
       "id": "dell",
@@ -3910,7 +4110,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "grid",
+      "sticker": "key"
     },
     {
       "id": "hp",
@@ -3944,7 +4146,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "rings",
+      "sticker": "gear"
     },
     {
       "id": "acer",
@@ -3978,7 +4182,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "blades",
+      "sticker": "gear"
     },
     {
       "id": "surface",
@@ -4012,7 +4218,9 @@
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "chrome",
+      "sticker": "pen"
     },
     {
       "id": "oneplus",
@@ -4046,7 +4254,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "rays",
+      "sticker": "bolt"
     },
     {
       "id": "sony",
@@ -4080,7 +4290,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "grid",
+      "sticker": "gem"
     },
     {
       "id": "nokia",
@@ -4114,7 +4326,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "pixels",
+      "sticker": "chip"
     },
     {
       "id": "motorola",
@@ -4148,7 +4362,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "feathers",
+      "sticker": "chip"
     },
     {
       "id": "iqoo",
@@ -4182,7 +4398,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "stripes",
+      "sticker": "bolt"
     },
     {
       "id": "matepad",
@@ -4216,7 +4434,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "halo",
+      "sticker": "pen"
     },
     {
       "id": "mac",
@@ -4250,7 +4470,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "chrome",
+      "sticker": "sparkle"
     },
     {
       "id": "thinkpad",
@@ -4284,7 +4506,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "grid",
+      "sticker": "key"
     },
     {
       "id": "rog",
@@ -4318,7 +4542,9 @@
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
       "image": null,
-      "style": "default"
+      "style": "default",
+      "discArt": "lens",
+      "sticker": "chip"
     },
     {
       "id": "msi",
@@ -4359,7 +4585,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "blades",
+      "sticker": "shield"
     },
     {
       "id": "razer",
@@ -4400,7 +4628,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "scales",
+      "sticker": "bolt"
     },
     {
       "id": "ipod",
@@ -4434,7 +4664,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#111827",
-      "style": "default"
+      "style": "default",
+      "discArt": "rings",
+      "sticker": "note"
     },
     {
       "id": "vpn",
@@ -4475,7 +4707,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "rings",
+      "sticker": "shield"
     },
     {
       "id": "premium",
@@ -4516,7 +4750,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "crown",
+      "sticker": "gem"
     },
     {
       "id": "premier_league",
@@ -4557,7 +4793,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "crown",
+      "sticker": "crown"
     },
     {
       "id": "euro",
@@ -4598,7 +4836,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "stars",
+      "sticker": "ball"
     },
     {
       "id": "fa",
@@ -4639,7 +4879,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "rings",
+      "sticker": "ball"
     },
     {
       "id": "manchester_united",
@@ -4680,7 +4922,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "flames",
+      "sticker": "ball"
     },
     {
       "id": "facebook",
@@ -4714,7 +4958,9 @@
       "cardText": "#111827",
       "cardSubText": "#4B5563",
       "bottomText": "#1C2B33",
-      "style": "default"
+      "style": "default",
+      "discArt": "bubbles",
+      "sticker": "heart"
     },
     {
       "id": "game",
@@ -4755,7 +5001,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "cyber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "pixels",
+      "sticker": "coin"
     },
     {
       "id": "sky",
@@ -4796,7 +5044,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "waves",
+      "sticker": "feather"
     },
     {
       "id": "world",
@@ -4837,7 +5087,9 @@
       "navStyle": "cyber",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 160
+      "panelAlpha": 160,
+      "discArt": "orbit",
+      "sticker": "chip"
     },
     {
       "id": "colorful",
@@ -4880,7 +5132,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "bubbles",
+      "sticker": "star"
     },
     {
       "id": "rainbow",
@@ -4925,7 +5179,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "rings",
+      "sticker": "cloud"
     },
     {
       "id": "beautiful_girl",
@@ -4966,7 +5222,9 @@
       "navStyle": "crystal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 96
+      "panelAlpha": 96,
+      "discArt": "petals",
+      "sticker": "flower"
     },
     {
       "id": "taunggyi_tazaungdaing",
@@ -5007,7 +5265,9 @@
       "navStyle": "liquid",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 128
+      "panelAlpha": 128,
+      "discArt": "flames",
+      "sticker": "flame"
     },
     {
       "id": "shan_new_year",
@@ -5048,7 +5308,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "flames",
+      "sticker": "moon"
     },
     {
       "accent1": "#F59E0B",
@@ -5089,7 +5351,9 @@
       "navStyle": "minimal",
       "glyphSet": "minimal",
       "panelStyle": "minimal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "rays",
+      "sticker": "gem"
     },
     {
       "id": "star_wars",
@@ -5130,7 +5394,9 @@
       "navStyle": "cyber",
       "glyphSet": "crystal",
       "panelStyle": "crystal",
-      "panelAlpha": 104
+      "panelAlpha": 104,
+      "discArt": "blades",
+      "sticker": "star"
     },
     {
       "id": "dream_girl",
@@ -5171,7 +5437,9 @@
       "navStyle": "minimal",
       "glyphSet": "crystal",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "stars",
+      "sticker": "sparkle"
     },
     {
       "id": "blue_sky",
@@ -5212,7 +5480,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "crystal",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "cloud"
     },
     {
       "id": "mixed_fruits",
@@ -5253,7 +5523,9 @@
       "navStyle": "minimal",
       "glyphSet": "crystal",
       "panelStyle": "saber",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "swirl",
+      "sticker": "leaf"
     },
     {
       "id": "neon_profile",
@@ -5294,7 +5566,9 @@
       "navStyle": "minimal",
       "glyphSet": "liquid",
       "panelStyle": "cyber",
-      "panelAlpha": 56
+      "panelAlpha": 56,
+      "discArt": "swirl",
+      "sticker": "bolt"
     },
     {
       "id": "balloon_night",
@@ -5335,7 +5609,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "bubbles",
+      "sticker": "moon"
     },
     {
       "id": "earth_day",
@@ -5376,7 +5652,9 @@
       "navStyle": "minimal",
       "glyphSet": "crystal",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "orbit",
+      "sticker": "cloud"
     },
     {
       "id": "earth_night",
@@ -5417,7 +5695,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "moon"
     },
     {
       "id": "earth_aurora",
@@ -5458,7 +5738,9 @@
       "navStyle": "liquid",
       "glyphSet": "liquid",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "star"
     },
     {
       "id": "neon_waves",
@@ -5499,7 +5781,9 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "sparkle"
     },
     {
       "id": "royal_d",
@@ -5540,7 +5824,394 @@
       "navStyle": "cyber",
       "glyphSet": "cyber",
       "panelStyle": "liquid",
-      "panelAlpha": 112
+      "panelAlpha": 112,
+      "discArt": "bubbles",
+      "sticker": "bolt"
+    },
+    {
+      "id": "watercolor",
+      "name": "Watercolor",
+      "nameMy": "ရေဆေး",
+      "bg": [
+        "#FFFFFF",
+        "#FBE9E7",
+        "#E3F2FD",
+        "#E8F5E9"
+      ],
+      "accent1": "#F48FB1",
+      "accent2": "#90CAF9",
+      "accentText": "#AD1457",
+      "cardTint": "#FFF8F5",
+      "darkCardText": true,
+      "pillBg": "#FCE4EC",
+      "pillText": "#AD1457",
+      "statusColor": "#AD1457",
+      "button": [
+        "#FFFFFF",
+        "#F8BBD0",
+        "#CE93D8"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1xPtrxvPLefZkxQv5mnwS0HcYGq3g93aW&export=download",
+      "timerColor": "#4A148C",
+      "glassText": "#111827",
+      "glassSubText": "#4B5563",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#111827",
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "swirl",
+      "sticker": "pen"
+    },
+    {
+      "id": "night_stadium",
+      "name": "Night Stadium",
+      "nameMy": "ညအားကစားကွင်း",
+      "bg": [
+        "#020617",
+        "#0B1026",
+        "#1E1B4B",
+        "#312E81"
+      ],
+      "accent1": "#FDE047",
+      "accent2": "#15803D",
+      "accentText": "#FDE68A",
+      "cardTint": "#0B1026",
+      "darkCardText": false,
+      "pillBg": "#0B1026",
+      "pillText": "#FDE68A",
+      "statusColor": "#FDE68A",
+      "button": [
+        "#FEF08A",
+        "#FACC15",
+        "#15803D"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1SVs6gEzAIZCqXNfMPEcL9PNUsbZDcFDr&export=download",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "style": "saber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "rays",
+      "sticker": "ball"
+    },
+    {
+      "id": "sky_kite",
+      "name": "Sky Kite",
+      "nameMy": "ကောင်းကင်စွန်ရွက်",
+      "bg": [
+        "#E0F2FE",
+        "#BAE6FD",
+        "#7DD3FC",
+        "#38BDF8"
+      ],
+      "accent1": "#38BDF8",
+      "accent2": "#F59E0B",
+      "accentText": "#0369A1",
+      "cardTint": "#E0F2FE",
+      "darkCardText": true,
+      "pillBg": "#E0F2FE",
+      "pillText": "#0369A1",
+      "statusColor": "#0369A1",
+      "button": [
+        "#FFFFFF",
+        "#7DD3FC",
+        "#F59E0B"
+      ],
+      "icon": "light",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1fnWOqjt6ldf9_5yv_r_1csvfsAwPRGxm&export=download",
+      "timerColor": "#0C4A6E",
+      "glassText": "#111827",
+      "glassSubText": "#374151",
+      "cardText": "#111827",
+      "cardSubText": "#4B5563",
+      "bottomText": "#0C4A6E",
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "liquid",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "feather"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "nameMy": "ဂိမ်း",
+      "bg": [
+        "#050510",
+        "#0B1026",
+        "#1E1B4B",
+        "#3B0764"
+      ],
+      "accent1": "#E879F9",
+      "accent2": "#22D3EE",
+      "accentText": "#F0ABFC",
+      "cardTint": "#0B1026",
+      "darkCardText": false,
+      "pillBg": "#0B1026",
+      "pillText": "#F0ABFC",
+      "statusColor": "#F0ABFC",
+      "button": [
+        "#F0ABFC",
+        "#A855F7",
+        "#22D3EE"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1AqFX_amMmvO4bpb2U0rowdmI2HUBG9iP&export=download",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "style": "cyber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "grid",
+      "sticker": "bolt"
+    },
+    {
+      "id": "world_cup",
+      "name": "World Cup",
+      "nameMy": "ကမ္ဘာ့ဖလား",
+      "bg": [
+        "#0B1026",
+        "#1E3A8A",
+        "#1E40AF",
+        "#312E81"
+      ],
+      "accent1": "#FBBF24",
+      "accent2": "#1D4ED8",
+      "accentText": "#FDE68A",
+      "cardTint": "#0B1026",
+      "darkCardText": false,
+      "pillBg": "#0B1026",
+      "pillText": "#FDE68A",
+      "statusColor": "#FDE68A",
+      "button": [
+        "#FEF08A",
+        "#FBBF24",
+        "#1D4ED8"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1EMhxlkU3J7wC8-HtCYC1VrixV1vwRspg&export=download",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "style": "saber",
+      "cardStyle": "saber",
+      "ringStyle": "saber",
+      "pillStyle": "saber",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "rings",
+      "sticker": "crown"
+    },
+    {
+      "id": "laser_concert",
+      "name": "Laser Concert",
+      "nameMy": "လေဆာဖျော်ဖြေပွဲ",
+      "bg": [
+        "#050510",
+        "#1E1B4B",
+        "#3B0764",
+        "#052E16"
+      ],
+      "accent1": "#C084FC",
+      "accent2": "#4ADE80",
+      "accentText": "#E9D5FF",
+      "cardTint": "#0B1026",
+      "darkCardText": false,
+      "pillBg": "#0B1026",
+      "pillText": "#E9D5FF",
+      "statusColor": "#E9D5FF",
+      "button": [
+        "#E9D5FF",
+        "#A855F7",
+        "#22C55E"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1hbIRb8WXiBXTH7jM_zf8xMlSFpG1Goni&export=download",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "style": "cyber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "rays",
+      "sticker": "note"
+    },
+    {
+      "id": "origami",
+      "name": "Origami",
+      "nameMy": "အိုရီဂါမီ",
+      "bg": [
+        "#FDFBF7",
+        "#F5F0EB",
+        "#EDE8E0",
+        "#E3DDD3"
+      ],
+      "accent1": "#F5F0EB",
+      "accent2": "#94A3B8",
+      "accentText": "#64748B",
+      "cardTint": "#FFFFFF",
+      "darkCardText": true,
+      "pillBg": "#F1F1F3",
+      "pillText": "#475569",
+      "statusColor": "#64748B",
+      "button": [
+        "#FFFFFF",
+        "#E2E8F0",
+        "#94A3B8"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1cG1HfzTSiH_Eofwdaik78L71Q3_-_x9U&export=download",
+      "timerColor": "#334155",
+      "glassText": "#111827",
+      "glassSubText": "#4B5563",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#111827",
+      "style": "minimal",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "cracks",
+      "sticker": "feather"
+    },
+    {
+      "id": "nolly",
+      "name": "Nolly",
+      "nameMy": "Nolly",
+      "bg": [
+        "#FDF8F3",
+        "#F5EDE4",
+        "#EADCD0"
+      ],
+      "accent1": "#D4A08A",
+      "accent2": "#C08A76",
+      "accentText": "#9C6644",
+      "cardTint": "#FBF3EC",
+      "darkCardText": true,
+      "pillBg": "#F5E1D8",
+      "pillText": "#9C6644",
+      "statusColor": "#9C6644",
+      "button": [
+        "#FFFFFF",
+        "#F5E1D8",
+        "#D4A08A"
+      ],
+      "icon": "#D4A08A",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1uACRQkR1Rjdi7f-I-9ZIvAz_PJT3M1Oi&export=download",
+      "timerColor": "#7C4A32",
+      "glassText": "#111827",
+      "glassSubText": "#4B5563",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#111827",
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "petals",
+      "sticker": "flower"
+    },
+    {
+      "id": "nolly_2",
+      "name": "Nolly 2",
+      "nameMy": "Nolly 2",
+      "bg": [
+        "#E8F3EC",
+        "#CFE3D6",
+        "#9DBFA8"
+      ],
+      "accent1": "#2E7D32",
+      "accent2": "#43A047",
+      "accentText": "#1B5E20",
+      "cardTint": "#E8F3EC",
+      "darkCardText": true,
+      "pillBg": "#E8F3EC",
+      "pillText": "#1B5E20",
+      "statusColor": "#1B5E20",
+      "button": [
+        "#FFFFFF",
+        "#E8F3EC",
+        "#2E7D32"
+      ],
+      "icon": "#2E7D32",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1jqhPMQgoh1fholln45mlOt4-zHQkLAIT&export=download",
+      "timerColor": "#1B5E20",
+      "glassText": "#111827",
+      "glassSubText": "#4B5563",
+      "cardText": "#111827",
+      "cardSubText": "#6B7280",
+      "bottomText": "#111827",
+      "style": "liquid",
+      "cardStyle": "liquid",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "liquid",
+      "panelAlpha": 112,
+      "discArt": "waves",
+      "sticker": "leaf"
     }
   ]
 }
