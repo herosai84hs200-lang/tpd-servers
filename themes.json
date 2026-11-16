@@ -4445,8 +4445,8 @@
         "#0891B2"
       ],
       "icon": "light",
-      "panel": "#CCFFFFFF",
-      "image": null,
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1DYGozxUftCiTUN4MQvDbIAzC7ebC53Qb&export=download",
       "nameMy": "ဗီပီအန်",
       "timerColor": "#FFFFFF",
       "glassText": "#111827",
@@ -4454,7 +4454,14 @@
       "cardText": "#FFFFFF",
       "cardSubText": "#D1D5DB",
       "bottomText": "#FFFFFF",
-      "style": "default"
+      "style": "cyber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112
     },
     {
       "id": "premium",
@@ -4494,8 +4501,8 @@
       "pillStyle": "liquid",
       "navStyle": "cyber",
       "glyphSet": "liquid",
-      "panelStyle": "crystal",
-      "panelAlpha": 160
+      "panelStyle": "liquid",
+      "panelAlpha": 112
     },
     {
       "id": "premier_league",
@@ -5471,6 +5478,47 @@
       "icon": "dark",
       "panel": "#BFFFFFFF",
       "image": "https://drive.google.com/uc?id=13MEPfV_vFRr7TfAo_Dlp9qxNOuRJBruC&export=download",
+      "style": "cyber",
+      "cardStyle": "cyber",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "cyber",
+      "glyphSet": "cyber",
+      "panelStyle": "liquid",
+      "panelAlpha": 112
+    },
+    {
+      "id": "royal_d",
+      "name": "Royal D",
+      "nameMy": "ရွိုင်ရယ်ဒီ",
+      "bg": [
+        "#0A0F0A",
+        "#0D1408",
+        "#1A2E05",
+        "#000000"
+      ],
+      "accent1": "#84CC16",
+      "accent2": "#EAB308",
+      "accentText": "#D9F99D",
+      "cardTint": "#14532D",
+      "darkCardText": false,
+      "pillBg": "#1A2E05",
+      "pillText": "#D9F99D",
+      "statusColor": "#A3E635",
+      "timerColor": "#FFFFFF",
+      "glassText": "#111827",
+      "glassSubText": "#111827",
+      "cardText": "#FFFFFF",
+      "cardSubText": "#D1D5DB",
+      "bottomText": "#FFFFFF",
+      "button": [
+        "#D9F99D",
+        "#84CC16",
+        "#4D7C0F"
+      ],
+      "icon": "dark",
+      "panel": "#BFFFFFFF",
+      "image": "https://drive.google.com/uc?id=1pGeSrrPKmV17fgARmmN_BkMFiQrGOemg&export=download",
       "style": "cyber",
       "cardStyle": "cyber",
       "ringStyle": "cyber",
