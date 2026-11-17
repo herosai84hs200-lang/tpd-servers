@@ -42,7 +42,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "bubbles",
-      "sticker": "bubble"
+      "sticker": "bubble",
+      "panelTint": "#CBEDFD",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "pink",
@@ -85,7 +92,14 @@
       "panelStyle": "saber",
       "panelAlpha": 144,
       "discArt": "bubbles",
-      "sticker": "heart"
+      "sticker": "heart",
+      "panelTint": "#EFE1FE",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "yellow",
@@ -128,7 +142,14 @@
       "panelStyle": "saber",
       "panelAlpha": 160,
       "discArt": "rays",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#E5C7C6",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "gradient",
@@ -171,7 +192,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "swirl",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#F7E0D2",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "gold",
@@ -214,7 +242,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 144,
       "discArt": "rings",
-      "sticker": "coin"
+      "sticker": "coin",
+      "panelTint": "#F7E0B8",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "ice_blue",
@@ -256,7 +291,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 160,
       "discArt": "cracks",
-      "sticker": "snow"
+      "sticker": "snow",
+      "panelTint": "#CBEDFD",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "adventure_gold",
@@ -298,7 +340,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "rings",
-      "sticker": "key"
+      "sticker": "key",
+      "panelTint": "#FDE5A7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "rose_purple",
@@ -340,7 +389,14 @@
       "panelStyle": "saber",
       "panelAlpha": 160,
       "discArt": "petals",
-      "sticker": "flower"
+      "sticker": "flower",
+      "panelTint": "#F9DDFD",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "desert_titanium",
@@ -382,7 +438,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 96,
       "discArt": "stripes",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#EEEDEC",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "natural_titanium",
@@ -424,7 +487,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "chrome",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#EAEEF3",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     },
     {
       "id": "chocolate",
@@ -466,7 +536,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "swirl",
-      "sticker": "heart"
+      "sticker": "heart",
+      "panelTint": "#DCC6B2",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 190,
+      "timerStyle": "square"
     },
     {
       "id": "black",
@@ -507,7 +584,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "halo",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#AFB3B9",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 150,
+      "timerStyle": "square"
     },
     {
       "id": "coffee",
@@ -549,7 +633,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "swirl",
-      "sticker": "drop"
+      "sticker": "drop",
+      "panelTint": "#D0BEB1",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 210,
+      "timerStyle": "square"
     },
     {
       "id": "black_glass",
@@ -590,7 +681,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 96,
       "discArt": "chrome",
-      "sticker": "lens"
+      "sticker": "lens",
+      "panelTint": "#B2B2B7",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "id": "cyberpunk",
@@ -631,7 +729,14 @@
       "panelStyle": "saber",
       "panelAlpha": 160,
       "discArt": "circuit",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#F7B5D6",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "id": "shan_3d",
@@ -673,7 +778,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 160,
       "discArt": "rings",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FCDCA7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer"
     },
     {
       "id": "sunset_desert",
@@ -715,7 +827,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 144,
       "discArt": "rays",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FEE3C7",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "id": "crystal_3d",
@@ -757,7 +876,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "cracks",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#DBE1FD",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "id": "clay_3d",
@@ -799,7 +925,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 96,
       "discArt": "bubbles",
-      "sticker": "flower"
+      "sticker": "flower",
+      "panelTint": "#FDEDE7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "id": "liquid_metal",
@@ -841,7 +974,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 128,
       "discArt": "chrome",
-      "sticker": "drop"
+      "sticker": "drop",
+      "panelTint": "#ECEEF0",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "id": "fire_flow",
@@ -882,7 +1022,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 112,
       "discArt": "flames",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FCC7A1",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "space_station",
@@ -923,7 +1070,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 128,
       "discArt": "orbit",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#AFE4FC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "moon_surface",
@@ -965,7 +1119,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 144,
       "discArt": "cracks",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#EDEDEF",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "black_hole",
@@ -1006,7 +1167,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 112,
       "discArt": "orbit",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#CAB0F7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "warp_speed",
@@ -1047,7 +1215,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 144,
       "discArt": "rays",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#BFDBFD",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "ice",
@@ -1089,7 +1264,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 144,
       "discArt": "bubbles",
-      "sticker": "snow"
+      "sticker": "snow",
+      "panelTint": "#E3F5FE",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "rain",
@@ -1130,7 +1312,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 160,
       "discArt": "drops",
-      "sticker": "drop"
+      "sticker": "drop",
+      "panelTint": "#CBEDFD",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "water",
@@ -1172,7 +1361,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 144,
       "discArt": "waves",
-      "sticker": "drop"
+      "sticker": "drop",
+      "panelTint": "#A6EDF8",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "snow",
@@ -1214,7 +1410,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 144,
       "discArt": "stars",
-      "sticker": "snow"
+      "sticker": "snow",
+      "panelTint": "#F9FBFC",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "multiverse",
@@ -1255,7 +1458,14 @@
       "panelStyle": "saber",
       "panelAlpha": 144,
       "discArt": "orbit",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#DBD0FD",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     },
     {
       "id": "cyber_circuit",
@@ -1296,7 +1506,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "circuit",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#ADEDD6",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 190,
+      "timerStyle": "square"
     },
     {
       "id": "cyber_datastream",
@@ -1337,7 +1554,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "grid",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#AFE4FC",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 150,
+      "timerStyle": "square"
     },
     {
       "id": "cyber_hologram",
@@ -1378,7 +1602,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "halo",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#A6EDF8",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 210,
+      "timerStyle": "square"
     },
     {
       "id": "cyber_neongrid",
@@ -1419,7 +1650,14 @@
       "panelStyle": "saber",
       "panelAlpha": 144,
       "discArt": "grid",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#F5C9FC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "id": "saber",
@@ -1460,7 +1698,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "blades",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#BFDBFD",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "id": "legend",
@@ -1501,7 +1746,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "crown",
-      "sticker": "shield"
+      "sticker": "shield",
+      "panelTint": "#FDE5A7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer"
     },
     {
       "id": "mythic",
@@ -1542,7 +1794,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 128,
       "discArt": "runes",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#E5CDFD",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "id": "glory",
@@ -1584,7 +1843,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 128,
       "discArt": "flames",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#FDDBDB",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "id": "saber_crimson",
@@ -1625,7 +1891,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 112,
       "discArt": "blades",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FCC6C6",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "id": "saber_gold",
@@ -1666,7 +1939,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 128,
       "discArt": "blades",
-      "sticker": "coin"
+      "sticker": "coin",
+      "panelTint": "#FEF2B5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "id": "saber_shadow",
@@ -1707,7 +1987,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 144,
       "discArt": "blades",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#C6C6C9",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "saber_frost",
@@ -1749,7 +2036,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 128,
       "discArt": "blades",
-      "sticker": "snow"
+      "sticker": "snow",
+      "panelTint": "#D3E7FE",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "haya_crimson",
@@ -1790,7 +2084,14 @@
       "panelStyle": "saber",
       "panelAlpha": 144,
       "discArt": "feathers",
-      "sticker": "feather"
+      "sticker": "feather",
+      "panelTint": "#F8B4B4",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "haya_jade",
@@ -1832,7 +2133,14 @@
       "panelStyle": "saber",
       "panelAlpha": 160,
       "discArt": "feathers",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#ADEDD6",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "epic_storm",
@@ -1873,7 +2181,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 128,
       "discArt": "rays",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#FEF2B5",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "sky_bright",
@@ -1915,7 +2230,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "rays",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#CBEDFD",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "sky_pastel",
@@ -1957,7 +2279,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 144,
       "discArt": "bubbles",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#FCDCED",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "sky_night",
@@ -1998,7 +2327,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 112,
       "discArt": "halo",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#F3F5F9",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "sky_golden",
@@ -2040,7 +2376,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 128,
       "discArt": "halo",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#FEE3C7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "iphone_glass",
@@ -2082,7 +2425,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 96,
       "discArt": "chrome",
-      "sticker": "bubble"
+      "sticker": "bubble",
+      "panelTint": "#FFFFFF",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     },
     {
       "id": "iphone_dark",
@@ -2123,7 +2473,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 112,
       "discArt": "chrome",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#B5B5B6",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 190,
+      "timerStyle": "square"
     },
     {
       "id": "iphone_pastel",
@@ -2165,7 +2522,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "petals",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#FDEBF5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 150,
+      "timerStyle": "square"
     },
     {
       "id": "place_beach",
@@ -2207,7 +2571,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#BEF6ED",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 210,
+      "timerStyle": "square"
     },
     {
       "id": "place_underwater",
@@ -2248,7 +2619,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 128,
       "discArt": "bubbles",
-      "sticker": "drop"
+      "sticker": "drop",
+      "panelTint": "#A6EDF8",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "id": "place_jungle",
@@ -2289,7 +2667,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "petals",
-      "sticker": "leaf"
+      "sticker": "leaf",
+      "panelTint": "#B6F1CC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "id": "place_waterfall",
@@ -2330,7 +2715,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 144,
       "discArt": "waves",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#CBEDFD",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer"
     },
     {
       "id": "place_pagoda",
@@ -2372,7 +2764,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "rays",
-      "sticker": "crown"
+      "sticker": "crown",
+      "panelTint": "#FEF2B5",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "id": "place_bagan",
@@ -2414,7 +2813,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "halo",
-      "sticker": "crown"
+      "sticker": "crown",
+      "panelTint": "#FEEFDD",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "id": "place_volcano",
@@ -2455,7 +2861,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 96,
       "discArt": "flames",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#FCC7A1",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "id": "place_cave",
@@ -2496,7 +2909,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "stars",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#E7E1FE",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "id": "place_aurora",
@@ -2537,7 +2957,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 112,
       "discArt": "swirl",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#C5F5E2",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "hyperos_glass",
@@ -2579,7 +3006,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 128,
       "discArt": "bubbles",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#D3E7FE",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "hyperos_vibrant",
@@ -2621,7 +3055,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "swirl",
-      "sticker": "bubble"
+      "sticker": "bubble",
+      "panelTint": "#DBD0FD",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "hyperos_dark",
@@ -2662,7 +3103,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "halo",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FDD3B1",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "hyperos_nature",
@@ -2704,7 +3152,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "drops",
-      "sticker": "leaf"
+      "sticker": "leaf",
+      "panelTint": "#C5F5E2",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "hyperos_minimal",
@@ -2746,7 +3201,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "none",
-      "sticker": "none"
+      "sticker": "none",
+      "panelTint": "#F4F5F7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "digital_led",
@@ -2787,7 +3249,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 128,
       "discArt": "pixels",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#F8B4B4",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "digital_binary",
@@ -2828,7 +3297,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 96,
       "discArt": "pixels",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#ADEDD6",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "digital_hud",
@@ -2869,7 +3345,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 112,
       "discArt": "grid",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#A6EDF8",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "digital_terminal",
@@ -2910,7 +3393,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 144,
       "discArt": "grid",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#B6F1CC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     },
     {
       "id": "orange-black",
@@ -2951,7 +3441,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 160,
       "discArt": "stripes",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FCC7A1",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 190,
+      "timerStyle": "square"
     },
     {
       "accent1": "#14B8A6",
@@ -2994,7 +3491,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 144,
       "discArt": "petals",
-      "sticker": "feather"
+      "sticker": "feather",
+      "panelTint": "#A1E2DB",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 150,
+      "timerStyle": "square"
     },
     {
       "accent1": "#F9A8D4",
@@ -3037,7 +3541,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "drops",
-      "sticker": "flower"
+      "sticker": "flower",
+      "panelTint": "#FCDCED",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 210,
+      "timerStyle": "square"
     },
     {
       "accent1": "#8B5CF6",
@@ -3080,7 +3591,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 160,
       "discArt": "crown",
-      "sticker": "coin"
+      "sticker": "coin",
+      "panelTint": "#D0BDFB",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "accent1": "#38BDF8",
@@ -3123,7 +3641,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "waves",
-      "sticker": "bubble"
+      "sticker": "bubble",
+      "panelTint": "#AFE4FC",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "accent1": "#A855F7",
@@ -3166,7 +3691,14 @@
       "panelStyle": "saber",
       "panelAlpha": 144,
       "discArt": "orbit",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#DCBBFB",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer"
     },
     {
       "accent1": "#3B82F6",
@@ -3208,7 +3740,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "blades",
-      "sticker": "shield"
+      "sticker": "shield",
+      "panelTint": "#B0CDFB",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "accent1": "#F59E0B",
@@ -3250,7 +3789,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "stripes",
-      "sticker": "shield"
+      "sticker": "shield",
+      "panelTint": "#FBD89D",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "accent1": "#10B981",
@@ -3292,7 +3838,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 160,
       "discArt": "stripes",
-      "sticker": "ball"
+      "sticker": "ball",
+      "panelTint": "#9FE3CC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "accent1": "#F87171",
@@ -3335,7 +3888,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "rays",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FCC6C6",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "accent1": "#FB7185",
@@ -3378,7 +3938,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 160,
       "discArt": "stars",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FDC6CE",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "accent1": "#DDD6FE",
@@ -3421,7 +3988,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 112,
       "discArt": "drops",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#F1EEFE",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "accent1": "#F9A8D4",
@@ -3464,7 +4038,14 @@
       "panelStyle": "saber",
       "panelAlpha": 160,
       "discArt": "grid",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#FCDCED",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "xiaomi",
@@ -3500,7 +4081,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "lens",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#FFC399",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 170,
+      "timerStyle": "",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "crystal",
+      "navStyle": "saber",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid"
     },
     {
       "id": "oppo",
@@ -3536,7 +4130,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "rings",
-      "sticker": "lens"
+      "sticker": "lens",
+      "panelTint": "#99DCCB",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 230,
+      "timerStyle": "",
+      "cardStyle": "default",
+      "ringStyle": "default",
+      "pillStyle": "liquid",
+      "navStyle": "crystal",
+      "glyphSet": "liquid",
+      "panelStyle": "minimal"
     },
     {
       "id": "huawei",
@@ -3572,7 +4179,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "lens",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#EB9DAA",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 160,
+      "timerStyle": "pill",
+      "cardStyle": "cyber",
+      "ringStyle": "default",
+      "pillStyle": "liquid",
+      "navStyle": "crystal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal"
     },
     {
       "id": "vivo",
@@ -3608,7 +4228,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "lens",
-      "sticker": "lens"
+      "sticker": "lens",
+      "panelTint": "#B3BFFF",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 200,
+      "timerStyle": "pill",
+      "cardStyle": "saber",
+      "ringStyle": "cyber",
+      "pillStyle": "liquid",
+      "navStyle": "crystal",
+      "glyphSet": "arrow",
+      "panelStyle": "saber"
     },
     {
       "id": "honor",
@@ -3644,7 +4277,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "halo",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#CAB0F7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 140,
+      "timerStyle": "pill",
+      "cardStyle": "crystal",
+      "ringStyle": "cyber",
+      "pillStyle": "minimal",
+      "navStyle": "crystal",
+      "glyphSet": "ring",
+      "panelStyle": "saber"
     },
     {
       "id": "poco",
@@ -3680,7 +4326,20 @@
       "bottomText": "#FFFFFF",
       "style": "default",
       "discArt": "stripes",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#FFF199",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 220,
+      "timerStyle": "pill",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "default",
+      "panelStyle": "default"
     },
     {
       "id": "samsung",
@@ -3716,7 +4375,20 @@
       "image": null,
       "style": "default",
       "discArt": "rings",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#A1A9D9",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 180,
+      "timerStyle": "pill",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "minimal",
+      "navStyle": "liquid",
+      "glyphSet": "cyber",
+      "panelStyle": "default"
     },
     {
       "id": "apple",
@@ -3752,7 +4424,20 @@
       "image": null,
       "style": "default",
       "discArt": "rings",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#A4A4A5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 190,
+      "timerStyle": "square",
+      "cardStyle": "default",
+      "ringStyle": "crystal",
+      "pillStyle": "default",
+      "navStyle": "liquid",
+      "glyphSet": "saber",
+      "panelStyle": "liquid"
     },
     {
       "id": "pixel",
@@ -3788,7 +4473,20 @@
       "image": null,
       "style": "default",
       "discArt": "stripes",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#B3CEFA",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 150,
+      "timerStyle": "square",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "default",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid"
     },
     {
       "id": "realme",
@@ -3824,7 +4522,20 @@
       "image": null,
       "style": "default",
       "discArt": "lens",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#FFE9A1",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 210,
+      "timerStyle": "square",
+      "cardStyle": "saber",
+      "ringStyle": "liquid",
+      "pillStyle": "default",
+      "navStyle": "minimal",
+      "glyphSet": "liquid",
+      "panelStyle": "minimal"
     },
     {
       "id": "nothing",
@@ -3860,7 +4571,20 @@
       "image": null,
       "style": "default",
       "discArt": "circuit",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#EFA3A5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 170,
+      "timerStyle": "square",
+      "cardStyle": "crystal",
+      "ringStyle": "liquid",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal"
     },
     {
       "id": "infinix",
@@ -3896,7 +4620,20 @@
       "image": null,
       "style": "default",
       "discArt": "lens",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#99E0B5",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 230,
+      "timerStyle": "square",
+      "cardStyle": "liquid",
+      "ringStyle": "minimal",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "arrow",
+      "panelStyle": "saber"
     },
     {
       "id": "tecno",
@@ -3932,7 +4669,20 @@
       "image": null,
       "style": "default",
       "discArt": "stars",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#B8B5F4",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "cyber",
+      "navStyle": "minimal",
+      "glyphSet": "ring",
+      "panelStyle": "saber"
     },
     {
       "id": "redmi",
@@ -3968,7 +4718,20 @@
       "image": null,
       "style": "default",
       "discArt": "blades",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#FFB0AC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer",
+      "cardStyle": "default",
+      "ringStyle": "default",
+      "pillStyle": "saber",
+      "navStyle": "default",
+      "glyphSet": "default",
+      "panelStyle": "default"
     },
     {
       "id": "ipad",
@@ -4004,7 +4767,20 @@
       "image": null,
       "style": "default",
       "discArt": "halo",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#99C9FF",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer",
+      "cardStyle": "cyber",
+      "ringStyle": "default",
+      "pillStyle": "saber",
+      "navStyle": "default",
+      "glyphSet": "cyber",
+      "panelStyle": "default"
     },
     {
       "id": "galaxy_tab",
@@ -4040,7 +4816,20 @@
       "image": null,
       "style": "default",
       "discArt": "orbit",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#BDD1F8",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer",
+      "cardStyle": "saber",
+      "ringStyle": "cyber",
+      "pillStyle": "saber",
+      "navStyle": "default",
+      "glyphSet": "saber",
+      "panelStyle": "liquid"
     },
     {
       "id": "xiaomi_pad",
@@ -4076,7 +4865,20 @@
       "image": null,
       "style": "default",
       "discArt": "grid",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#9ED4CF",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer",
+      "cardStyle": "crystal",
+      "ringStyle": "cyber",
+      "pillStyle": "crystal",
+      "navStyle": "default",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid"
     },
     {
       "id": "dell",
@@ -4112,7 +4914,20 @@
       "image": null,
       "style": "default",
       "discArt": "grid",
-      "sticker": "key"
+      "sticker": "key",
+      "panelTint": "#99CBE2",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 190,
+      "timerStyle": "",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "crystal",
+      "navStyle": "cyber",
+      "glyphSet": "liquid",
+      "panelStyle": "minimal"
     },
     {
       "id": "hp",
@@ -4148,7 +4963,20 @@
       "image": null,
       "style": "default",
       "discArt": "rings",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#99D5EE",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 150,
+      "timerStyle": "",
+      "cardStyle": "minimal",
+      "ringStyle": "saber",
+      "pillStyle": "crystal",
+      "navStyle": "cyber",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal"
     },
     {
       "id": "acer",
@@ -4184,7 +5012,20 @@
       "image": null,
       "style": "default",
       "discArt": "blades",
-      "sticker": "gear"
+      "sticker": "gear",
+      "panelTint": "#CDE2A3",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 210,
+      "timerStyle": "",
+      "cardStyle": "default",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "arrow",
+      "panelStyle": "saber"
     },
     {
       "id": "surface",
@@ -4220,7 +5061,20 @@
       "image": null,
       "style": "default",
       "discArt": "chrome",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#99DAF8",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 170,
+      "timerStyle": "",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "liquid",
+      "navStyle": "cyber",
+      "glyphSet": "ring",
+      "panelStyle": "saber"
     },
     {
       "id": "oneplus",
@@ -4256,7 +5110,20 @@
       "image": null,
       "style": "default",
       "discArt": "rays",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#F799A9",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 230,
+      "timerStyle": "",
+      "cardStyle": "saber",
+      "ringStyle": "liquid",
+      "pillStyle": "liquid",
+      "navStyle": "saber",
+      "glyphSet": "default",
+      "panelStyle": "default"
     },
     {
       "id": "sony",
@@ -4292,7 +5159,20 @@
       "image": null,
       "style": "default",
       "discArt": "grid",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#99C2E5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "standard",
+      "cardAlpha": 160,
+      "timerStyle": "pill",
+      "cardStyle": "crystal",
+      "ringStyle": "liquid",
+      "pillStyle": "minimal",
+      "navStyle": "saber",
+      "glyphSet": "cyber",
+      "panelStyle": "default"
     },
     {
       "id": "nokia",
@@ -4328,7 +5208,20 @@
       "image": null,
       "style": "default",
       "discArt": "pixels",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#B7D8FF",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 200,
+      "timerStyle": "pill",
+      "cardStyle": "liquid",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "saber",
+      "glyphSet": "saber",
+      "panelStyle": "liquid"
     },
     {
       "id": "motorola",
@@ -4364,7 +5257,20 @@
       "image": null,
       "style": "default",
       "discArt": "feathers",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#99E0EE",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 140,
+      "timerStyle": "pill",
+      "cardStyle": "minimal",
+      "ringStyle": "minimal",
+      "pillStyle": "minimal",
+      "navStyle": "saber",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid"
     },
     {
       "id": "iqoo",
@@ -4400,7 +5306,20 @@
       "image": null,
       "style": "default",
       "discArt": "stripes",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#FFEC99",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 220,
+      "timerStyle": "pill",
+      "cardStyle": "default",
+      "ringStyle": "default",
+      "pillStyle": "default",
+      "navStyle": "crystal",
+      "glyphSet": "liquid",
+      "panelStyle": "minimal"
     },
     {
       "id": "matepad",
@@ -4436,7 +5355,20 @@
       "image": null,
       "style": "default",
       "discArt": "halo",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#E9D9A8",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 180,
+      "timerStyle": "pill",
+      "cardStyle": "cyber",
+      "ringStyle": "default",
+      "pillStyle": "default",
+      "navStyle": "crystal",
+      "glyphSet": "minimal",
+      "panelStyle": "minimal"
     },
     {
       "id": "mac",
@@ -4472,7 +5404,20 @@
       "image": null,
       "style": "default",
       "discArt": "chrome",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#9DCDFF",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 190,
+      "timerStyle": "square",
+      "cardStyle": "saber",
+      "ringStyle": "cyber",
+      "pillStyle": "default",
+      "navStyle": "crystal",
+      "glyphSet": "arrow",
+      "panelStyle": "saber"
     },
     {
       "id": "thinkpad",
@@ -4508,7 +5453,20 @@
       "image": null,
       "style": "default",
       "discArt": "grid",
-      "sticker": "key"
+      "sticker": "key",
+      "panelTint": "#F3A7A3",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "stagger",
+      "cardAlpha": 150,
+      "timerStyle": "square",
+      "cardStyle": "crystal",
+      "ringStyle": "cyber",
+      "pillStyle": "cyber",
+      "navStyle": "crystal",
+      "glyphSet": "ring",
+      "panelStyle": "saber"
     },
     {
       "id": "rog",
@@ -4544,7 +5502,20 @@
       "image": null,
       "style": "default",
       "discArt": "lens",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#FF99AD",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 210,
+      "timerStyle": "square",
+      "cardStyle": "liquid",
+      "ringStyle": "saber",
+      "pillStyle": "cyber",
+      "navStyle": "liquid",
+      "glyphSet": "default",
+      "panelStyle": "default"
     },
     {
       "id": "msi",
@@ -4587,7 +5558,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "blades",
-      "sticker": "shield"
+      "sticker": "shield",
+      "panelTint": "#F7A4A7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "id": "razer",
@@ -4630,7 +5608,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "scales",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#B4EEAA",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "id": "ipod",
@@ -4666,7 +5651,20 @@
       "bottomText": "#111827",
       "style": "default",
       "discArt": "rings",
-      "sticker": "note"
+      "sticker": "note",
+      "panelTint": "#D1D1D3",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer",
+      "cardStyle": "cyber",
+      "ringStyle": "crystal",
+      "pillStyle": "saber",
+      "navStyle": "liquid",
+      "glyphSet": "crystal",
+      "panelStyle": "liquid"
     },
     {
       "id": "vpn",
@@ -4709,7 +5707,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "rings",
-      "sticker": "shield"
+      "sticker": "shield",
+      "panelTint": "#9BE1ED",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "id": "premium",
@@ -4752,7 +5757,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "crown",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#EDDFAF",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "tight",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "id": "premier_league",
@@ -4795,7 +5807,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 128,
       "discArt": "crown",
-      "sticker": "crown"
+      "sticker": "crown",
+      "panelTint": "#99FFCE",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "id": "euro",
@@ -4838,7 +5857,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 96,
       "discArt": "stars",
-      "sticker": "ball"
+      "sticker": "ball",
+      "panelTint": "#B0CDFB",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "id": "fa",
@@ -4881,7 +5907,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "rings",
-      "sticker": "ball"
+      "sticker": "ball",
+      "panelTint": "#EB9FA7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "manchester_united",
@@ -4924,7 +5957,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 112,
       "discArt": "flames",
-      "sticker": "ball"
+      "sticker": "ball",
+      "panelTint": "#F0A9A4",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "facebook",
@@ -4960,7 +6000,20 @@
       "bottomText": "#1C2B33",
       "style": "default",
       "discArt": "bubbles",
-      "sticker": "heart"
+      "sticker": "heart",
+      "panelTint": "#A2C8F9",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 210,
+      "timerStyle": "",
+      "cardStyle": "saber",
+      "ringStyle": "cyber",
+      "pillStyle": "liquid",
+      "navStyle": "default",
+      "glyphSet": "saber",
+      "panelStyle": "liquid"
     },
     {
       "id": "game",
@@ -5003,7 +6056,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 112,
       "discArt": "pixels",
-      "sticker": "coin"
+      "sticker": "coin",
+      "panelTint": "#DCBBFB",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "wide",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "sky",
@@ -5046,7 +6106,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 128,
       "discArt": "waves",
-      "sticker": "feather"
+      "sticker": "feather",
+      "panelTint": "#9EDBF6",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "world",
@@ -5089,7 +6156,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 160,
       "discArt": "orbit",
-      "sticker": "chip"
+      "sticker": "chip",
+      "panelTint": "#A7C0F7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "colorful",
@@ -5134,7 +6208,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "bubbles",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#D0BDFB",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "rainbow",
@@ -5181,7 +6262,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 96,
       "discArt": "rings",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#D0BDFB",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "beautiful_girl",
@@ -5224,7 +6312,14 @@
       "panelStyle": "saber",
       "panelAlpha": 96,
       "discArt": "petals",
-      "sticker": "flower"
+      "sticker": "flower",
+      "panelTint": "#DADFD0",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "taunggyi_tazaungdaing",
@@ -5267,7 +6362,14 @@
       "panelStyle": "saber",
       "panelAlpha": 128,
       "discArt": "flames",
-      "sticker": "flame"
+      "sticker": "flame",
+      "panelTint": "#FBD89D",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "standard",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     },
     {
       "id": "shan_new_year",
@@ -5310,7 +6412,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "flames",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FCDCA7",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 190,
+      "timerStyle": "square"
     },
     {
       "accent1": "#F59E0B",
@@ -5353,7 +6462,14 @@
       "panelStyle": "minimal",
       "panelAlpha": 112,
       "discArt": "rays",
-      "sticker": "gem"
+      "sticker": "gem",
+      "panelTint": "#FBD89D",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 150,
+      "timerStyle": "square"
     },
     {
       "id": "star_wars",
@@ -5396,7 +6512,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 104,
       "discArt": "blades",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#FFF5A5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 210,
+      "timerStyle": "square"
     },
     {
       "id": "dream_girl",
@@ -5439,7 +6562,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "stars",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#AFE4FC",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 170,
+      "timerStyle": "square"
     },
     {
       "id": "blue_sky",
@@ -5482,7 +6612,14 @@
       "panelStyle": "crystal",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#AFE4FC",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 230,
+      "timerStyle": "square"
     },
     {
       "id": "mixed_fruits",
@@ -5525,7 +6662,14 @@
       "panelStyle": "saber",
       "panelAlpha": 112,
       "discArt": "swirl",
-      "sticker": "leaf"
+      "sticker": "leaf",
+      "panelTint": "#FCC7A1",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "stagger",
+      "cardAlpha": 160,
+      "timerStyle": "chamfer"
     },
     {
       "id": "neon_profile",
@@ -5568,7 +6712,14 @@
       "panelStyle": "cyber",
       "panelAlpha": 56,
       "discArt": "swirl",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#AFE4FC",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 200,
+      "timerStyle": "chamfer"
     },
     {
       "id": "balloon_night",
@@ -5611,7 +6762,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "bubbles",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FDE5A7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 140,
+      "timerStyle": "chamfer"
     },
     {
       "id": "earth_day",
@@ -5654,7 +6812,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "orbit",
-      "sticker": "cloud"
+      "sticker": "cloud",
+      "panelTint": "#AFE4FC",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 220,
+      "timerStyle": "chamfer"
     },
     {
       "id": "earth_night",
@@ -5697,7 +6862,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "moon"
+      "sticker": "moon",
+      "panelTint": "#FDE5A7",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 180,
+      "timerStyle": "chamfer"
     },
     {
       "id": "earth_aurora",
@@ -5740,7 +6912,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "star"
+      "sticker": "star",
+      "panelTint": "#ADEDD6",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 190,
+      "timerStyle": ""
     },
     {
       "id": "neon_waves",
@@ -5783,7 +6962,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "sparkle"
+      "sticker": "sparkle",
+      "panelTint": "#DCBBFB",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "radial",
+      "cardLayout": "tight",
+      "cardAlpha": 150,
+      "timerStyle": ""
     },
     {
       "id": "royal_d",
@@ -5826,7 +7012,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "bubbles",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#CDEAA1",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 210,
+      "timerStyle": ""
     },
     {
       "id": "watercolor",
@@ -5869,7 +7062,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "swirl",
-      "sticker": "pen"
+      "sticker": "pen",
+      "panelTint": "#FAD2DF",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "radial",
+      "cardLayout": "stagger",
+      "cardAlpha": 170,
+      "timerStyle": ""
     },
     {
       "id": "night_stadium",
@@ -5912,7 +7112,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "rays",
-      "sticker": "ball"
+      "sticker": "ball",
+      "panelTint": "#FEF2B5",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 230,
+      "timerStyle": ""
     },
     {
       "id": "sky_kite",
@@ -5955,7 +7162,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "waves",
-      "sticker": "feather"
+      "sticker": "feather",
+      "panelTint": "#AFE4FC",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "diag",
+      "cardLayout": "standard",
+      "cardAlpha": 160,
+      "timerStyle": "pill"
     },
     {
       "id": "gaming",
@@ -5998,7 +7212,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "grid",
-      "sticker": "bolt"
+      "sticker": "bolt",
+      "panelTint": "#F5C9FC",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "diag",
+      "cardLayout": "wide",
+      "cardAlpha": 200,
+      "timerStyle": "pill"
     },
     {
       "id": "world_cup",
@@ -6041,7 +7262,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "rings",
-      "sticker": "crown"
+      "sticker": "crown",
+      "panelTint": "#FDE5A7",
+      "panelShape": "",
+      "discShape": "round",
+      "discGrad": "vert",
+      "cardLayout": "wide",
+      "cardAlpha": 140,
+      "timerStyle": "pill"
     },
     {
       "id": "laser_concert",
@@ -6084,7 +7312,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "rays",
-      "sticker": "note"
+      "sticker": "note",
+      "panelTint": "#E5CDFD",
+      "panelShape": "wave",
+      "discShape": "octagon",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 220,
+      "timerStyle": "pill"
     },
     {
       "id": "origami",
@@ -6127,91 +7362,14 @@
       "panelStyle": "liquid",
       "panelAlpha": 112,
       "discArt": "cracks",
-      "sticker": "feather"
-    },
-    {
-      "id": "nolly",
-      "name": "Nolly",
-      "nameMy": "Nolly",
-      "bg": [
-        "#FDF8F3",
-        "#F5EDE4",
-        "#EADCD0"
-      ],
-      "accent1": "#D4A08A",
-      "accent2": "#C08A76",
-      "accentText": "#9C6644",
-      "cardTint": "#FBF3EC",
-      "darkCardText": true,
-      "pillBg": "#F5E1D8",
-      "pillText": "#9C6644",
-      "statusColor": "#9C6644",
-      "button": [
-        "#FFFFFF",
-        "#F5E1D8",
-        "#D4A08A"
-      ],
-      "icon": "#D4A08A",
-      "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1uACRQkR1Rjdi7f-I-9ZIvAz_PJT3M1Oi&export=download",
-      "timerColor": "#7C4A32",
-      "glassText": "#111827",
-      "glassSubText": "#4B5563",
-      "cardText": "#111827",
-      "cardSubText": "#6B7280",
-      "bottomText": "#111827",
-      "style": "liquid",
-      "cardStyle": "liquid",
-      "ringStyle": "liquid",
-      "pillStyle": "liquid",
-      "navStyle": "minimal",
-      "glyphSet": "liquid",
-      "panelStyle": "liquid",
-      "panelAlpha": 112,
-      "discArt": "petals",
-      "sticker": "flower"
-    },
-    {
-      "id": "nolly_2",
-      "name": "Nolly 2",
-      "nameMy": "Nolly 2",
-      "bg": [
-        "#E8F3EC",
-        "#CFE3D6",
-        "#9DBFA8"
-      ],
-      "accent1": "#2E7D32",
-      "accent2": "#43A047",
-      "accentText": "#1B5E20",
-      "cardTint": "#E8F3EC",
-      "darkCardText": true,
-      "pillBg": "#E8F3EC",
-      "pillText": "#1B5E20",
-      "statusColor": "#1B5E20",
-      "button": [
-        "#FFFFFF",
-        "#E8F3EC",
-        "#2E7D32"
-      ],
-      "icon": "#2E7D32",
-      "panel": "#BFFFFFFF",
-      "image": "https://drive.google.com/uc?id=1jqhPMQgoh1fholln45mlOt4-zHQkLAIT&export=download",
-      "timerColor": "#1B5E20",
-      "glassText": "#111827",
-      "glassSubText": "#4B5563",
-      "cardText": "#111827",
-      "cardSubText": "#6B7280",
-      "bottomText": "#111827",
-      "style": "liquid",
-      "cardStyle": "liquid",
-      "ringStyle": "liquid",
-      "pillStyle": "liquid",
-      "navStyle": "minimal",
-      "glyphSet": "liquid",
-      "panelStyle": "liquid",
-      "panelAlpha": 112,
-      "discArt": "waves",
-      "sticker": "leaf"
+      "sticker": "feather",
+      "panelTint": "#FBF9F7",
+      "panelShape": "arch",
+      "discShape": "squircle",
+      "discGrad": "vert",
+      "cardLayout": "tight",
+      "cardAlpha": 180,
+      "timerStyle": "pill"
     }
   ]
 }
