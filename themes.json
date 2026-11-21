@@ -45,7 +45,7 @@
       "sticker": "bubble",
       "panelTint": "#DBEAFE",
       "panelShape": "wave",
-      "discShape": "round",
+      "discShape": "hexagon",
       "discGrad": "diag",
       "cardLayout": "standard",
       "cardAlpha": 190,
