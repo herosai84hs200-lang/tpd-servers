@@ -14,3 +14,4 @@ vless://f8d2837f-daff-478a-b650-865b244dae86@www.ceir.gov.mm:443?alpn=http%2F1.1
 vless://f8d2837f-daff-478a-b650-865b244dae86@neobux.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=ggg.trdsev.site&path=%2Fliveczgo&security=tls&sni=ggg.trdsev.site&type=ws#Vvip-GWByCzDec1
 vless://2c494899-7272-4e5e-b3c4-5574773c115a@www.airpaz.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vvv.4thsev.site&path=%2Flivegocz&security=tls&sni=vvv.4thsev.site&type=ws#Vvip-GWbyCzDec1
 vless://340a2476-031a-4863-95f5-7e7a58a8b371@techylist.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=zzz.5thsev.site&path=%2Flivecgoz&security=tls&sni=zzz.5thsev.site&type=ws#Vvip-GWbyCzDec1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Nm9mamxwcmx0ajdjcWc1@103.107.53.11:17385?type=tcp#Thai%28%F0%9F%87%B9%F0%9F%87%AD%E2%80%8B%29-Unlimited
