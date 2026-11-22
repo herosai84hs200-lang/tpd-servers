@@ -48,7 +48,7 @@
       "discShape": "hexagon",
       "discGrad": "diag",
       "cardLayout": "standard",
-      "cardAlpha": 80,
+      "cardAlpha": 40,
       "timerStyle": "pill",
       "texture": "ocean",
       "motion": "drift",
