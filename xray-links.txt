@@ -124,3 +124,5 @@ hysteria2://3tk5ne8t6fnwqobe@192.220.105.205:443?alpn=h3&mport=20000-21000&obfs=
 hysteria2://fnm0cms3sy973luc@192.220.105.173:443?alpn=h3&mport=20000-21000&obfs=salamander&obfs-password=ccb28f3rbc4buspe&security=tls&sni=#NA-UnitedStates-Streaming-07-HY
 hysteria2://t38pj55llaeexx5g@216.167.94.155:443?alpn=h3&mport=20000-21000&obfs=salamander&obfs-password=d4zi0zgc3si4cd37&security=tls&sni=#NA-UnitedStates-Streaming-08-HY
 vless://b7b1f7fb-6af5-40a9-a60f-5764bc5ea84f@5bswot56ny.vsoft.fyi:10421?alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delays%22%3A%5B%5D%2C%22length%22%3A%22100-200%22%2C%22lengths%22%3A%5B%22100-200%22%5D%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%221-3%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=firefox&host=5bswot56ny.vsoft.fyi&path=%2F&security=tls&sni=5bswot56ny.vsoft.fyi&type=ws#SA-Brazil-VLESS-01
+# Subscription feed
+https://www.softvtun.pro/api/subscription?user=6b06b6a79dc151ccae8986f1
