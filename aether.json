@@ -1,0 +1,7 @@
+{
+ "file": "aether",
+ "version": "2.4.0",
+ "size_bytes": 19027136,
+ "sha256": "1c36661a7b06d79f9b5caeaefc68a50d33d47bfe437ac082e699498a5b326c13",
+ "note": "Standalone aether binary (assets copy). The packaged native lib (libaether.so, installer-extracted) is tried first; this download is the fallback when it is missing."
+}

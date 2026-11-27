@@ -1,0 +1,701 @@
+{
+ "version": 1,
+ "generated": "2026-11-27",
+ "note": "Unicode Myanmar fonts, download on demand. Pyidaungsu is version 2.3: 2.5.3 is unobtainable (repo 404s, mmunicode blocks automation). 16 files have partial Myanmar-block coverage (75-86/160, pre-Unicode-9 fonts; 159/160 for PaohDragonApp) and render common Burmese text fine.",
+ "font_count": 70,
+ "family_count": 59,
+ "total_bytes": 20427756,
+ "families": [
+  "Cherry Unicode",
+  "Jasmine Unicode",
+  "KT Unicode 03",
+  "KengTawng.002",
+  "MON3 Anonta 1",
+  "Masterpiece Uni Round",
+  "Myanmar Angoun",
+  "Myanmar Black",
+  "Myanmar Census",
+  "Myanmar Gantgaw",
+  "Myanmar Head One",
+  "Myanmar Khway",
+  "Myanmar Kuttar",
+  "Myanmar Nayone",
+  "Myanmar Njaun",
+  "Myanmar PaOh One",
+  "Myanmar PaOh Rosemary",
+  "Myanmar Pauklay",
+  "Myanmar Phetsot",
+  "Myanmar Pixel",
+  "Myanmar Pixel Smooth",
+  "Myanmar Ponenyet",
+  "Myanmar Sabae",
+  "Myanmar Sagar",
+  "Myanmar Sans Pro",
+  "Myanmar Square",
+  "Myanmar Square Light",
+  "Myanmar Tagu",
+  "Myanmar Taungyi",
+  "Myanmar Yinmar",
+  "Myanmar punk",
+  "Myanmar3",
+  "Myanmar3 PaOh",
+  "Myanmar3h",
+  "Myanmar3sh",
+  "NK SSmart2",
+  "NK SSmart3",
+  "NK SSmart4",
+  "NamKhone Grand",
+  "NamKhone Web Pro",
+  "NamKhoneUnicode",
+  "Noto Sans Myanmar",
+  "Noto Sans Myanmar UI",
+  "Noto Serif Myanmar",
+  "Padauk",
+  "Padauk Book Sgaw",
+  "Padauk Grand Pro",
+  "Padauk KyaungChee",
+  "Padauk Sagar",
+  "Padauk Sgaw",
+  "PangLong",
+  "Parabaik",
+  "Pyidaungsu",
+  "Shan Unicode",
+  "ThanLwin",
+  "TharLon",
+  "WinUni Innwa",
+  "YoeYar-One",
+  "Yunghkio"
+ ],
+ "fonts": [
+  {
+   "family": "Cherry Unicode",
+   "file": "CherryUnicode_Cherry_Unicode.ttf",
+   "version": "Version 1.000 Nov 6, 2014",
+   "size_bytes": 153064,
+   "sha256": "ffce56b05aa7f821b50af89b821a4ae88a0607febe4e5bc8c1eced43df203d7c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Jasmine Unicode",
+   "file": "JasmineUnicode_Jasmine_Unicode.ttf",
+   "version": "Version 1.000 Nov 6, 2015",
+   "size_bytes": 165028,
+   "sha256": "544b7fee6e02f0f1dacecd8a425b69694b7273a6447058442e3c8a172f29cc75",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "KengTawng.002",
+   "file": "KT_Unicode_KT_02.ttf",
+   "version": "Version 1.003 December 2, 2014",
+   "size_bytes": 347076,
+   "sha256": "0feaf2c507d7eb12524bb79e5d04f90aca66d9f45a9e8aefe5a53faac2a37e2c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "KT Unicode 03",
+   "file": "KT_Unicode_KT_03.ttf",
+   "version": "Version 1.001 January 28, 2015",
+   "size_bytes": 160744,
+   "sha256": "a5b8c0cfdb198e31ae3fbfe21b7219cf441feaf8653a738e5a279037cdfa636e",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "MON3 Anonta 1",
+   "file": "MON3_Anonta_MON3Anonta1.ttf",
+   "version": "Version 1.001 December 28, 2012",
+   "size_bytes": 248652,
+   "sha256": "7ea541861f431997b5c8040f2ad55fa08d02d93cc5f5a26fced2f76573f432a6",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Masterpiece Uni Round",
+   "file": "MasterpieceUniRound_MasterpieceUniRound.ttf",
+   "version": "Version 0.1",
+   "size_bytes": 59604,
+   "sha256": "d8d1c7740b5605ce15b52675be728c49e29f3d9e29562a0efc56b1493ddc0dc8",
+   "myanmar_block_covered": 75,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar3 PaOh",
+   "file": "Myanmar3_PaOh_MM3_Paoh.ttf",
+   "version": "Version 1.358 January 5, 2011",
+   "size_bytes": 101908,
+   "sha256": "73d5baaf97c4e796ed696aa79cb579001dbdcfdb6beca9a84be530fac3654a3d",
+   "myanmar_block_covered": 86,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar3",
+   "file": "Myanmar3_mm3-multi-os.ttf",
+   "version": "Version 1.358 January 5, 2011",
+   "size_bytes": 122540,
+   "sha256": "560c550d47b860dc4a058943095593f196174e31c0cdeb1c59e1b4d7727b3813",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar3",
+   "file": "Myanmar3_mm3_05-Jan-2011.ttf",
+   "version": "Version 1.358 January 5, 2011",
+   "size_bytes": 102316,
+   "sha256": "2b089fba1611e14704d6ce73059c74fbd397bc0c18c6596eb0f58880c90c034f",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar3h",
+   "file": "Myanmar3_mm3h.ttf",
+   "version": "Version 3.00 November 7, 2007",
+   "size_bytes": 103108,
+   "sha256": "9acf8be100194d8cb6915bddf63f0799ebb6c01cf4cc03c9201dfddbd07c2433",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar3sh",
+   "file": "Myanmar3_mm3sh.ttf",
+   "version": "Version 3.00 November 13, 2007",
+   "size_bytes": 99108,
+   "sha256": "bbe90b49db58c604fb0dcf4caec315dc6aa73ef0961af32fb4a46707c623a73b",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Angoun",
+   "file": "MyanmarAngoun_MyanmarAngoun.ttf",
+   "version": "Version 1.10 August 28, 2014",
+   "size_bytes": 69344,
+   "sha256": "4a79255257134a96a52cd5c9016428fa6b08a5b40786f3544e63cad3c787941d",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Black",
+   "file": "MyanmarBlack_MyanmarBlack.ttf",
+   "version": "Version 1.10 March 5, 2015",
+   "size_bytes": 39868,
+   "sha256": "50058338df6ac48d99901c0fdfa39da43702a792514eb80856706bcd874dd25c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Census",
+   "file": "MyanmarCensus_myanmarcensus.ttf",
+   "version": "Version 0.331 2013",
+   "size_bytes": 159264,
+   "sha256": "a1cc37b74c03db5fc7e8a0d029697e1026b2be8cd6aa0c959eaa478180ad866c",
+   "myanmar_block_covered": 75,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Gantgaw",
+   "file": "MyanmarGantGaw_MyanmarGantGaw.ttf",
+   "version": "Version 1.10 March 28, 2014",
+   "size_bytes": 81800,
+   "sha256": "c768f6a7a1475a7e7e91c7f12e40cc685fc643bc2777d188ded4def5226a833c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Khway",
+   "file": "MyanmarKhway_MyanmarKhway.ttf",
+   "version": "Version 1.10 December 14, 2014",
+   "size_bytes": 41636,
+   "sha256": "72fe99f0831d50cbeec355471466843b3f3dbd3e27bb1c6a86693b3505edc0f1",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Kuttar",
+   "file": "MyanmarKuttar_MyanmarKuttar.ttf",
+   "version": "Version 1.10 August 7, 2014",
+   "size_bytes": 78244,
+   "sha256": "06cc65f98deda6883254829d888749aebb74025cbadbfe019b49c436f535e0c2",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Nayone",
+   "file": "MyanmarNayone_MyanmarNayone.ttf",
+   "version": "Version 1.10 April 13, 2015",
+   "size_bytes": 43436,
+   "sha256": "d717d7f5d33b68b3967f8ffae3d5d28279b7d37a3fac8d9f42a1bd7efaf599cd",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Njaun",
+   "file": "MyanmarNjaun_MyanmarNjaun.ttf",
+   "version": "Version 1.10 August 28, 2014",
+   "size_bytes": 40480,
+   "sha256": "67063727b7bc475ad2cf4687e7b2ff817c44fc249998d668db98928226f4bcd4",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar PaOh One",
+   "file": "MyanmarPaOhOne_MyanmarPaOhOne.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 342400,
+   "sha256": "87a886899e28912df72293c18f748e4395b570a8fec185083d14c03933c0ba10",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar PaOh Rosemary",
+   "file": "MyanmarPaOhRosemary_MIUI-Unicode.ttf",
+   "version": "Version 1.01",
+   "size_bytes": 353924,
+   "sha256": "da51d8c7749f192f563e44564c5125634645075881cddee2752ed44f3f5049dd",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Pauklay",
+   "file": "MyanmarPauklay_MyanmarPauklay.ttf",
+   "version": "Version 1.10 December 31, 2014",
+   "size_bytes": 39992,
+   "sha256": "05fa65a47c95f37db36ffbe1b2f6d1e381c06f88f65dcfc2ee81bc392a07ab69",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Phetsot",
+   "file": "MyanmarPhetsot_MyanmarPhetsot.ttf",
+   "version": "Version 1.10 March 10, 2015",
+   "size_bytes": 42676,
+   "sha256": "55b6553b5ed1b0cb4b13d4931da52eb968edcdb659a1310db110573615bf46d1",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Pixel",
+   "file": "MyanmarPixel_MyanmarPixel.ttf",
+   "version": "Version 1.10 November 16, 2014",
+   "size_bytes": 39840,
+   "sha256": "3153be07f5a2e1fd33f880ad616ae7e234201d71ff78f2c0290947bbbdf1e19c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Pixel Smooth",
+   "file": "MyanmarPixel_MyanmarPixelSmooth.ttf",
+   "version": "Version 1.10 December 11, 2014",
+   "size_bytes": 40012,
+   "sha256": "fb1b049ac67d1351720044eb4e3b776d2af7462b9fc89f41ee7579fc67861c34",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Ponenyet",
+   "file": "MyanmarPonenyet_MyanmarPonenyet.ttf",
+   "version": "Version 1.10 December 26, 2014",
+   "size_bytes": 39032,
+   "sha256": "3c35f4f8bc4de41acd4bc6f0acae772f6fc37a1f47a283cb1822efaa05a30125",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar punk",
+   "file": "MyanmarPunk_Myanmar_Punk.ttf",
+   "version": "Version 1.00 March 27, 2015, initial release",
+   "size_bytes": 40888,
+   "sha256": "1b8d43a0f405f015a0fe318944b173c5e2bdc01714b4037878e6630ab9bfbcb9",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar PaOh Rosemary",
+   "file": "MyanmarRosemarry_Myanmar_Rosemarry.ttf",
+   "version": "Version 1.01",
+   "size_bytes": 370080,
+   "sha256": "7d72e9840cf08bdca7112ec4449a845154fa5ffea669c8868b2a6ecf3127d997",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Sabae",
+   "file": "MyanmarSabae_MyanmarSabae.ttf",
+   "version": "Version 1.10 March 28, 2014",
+   "size_bytes": 42148,
+   "sha256": "ed08af1a089b3d26c2b233dd4705256b46afd259c05aeae85347f61675caf578",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Sagar",
+   "file": "MyanmarSagar_MyanmarSagar.ttf",
+   "version": "Version 1.10 July 23, 2014",
+   "size_bytes": 40960,
+   "sha256": "d927b338bd27eb584b9b3370eba7dfb981afe373940f1c30b5a5216b11c0cbb9",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Sans Pro",
+   "file": "MyanmarSansPro_MyanmarSansPro.ttf",
+   "version": "Version 1.10 March 28, 2014",
+   "size_bytes": 40836,
+   "sha256": "b68c1a4b04efefb3c5ea175e221040dc587066fc4413391c7a43fd855f6c78a1",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Square",
+   "file": "MyanmarSquare_MyanmarSquare.ttf",
+   "version": "Version 1.10 August 18, 2014",
+   "size_bytes": 41476,
+   "sha256": "1e70f007f6cbbc804d639c340fc4b2591452a81be3ede2264e7b560634ce3c9b",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Square Light",
+   "file": "MyanmarSquare_MyanmarSquareLight.ttf",
+   "version": "Version 1.10 August 25, 2014",
+   "size_bytes": 77680,
+   "sha256": "4d588c8ef4b560c4953c2d4d48aa92d9bcc68c2527ccd8bd9ca49180fa11f7a2",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Tagu",
+   "file": "MyanmarTagu_MyanmarTagu.ttf",
+   "version": "Version 1.10 April 8, 2015",
+   "size_bytes": 46656,
+   "sha256": "ff1790fa1fa1b57d64ad3f34ca9318d9da5363b090b66b7e3b1702dff9164a7d",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Taungyi",
+   "file": "MyanmarTaungyi_MyanmarTaungyi.ttf",
+   "version": "Version 3.15 August 13, 2015, initial release",
+   "size_bytes": 119268,
+   "sha256": "b2dccea25936ee9127474635559dcb79a67acecf298927565402f75c436a9ee2",
+   "myanmar_block_covered": 82,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Head One",
+   "file": "MyanmarThuriya_MyanmarThuriya.ttf",
+   "version": "Version 1.10 March 28, 2014",
+   "size_bytes": 31908,
+   "sha256": "69e2593292140a7e7f3a3b40ef9f2fd80c046e9fdc498f8727d85e5478a21709",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Head One",
+   "file": "MyanmarThuriya_MyanmarThuriya_volt.ttf",
+   "version": "Version 1.10 March 28, 2014",
+   "size_bytes": 66944,
+   "sha256": "0347400d8a4f0cbe46b86c93b117c5294150793382df9a2ce94a1d4f27893b88",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Myanmar Yinmar",
+   "file": "MyanmarYinmar_MyanmarYinmar.ttf",
+   "version": "Version 1.10 August 19, 2014",
+   "size_bytes": 77136,
+   "sha256": "10b58d76b53eade39557caca52044e16e46a211bf8e4bf346dca68ab63ca76c6",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NamKhone Grand",
+   "file": "Namkhon_NK-Grand.ttf",
+   "version": "Version 2.002 July 29, 2015",
+   "size_bytes": 276640,
+   "sha256": "61b5ba499335eb7977cf2a3aa4991ee49d88defd73163cea9bf37d85a1a8c505",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NK SSmart2",
+   "file": "Namkhon_NK_SSmart2.ttf",
+   "version": "Version 1.003 2014",
+   "size_bytes": 414612,
+   "sha256": "f062af6a7584f2ce1b6dd037d8477e9781b0da39505ca10a1cf12058a9991b2a",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NK SSmart3",
+   "file": "Namkhon_NK_SSmart3.ttf",
+   "version": "Version 1.003 2014",
+   "size_bytes": 432188,
+   "sha256": "8463acee151d8c5dd8d592edbda5a04e75437fd5b56e092de4ed6fc3aa3601dc",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NK SSmart4",
+   "file": "Namkhon_NK_SSmart4.ttf",
+   "version": "Version 1.000 2014 initial release",
+   "size_bytes": 465452,
+   "sha256": "75d9b796f0a567f1ce5e36c2f9826b51b2ccff12546d8e46932d08204a15ef49",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NamKhoneUnicode",
+   "file": "Namkhon_NamKhoneUnicode.ttf",
+   "version": "Version 1.00 2014",
+   "size_bytes": 533164,
+   "sha256": "efcedb30bb7d2b326b590e0a136e2f481a3c376500387ad4f8583db45e1becbb",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "NamKhone Web Pro",
+   "file": "Namkhon_Namkhon_Web_pro.ttf",
+   "version": "Version 2.20 April 21, 2015",
+   "size_bytes": 590124,
+   "sha256": "45cf6e4116ae8d1942e55dce8523807e1b32f6f1c0229121ca3242e50c47ecbc",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Noto Sans Myanmar",
+   "file": "NotoSansMyanmar-Regular.ttf",
+   "version": "Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D mymr -f none -a qsq -X \"\"",
+   "size_bytes": 196608,
+   "sha256": "3fe9a4babc12081adc979e0313433e6ec85bb3ad069681c23ee8d8ea8b91332b",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Noto Sans Myanmar UI",
+   "file": "NotoSansMyanmarUI-Regular.ttf",
+   "version": "Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D mymr -f none -a qsq -X \"\"",
+   "size_bytes": 196500,
+   "sha256": "af6ba8f406f6fe8e326b78860279bf2d9a132f80b739b5e1a8c1b209f6fa1303",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Noto Serif Myanmar",
+   "file": "NotoSerifMyanmar-Regular.ttf",
+   "version": "Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D mymr -f none -a qsq -X \"\"",
+   "size_bytes": 260396,
+   "sha256": "f88d1da5a75a8e09ff0b073fe3c861d095a72e94fea3235f09f80e6c5b2c9933",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk",
+   "file": "Padauk-Regular.ttf",
+   "version": "Version 6.000",
+   "size_bytes": 165768,
+   "sha256": "3dd5406194518d903c423fc77822be4e8b6c9e6a75dfacda2eafc1a54e64cade",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk",
+   "file": "PadaukGhost_PadaukGhost.ttf",
+   "version": "Version 2.50 November 27, 2014",
+   "size_bytes": 245868,
+   "sha256": "87f12accb46e43a41dc98e98aee7306937efccc3dd0ed655ed40561e1d3c5083",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Grand Pro",
+   "file": "PadaukGrandPro_PadaukGrandPro-v2.ttf",
+   "version": "Version 2.8.2",
+   "size_bytes": 1594164,
+   "sha256": "4af34a8350bd304612ee216586e70f834a10b8a2359d4c7cdd12c019a485b0d1",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk KyaungChee",
+   "file": "PadaukKyaungchikote_Padauk-Kyaungchikote.ttf",
+   "version": "Version 2.80 March 28, 2015",
+   "size_bytes": 277808,
+   "sha256": "ca99c001d5375fee3eeb0a1ebeadc62f178aee6763fa09fce571d991e9334171",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Sagar",
+   "file": "PadaukSagar_PadaukSagar.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 346524,
+   "sha256": "bb38b263f1f9db703a300b15805e4231fc22cc0ddccebfea8a2a725f2e06ca5a",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Sgaw",
+   "file": "PadaukSgaw_PadaukSgaw-Bold.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 446060,
+   "sha256": "bdfd78f5d1c1f3d946d8df33c14058b95373259ecc7a98697cebc387bf0fd745",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Book Sgaw",
+   "file": "PadaukSgaw_PadaukSgaw-book.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 479580,
+   "sha256": "c47d1767309376361169ad6026d03c3944d12b046381ffa658a9d6c4bdb038f9",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Book Sgaw",
+   "file": "PadaukSgaw_PadaukSgaw-bookbold.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 444968,
+   "sha256": "49f20cf0a17faff9a7ae331847f8b10aa2536a6e11571a588fc3103dbc62f13c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Padauk Sgaw",
+   "file": "PadaukSgaw_PadaukSgaw.ttf",
+   "version": "Version 2.8",
+   "size_bytes": 475908,
+   "sha256": "d98ae6d7ef72242e7c1c6884a294056ca6806ee78cfb34b668acf4639980e6ab",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "PangLong",
+   "file": "PangLong_PangLong_2011feb7.ttf",
+   "version": "Version 1.1  February 7 2011",
+   "size_bytes": 437244,
+   "sha256": "86c2612b20e2e7015f2543e50edf1c21755867937eaa8c15cab9744e0879f7ae",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Masterpiece Uni Round",
+   "file": "PaohDragonApp_PaohDragonApp.ttf",
+   "version": "Version 0.1",
+   "size_bytes": 89100,
+   "sha256": "81c50788fa9084a4d20a130833fe0b66a5a8a055e1474edad267ed5d4abdfad7",
+   "myanmar_block_covered": 159,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Parabaik",
+   "file": "Parabaik_Parabaik20080421.ttf",
+   "version": "Version 1.002 2007",
+   "size_bytes": 166008,
+   "sha256": "ed9dd5597f88703534bf78da28f5e1d70f234d1a84206611647cc4070ae5d548",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Parabaik",
+   "file": "Parabaik_Parabaik_UTN11-3.ttf",
+   "version": "Version 1.002 2007",
+   "size_bytes": 149540,
+   "sha256": "2cab8529928a3ab0a8584005fa30759887d75b28833879152e2e5073d6253ed7",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Pyidaungsu",
+   "file": "Pyidaungsu-Bold.ttf",
+   "version": "Version 2.003 December 28, 2017",
+   "size_bytes": 126188,
+   "sha256": "44eddf880f7a5eefe1d566e0c47ff5f0900f37967d5d7caab17a9c3528470726",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Pyidaungsu",
+   "file": "Pyidaungsu-Regular.ttf",
+   "version": "Version 2.003 December 28, 2017",
+   "size_bytes": 126524,
+   "sha256": "87f87eb53d0fa832a9565e55b22bfe66f761a336ea4418c6c7672d7e98d8c99c",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Shan Unicode",
+   "file": "ShanUnicode_Shan-Unicode.ttf",
+   "version": "Version 1.000 2010 initial release",
+   "size_bytes": 462600,
+   "sha256": "7d50ef5f7c791d61640e1f55b5ab8c42d17aac538310554f3ca23e029377e5b6",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "ThanLwin",
+   "file": "Thanlwin_ThanLwin.ttf",
+   "version": "Version 00000.003",
+   "size_bytes": 1080116,
+   "sha256": "b3f3219783811c7bfe21f684898a4929799e9c75518deeb22089995b883a75c2",
+   "myanmar_block_covered": 76,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "TharLon",
+   "file": "Tharlon-Regular.ttf",
+   "version": "Version 1.003 September 27 2012",
+   "size_bytes": 353228,
+   "sha256": "af32cbccd50d8b3eca45d995fc56e6904119791376d991157f4733685221c874",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "WinUni Innwa",
+   "file": "WinUniInnwa_WinUniInnwa.ttf",
+   "version": "Version 3.15 July 14, 2010",
+   "size_bytes": 403872,
+   "sha256": "62a44ddceec12fde9f1d1ccccae2985e96f31073e8dba7c2c24831c26725fb57",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "YoeYar-One",
+   "file": "YoeYarOne_YoeYar-One-Bold.ttf",
+   "version": "Version 1.040 2012",
+   "size_bytes": 1469996,
+   "sha256": "26eede6a75ce0d0634e7b5b3ad101dcac353d7b3f4c198ae36061d31c887c4d4",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "YoeYar-One",
+   "file": "YoeYarOne_YoeYar-One-Light.ttf",
+   "version": "Version 1.040 2012",
+   "size_bytes": 1659924,
+   "sha256": "150bb17c0c84eba0b7574f5f0bbcfea0363bcd3f4c8c7c087ec09094d9e28d92",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "YoeYar-One",
+   "file": "YoeYarOne_YoeYar-One-Regular.ttf",
+   "version": "Version 1.040 2012",
+   "size_bytes": 1520268,
+   "sha256": "9d7f7f3c11be4dad52114fb04b6912e4ebfc0c6b18f7726855e52238d6fc6141",
+   "myanmar_block_covered": 85,
+   "myanmar_block_total": 160
+  },
+  {
+   "family": "Yunghkio",
+   "file": "Yunghkio_Yunghkio.ttf",
+   "version": "Version 1.1.2 January 25, 2011",
+   "size_bytes": 429740,
+   "sha256": "29eebd5fe2740b927c54415f33ce5befd47b16d9b5559a7f9ede228750aa9471",
+   "myanmar_block_covered": 160,
+   "myanmar_block_total": 160
+  }
+ ]
+}
